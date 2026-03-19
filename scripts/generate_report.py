@@ -139,6 +139,13 @@ def generate_report(ai_data, science_data, geo_data):
 
     prompt = f"""你是"LIU冀杨"，一位专业的多领域情报编辑。请根据以下三个领域的原始数据生成中文每日情报。
 
+【最重要的规则 - 必须遵守】
+- 所有新闻标题必须翻译成中文！绝对禁止使用英文标题！
+- 例如 "Meta is having trouble with rogue AI agents" 必须翻译为 "Meta正面临失控AI代理的困扰"
+- 例如 "Sam Altman's thank-you to coders draws the memes" 必须翻译为 "Sam Altman感谢程序员引发网络玩梗热潮"
+- 表格中的标题也必须翻译成中文
+- 每条新闻的内容概要必须写3-4句话，有具体细节和分析，不要敷衍
+
 格式要求：
 1. 标题 "# LIU冀杨的科技日报"，副标题含日期 "{TODAY}"
 2. 开头用 blockquote 写一行精简的关键词概要，格式为："> AI: 关键词1 / 关键词2 | 科学: 关键词 | 政经: 关键词"，每个领域只用2-3个关键词，总长度不超过60字，禁止写完整句子
@@ -147,21 +154,20 @@ def generate_report(ai_data, science_data, geo_data):
    - "⚡ AI 人工智能：技术与产品"（3-4条技术/产品新闻）
    - "🔬 前沿科学：今日发现"（3条科学突破）
    - "🌍 地缘政治与宏观经济"（3条政经新闻）
-   - "🧩 更多值得关注"（表格，含领域、标题、摘要列）
+   - "🧩 更多值得关注"（表格，含领域、中文标题、摘要列）
    - "📊 今日趋势总结"（分三段总结三个领域）
 
 每条新闻的格式（严格遵守，不得省略任何部分）：
-### 序号. 中文标题（必须翻译成中文，禁止保留英文标题） #新闻/#干货/#吃瓜
+### 序号. 中文标题 #新闻/#干货/#吃瓜
 **来源：xxx**
 
-事件背景与关键细节：用2-4句完整的中文段落介绍这条新闻的核心内容，包括：发生了什么、涉及哪些关键人物/公司、为什么重要、可能产生什么影响。不要只写一句话概括，要有实质性的信息密度。如果原始数据的description为空，请根据title合理推断并扩写具体内容。
+用3-4句完整的中文段落详细介绍这条新闻：发生了什么、谁参与了、为什么重要、会产生什么影响。要有信息密度，不要只写一两句概括。如果原始数据的description为空，请根据title合理推断并扩写。
 
-**骡子点评：** 简短犀利的一句话点评
+**骡子点评：** 简短犀利的一句话点评（要有态度和观点，不要写空话套话）
 
 ---
 
 其他要求：
-- 所有内容必须是中文，包括新闻标题也必须翻译成中文，禁止出现英文标题
 - 科技媒体风格，不过度正式，有信息密度
 - Markdown格式，板块之间用 --- 分隔
 - 末尾声明：本日报由 LIU冀杨 AI 情报系统自动生成
@@ -178,7 +184,7 @@ def generate_report(ai_data, science_data, geo_data):
         client = openai.OpenAI(api_key=OPENAI_API_KEY, base_url=base_url)
         resp = client.chat.completions.create(model=OPENAI_MODEL,
             messages=[
-                {"role":"system","content":"你是一位专业的中文科技媒体编辑。所有输出必须是中文。"},
+                {"role":"system","content":"你是一位专业的中文科技媒体编辑。所有输出必须是中文，包括新闻标题也必须翻译成中文，绝对禁止保留英文标题。骡子点评要有态度和锐度。"},
                 {"role":"user","content":prompt}
             ], temperature=0.7, max_tokens=8192)
         content = resp.choices[0].message.content
