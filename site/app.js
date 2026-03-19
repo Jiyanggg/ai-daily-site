@@ -154,6 +154,14 @@
     html = html.replace(/#干货/g, '<span class="tag tag-deep">#干货</span>');
     html = html.replace(/#吃瓜/g, '<span class="tag tag-drama">#吃瓜</span>');
 
+    // Style "骡子点评" lines
+    html = html.replace(/<strong>骡子点评[：:]\s*<\/strong>\s*/g,
+      '<strong class="comment-label">骡子点评：</strong>');
+
+    // Style "来源：xxx" lines
+    html = html.replace(/<strong>来源[：:]\s*(.*?)<\/strong>/g,
+      '<span class="source-badge">$1</span>');
+
     // Process h2s: add IDs, topic classes, and wrap sections
     const temp = document.createElement('div');
     temp.innerHTML = html;
