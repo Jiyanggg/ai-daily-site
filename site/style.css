@@ -19,6 +19,8 @@
   --topic-science-bg: #ecfdf5;
   --topic-geo: #f59e0b;
   --topic-geo-bg: #fffbeb;
+  --topic-econ: #06b6d4;
+  --topic-econ-bg: #ecfeff;
   --tag-news: #3b82f6;
   --tag-news-bg: #eff6ff;
   --tag-deep: #8b5cf6;
@@ -285,6 +287,7 @@ body {
 .report h2.topic-ai { background: var(--topic-ai-bg); color: var(--topic-ai); border-left: 3px solid var(--topic-ai); }
 .report h2.topic-science { background: var(--topic-science-bg); color: var(--topic-science); border-left: 3px solid var(--topic-science); }
 .report h2.topic-geo { background: var(--topic-geo-bg); color: var(--topic-geo); border-left: 3px solid var(--topic-geo); }
+.report h2.topic-economy { background: var(--topic-econ-bg); color: var(--topic-econ); border-left: 3px solid var(--topic-econ); }
 .report h2.topic-summary { background: var(--bg); color: var(--text-primary); border-left: 3px solid var(--border); }
 
 .report h3 {

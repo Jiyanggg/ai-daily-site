@@ -46,7 +46,8 @@
     const t = text.toLowerCase();
     if (/ai|人工智能|技术|产品|youtube|twitter|开发|编程|模型|gpu|芯片/.test(t)) return 'ai';
     if (/科学|研究|物理|生物|医|化学|太空|量子|nature|science|基因|天文/.test(t)) return 'science';
-    if (/地缘|政治|经济|宏观|军事|贸易|制裁|外交|市场|金融|央行|gdp|关税/.test(t)) return 'geopolitics';
+    if (/地缘|政治|军事|外交|制裁|冲突|战争/.test(t)) return 'geopolitics';
+    if (/经济|宏观|金融|市场|央行|gdp|关税|贸易|利率|通胀|股市/.test(t)) return 'economy';
     if (/总结|趋势|更多|关注/.test(t)) return 'summary';
     return '';
   }

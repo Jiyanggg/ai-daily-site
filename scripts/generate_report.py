@@ -111,15 +111,14 @@ def collect_science():
     return items
 
 
-# ─── Topic 3: Geopolitics & Macro Economy ────────────────────
+# ─── Topic 3: Geopolitics ─────────────────────────────────
 def collect_geopolitics():
-    print("[3/3] Collecting geopolitics & economy news...")
+    print("[3/4] Collecting geopolitics news...")
     items = []
 
     queries = [
         "geopolitics trade sanctions international relations today",
-        "Federal Reserve interest rate economy markets today",
-        "China US Europe trade policy tariffs 2026",
+        "China US Europe diplomacy military conflict 2026",
     ]
     for q in queries:
         results = firecrawl_search(q, limit=5)
@@ -132,12 +131,33 @@ def collect_geopolitics():
     return items
 
 
-# ─── LLM report generation ───────────────────────────────────
-def generate_report(ai_data, science_data, geo_data):
-    print("[4/4] Generating report via LLM...")
-    raw = json.dumps({"ai": ai_data, "science": science_data, "geopolitics": geo_data}, ensure_ascii=False, indent=2)
+# ─── Topic 4: Macro Economy ──────────────────────────────
+def collect_economy():
+    print("[4/4] Collecting macro economy news...")
+    items = []
 
-    prompt = f"""你是"LIU冀杨"，一位专业的多领域情报编辑。请根据以下三个领域的原始数据生成中文每日情报。
+    queries = [
+        "Federal Reserve interest rate economy markets today",
+        "stock market GDP inflation trade tariffs 2026",
+        "central bank monetary policy global economy today",
+    ]
+    for q in queries:
+        results = firecrawl_search(q, limit=5)
+        for r in results:
+            items.append({"title": r.get("title",""), "url": r.get("url",""),
+                          "description": r.get("snippet", r.get("description","")),
+                          "source": r.get("url","").split("/")[2] if r.get("url") else "Web"})
+
+    print(f"  Economy: {len(items)} items")
+    return items
+
+
+# ─── LLM report generation ───────────────────────────────────
+def generate_report(ai_data, science_data, geo_data, econ_data):
+    print("[5/5] Generating report via LLM...")
+    raw = json.dumps({"ai": ai_data, "science": science_data, "geopolitics": geo_data, "economy": econ_data}, ensure_ascii=False, indent=2)
+
+    prompt = f"""你是"LIU冀杨"，一位专业的多领域情报编辑。请根据以下四个领域的原始数据生成中文每日情报。
 
 【最重要的规则 - 必须遵守】
 - 所有新闻标题必须翻译成中文！绝对禁止使用英文标题！
@@ -148,14 +168,15 @@ def generate_report(ai_data, science_data, geo_data):
 
 格式要求：
 1. 标题 "# LIU冀杨的科技日报"，副标题含日期 "{TODAY}"
-2. 开头用 blockquote 写一行精简的关键词概要，格式为："> AI: 关键词1 / 关键词2 | 科学: 关键词 | 政经: 关键词"，每个领域只用2-3个关键词，总长度不超过60字，禁止写完整句子
+2. 开头用 blockquote 写一行精简的关键词概要，格式为："> AI: 关键词 / 关键词 | 科学: 关键词 | 地缘: 关键词 | 经济: 关键词"，每个领域只用2-3个关键词，总长度不超过80字，禁止写完整句子
 3. 分为以下板块（每个板块用 ## 标题）：
    - "⚡ AI 人工智能：今日头条"（2-3条重磅AI新闻）
    - "⚡ AI 人工智能：技术与产品"（3-4条技术/产品新闻）
    - "🔬 前沿科学：今日发现"（3条科学突破）
-   - "🌍 地缘政治与宏观经济"（3条政经新闻）
+   - "🌍 地缘政治"（3条国际政治/外交/军事新闻）
+   - "💰 宏观经济"（3条经济/金融/市场新闻）
    - "🧩 更多值得关注"（表格，含领域、中文标题、摘要列）
-   - "📊 今日趋势总结"（分三段总结三个领域）
+   - "📊 今日趋势总结"（分四段总结四个领域）
 
 每条新闻的格式（严格遵守，不得省略任何部分）：
 ### 序号. 中文标题 #新闻/#干货/#吃瓜
@@ -191,16 +212,16 @@ def generate_report(ai_data, science_data, geo_data):
         print(f"  LLM: generated {len(content)} chars")
         if len(content) < 200:
             print(f"[LLM] Warning: response too short, using fallback", file=sys.stderr)
-            return fallback_report(ai_data, science_data, geo_data)
+            return fallback_report(ai_data, science_data, geo_data, econ_data)
         return content
     except Exception as e:
         import traceback
         print(f"[LLM] Error: {e}", file=sys.stderr)
         traceback.print_exc(file=sys.stderr)
-        return fallback_report(ai_data, science_data, geo_data)
+        return fallback_report(ai_data, science_data, geo_data, econ_data)
 
 
-def fallback_report(ai, sci, geo):
+def fallback_report(ai, sci, geo, econ):
     lines = [f"# LIU冀杨的科技日报\n", f"**{TODAY}**\n", "---\n"]
     lines.append("## ⚡ AI 人工智能：今日头条\n")
     for i, item in enumerate(ai[:5], 1):
@@ -208,8 +229,11 @@ def fallback_report(ai, sci, geo):
     lines.append("---\n\n## 🔬 前沿科学：今日发现\n")
     for i, item in enumerate(sci[:3], 1):
         lines.append(f"### {i}. {item['title']} #干货\n{item.get('description','')}\n")
-    lines.append("---\n\n## 🌍 地缘政治与宏观经济\n")
+    lines.append("---\n\n## 🌍 地缘政治\n")
     for i, item in enumerate(geo[:3], 1):
+        lines.append(f"### {i}. {item['title']} #新闻\n{item.get('description','')}\n")
+    lines.append("---\n\n## 💰 宏观经济\n")
+    for i, item in enumerate(econ[:3], 1):
         lines.append(f"### {i}. {item['title']} #新闻\n{item.get('description','')}\n")
     lines.append("\n---\n*本日报由 LIU冀杨 AI 情报系统自动生成*\n")
     return "\n".join(lines)
@@ -223,11 +247,12 @@ def main():
     ai = collect_ai()
     sci = collect_science()
     geo = collect_geopolitics()
+    econ = collect_economy()
 
-    if not ai and not sci and not geo:
+    if not ai and not sci and not geo and not econ:
         print("ERROR: No data collected.", file=sys.stderr); sys.exit(1)
 
-    report = generate_report(ai, sci, geo) if OPENAI_API_KEY else fallback_report(ai, sci, geo)
+    report = generate_report(ai, sci, geo, econ) if OPENAI_API_KEY else fallback_report(ai, sci, geo, econ)
 
     path = REPORTS_DIR / f"{TODAY}.md"
     path.write_text(report, encoding="utf-8")
