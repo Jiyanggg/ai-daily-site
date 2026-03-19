@@ -1,0 +1,49 @@
+# AI Daily Report - GitHub Actions Workflow
+# Runs daily at 23:30 UTC (07:30 CST) to generate and publish the AI daily report.
+
+name: Generate AI Daily Report
+
+on:
+  schedule:
+    # 23:30 UTC = 07:30 CST (China Standard Time)
+    - cron: '30 23 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install openai requests
+
+      - name: Generate daily report
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL || 'https://api.openai.com/v1' }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || 'gpt-4o' }}
+        run: python scripts/generate_report.py
+
+      - name: Build site data
+        run: python scripts/build.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "AI Daily Bot"
+          git config user.email "bot@ai-daily.dev"
+          git add reports/ site/data/
+          DATE=$(date +%Y-%m-%d)
+          git diff --cached --quiet || git commit -m "Daily report: ${DATE}"
+          git push
