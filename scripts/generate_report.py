@@ -160,12 +160,26 @@ def generate_report(ai_data, science_data, geo_data):
 
     try:
         import openai
-        client = openai.OpenAI(api_key=OPENAI_API_KEY, base_url=OPENAI_BASE_URL)
+        base_url = OPENAI_BASE_URL.rstrip("/")
+        # DeepSeek uses https://api.deepseek.com (no /v1 suffix)
+        # The openai library appends /chat/completions automatically
+        print(f"  LLM: model={OPENAI_MODEL}, base_url={base_url}")
+        client = openai.OpenAI(api_key=OPENAI_API_KEY, base_url=base_url)
         resp = client.chat.completions.create(model=OPENAI_MODEL,
-            messages=[{"role":"user","content":prompt}], temperature=0.7, max_tokens=5000)
-        return resp.choices[0].message.content
+            messages=[
+                {"role":"system","content":"你是一位专业的中文科技媒体编辑。所有输出必须是中文。"},
+                {"role":"user","content":prompt}
+            ], temperature=0.7, max_tokens=8192)
+        content = resp.choices[0].message.content
+        print(f"  LLM: generated {len(content)} chars")
+        if len(content) < 200:
+            print(f"[LLM] Warning: response too short, using fallback", file=sys.stderr)
+            return fallback_report(ai_data, science_data, geo_data)
+        return content
     except Exception as e:
+        import traceback
         print(f"[LLM] Error: {e}", file=sys.stderr)
+        traceback.print_exc(file=sys.stderr)
         return fallback_report(ai_data, science_data, geo_data)
 
 
