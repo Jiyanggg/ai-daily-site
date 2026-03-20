@@ -22,7 +22,8 @@ FIRECRAWL_API_KEY = os.environ.get("FIRECRAWL_API_KEY", "")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1")
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o")
-TODAY = datetime.date.today().isoformat()
+# Use CST (UTC+8) to match Beijing time for daily report dating
+TODAY = (datetime.datetime.utcnow() + datetime.timedelta(hours=8)).strftime("%Y-%m-%d")
 
 
 # ─── Firecrawl helpers ───────────────────────────────────────

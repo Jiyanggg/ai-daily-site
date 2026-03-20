@@ -1,12 +1,13 @@
 # AI Daily Report - GitHub Actions Workflow
-# Runs daily at 23:30 UTC (07:30 CST) to generate and publish the AI daily report.
+# Runs daily at 23:20 UTC (07:20 CST) to generate and publish the AI daily report.
+# Note: GitHub Actions cron can delay 10-30 min, so we schedule early to hit ~07:30 CST.
 
 name: Generate AI Daily Report
 
 on:
   schedule:
-    # 23:30 UTC = 07:30 CST (China Standard Time)
-    - cron: '30 23 * * *'
+    # 23:20 UTC = 07:20 CST (China Standard Time), accounting for GH delay
+    - cron: '20 23 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -44,6 +45,6 @@ jobs:
           git config user.name "AI Daily Bot"
           git config user.email "bot@ai-daily.dev"
           git add reports/ site/data/
-          DATE=$(date +%Y-%m-%d)
+          DATE=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
           git diff --cached --quiet || git commit -m "Daily report: ${DATE}"
           git push
