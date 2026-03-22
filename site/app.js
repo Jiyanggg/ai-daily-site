@@ -3,7 +3,8 @@
  * Multi-topic daily intelligence report viewer.
  */
 (function () {
-  const BASE = '';
+  // Use relative paths — works on both root domains and GitHub Pages subpaths
+  const BASE = '.';
   const reportContent = document.getElementById('reportContent');
   const reportNav = document.getElementById('reportNav');
   const tocList = document.getElementById('tocList');
