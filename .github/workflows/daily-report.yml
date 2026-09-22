@@ -1,14 +1,10 @@
-# AI Daily Report - GitHub Actions Workflow
-# Runs daily at 23:20 UTC (07:20 CST) to generate and publish the AI daily report.
-# Note: GitHub Actions cron can delay 10-30 min, so we schedule early to hit ~07:30 CST.
-
-name: Generate AI Daily Report
+name: Update narrative radar
 
 on:
   schedule:
-    # 23:20 UTC = 07:20 CST (China Standard Time), accounting for GH delay
-    - cron: '20 23 * * *'
-  workflow_dispatch: # Allow manual trigger
+    # 00:00 UTC = 08:00 Asia/Shanghai.
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,16 +12,15 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: narrative-radar-pages
+  cancel-in-progress: true
 
 jobs:
-  generate-and-deploy:
+  update-and-deploy:
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -33,38 +28,26 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
-      - name: Install dependencies
-        run: pip install openai requests
+      - name: Fetch yesterday's public RSS signals
+        run: python scripts/fetch_news.py
 
-      - name: Generate daily report
-        env:
-          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL || 'https://api.openai.com/v1' }}
-          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || 'gpt-4o' }}
-        run: python scripts/generate_report.py
-
-      - name: Build site data
-        run: python scripts/build.py
-
-      - name: Commit and push
+      - name: Commit updated data
         run: |
-          git config user.name "AI Daily Bot"
-          git config user.email "bot@ai-daily.dev"
-          git add reports/ site/data/
-          DATE=$(TZ='Asia/Shanghai' date +%Y-%m-%d)
-          git diff --cached --quiet || git commit -m "Daily report: ${DATE}"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add site/data/news.json site/data/report.md
+          git diff --cached --quiet || git commit -m "chore: update narrative radar"
           git push
 
-      - name: Setup Pages
+      - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'site'
+          path: site
 
       - name: Deploy to GitHub Pages
         id: deployment

@@ -1,234 +1,98 @@
-/**
- * LIU冀杨的科技日报 - Frontend App v3
- * Multi-topic daily intelligence report viewer.
- */
-(function () {
-  // Use relative paths — works on both root domains and GitHub Pages subpaths
-  const BASE = '.';
-  const reportContent = document.getElementById('reportContent');
-  const reportNav = document.getElementById('reportNav');
-  const tocList = document.getElementById('tocList');
-  const topicTabs = document.getElementById('topicTabs');
-  const backToTop = document.getElementById('backToTop');
+const bootstrapData = {
+  demo: true,
+  reportDate: "2026-09-20",
+  generatedAt: "2026-09-21T00:00:00+08:00",
+  headline: "演示快照：AI Agent、中文热梗与动物表情正在争夺注意力",
+  summary: "这是项目首次发布时的演示数据。GitHub Actions 首次运行后，会自动替换为前一天的公开 RSS 新闻；没有可靠新增时不会用旧新闻填充。",
+  events: [
+    { id: "demo-muse", title: "Meta Muse：能在电脑上执行操作的 AI 助手", category: "AI 科技", priority: "S", status: "演示快照", occurredAt: "2026-09-19", summary: "AI 助手从聊天窗口走进桌面环境，可以处理文件、消息、日历和笔记。", why: "‘AI 有手了’是容易跨圈传播的产品叙事。", keywords: ["META MUSE", "DESKTOP AGENT", "COMPUTER USE"], sources: [{ name: "TechCrunch", url: "https://techcrunch.com/" }], risk: "产品名与商标风险", chainFit: "高" },
+    { id: "demo-agents", title: "37,000 个 AI Agent 运行虚拟生物科技实验室", category: "AI 科技", priority: "S", status: "演示快照", occurredAt: "2026-09-18", summary: "大规模 Agent 协作执行生物科技研究任务，形成‘AI 科学家蜂群’叙事。", why: "数字规模明确，容易转化为口号和社区二创。", keywords: ["37000 AGENTS", "VIRTUAL BIOTECH", "AI SCIENTIST SWARM"], sources: [{ name: "HPCwire", url: "https://www.hpcwire.com/" }], risk: "研究结论需核验", chainFit: "高" },
+    { id: "demo-iphone18", title: "爱疯18：胡一菲擀面杖手机梗被现实召回", category: "中文热梗", priority: "S", status: "再热", occurredAt: "2026-09-19", summary: "《爱情公寓》里‘爱疯18怎么用’的旧桥段，因为现实产品发布重新进入中文社区。", why: "旧影视记忆与现实事件重叠，具备现成台词、人物和画面。", keywords: ["爱疯18", "胡一菲", "擀面杖手机", "IPHONE 18 MEME"], sources: [{ name: "新浪财经", url: "https://finance.sina.com.cn/" }], risk: "影视版权与品牌风险", chainFit: "高" },
+    { id: "demo-pearl", title: "完全澳白大珍珠 / 珍珠拟人", category: "中文热梗", priority: "A", status: "新热", occurredAt: "2026-09-19", summary: "网友用‘完全澳白大珍珠’形容人物妆造，形成可复制的人设标签。", why: "一句话即可完成视觉人格化，适合图片、头像和二创。", keywords: ["完全澳白大珍珠", "珍珠拟人", "AUSTRALIAN PEARL"], sources: [{ name: "新浪财经", url: "https://finance.sina.com.cn/" }], risk: "名人形象与营销争议", chainFit: "中" },
+    { id: "demo-opossum", title: "负鼠背手 / 一起毁灭吧", category: "动物表情", priority: "A", status: "常驻再启动", occurredAt: "2026-05-29", summary: "北美负鼠背手直立的照片，被中文社区改写成社畜和摆烂表情。", why: "动物形象、动作和口号三者已经绑定，二创门槛低。", keywords: ["负鼠背手", "一起毁灭吧", "OPOSSUM MEME"], sources: [{ name: "腾讯新闻", url: "https://news.qq.com/" }], risk: "旧梗，需确认是否重新爆发", chainFit: "中" },
+    { id: "demo-brainrot", title: "Tung Tung Sahur / AI 脑腐角色", category: "虚拟角色", priority: "A", status: "持续传播", occurredAt: "2026-09-18", summary: "AI 生成的荒诞角色继续在中文社区被翻译、配音和重新命名。", why: "角色名短、图像强、可衍生多个变体，适合跨语言传播。", keywords: ["TUNG TUNG SAHUR", "AI 脑腐", "BRAINROT"], sources: [{ name: "Law360", url: "https://www.law360.com/" }], risk: "版权与商标争议", chainFit: "高" }
+  ]
+};
 
-  let currentReports = [];
-  let currentDate = '';
-  let currentTopic = 'all';
+const state = { data: bootstrapData, priority: "all", category: "all", query: "" };
+const $ = (selector) => document.querySelector(selector);
 
-  marked.setOptions({ breaks: true, gfm: true });
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" }[char]));
+}
 
-  // ─── Data loading ──────────────────────────────────────────
-  async function loadIndex() {
-    try {
-      const res = await fetch(`${BASE}/data/reports-index.json`);
-      if (!res.ok) throw new Error();
-      return await res.json();
-    } catch { return null; }
-  }
+function formatDate(value) {
+  if (!value || value === "demo") return "演示快照";
+  const date = new Date(`${value}T00:00:00+08:00`);
+  return Number.isNaN(date.getTime()) ? value : new Intl.DateTimeFormat("zh-CN", { month: "short", day: "numeric" }).format(date);
+}
 
-  async function loadReport(date) {
-    try {
-      const res = await fetch(`${BASE}/data/${date}.md`);
-      if (!res.ok) throw new Error();
-      return await res.text();
-    } catch { return null; }
-  }
+function formatGeneratedAt(value) {
+  if (!value) return "等待自动更新";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return `更新于 ${new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" }).format(date)}`;
+}
 
-  // ─── Helpers ───────────────────────────────────────────────
-  function formatDate(dateStr) {
-    const d = new Date(dateStr + 'T00:00:00');
-    const m = d.getMonth() + 1, day = d.getDate();
-    const wd = ['日','一','二','三','四','五','六'][d.getDay()];
-    return `${m}月${day}日 周${wd}`;
-  }
-
-  /** Detect topic of an h2 based on its text content */
-  function detectTopic(text) {
-    const t = text.toLowerCase();
-    if (/ai|人工智能|技术|产品|youtube|twitter|开发|编程|模型|gpu|芯片/.test(t)) return 'ai';
-    if (/科学|研究|物理|生物|医|化学|太空|量子|nature|science|基因|天文/.test(t)) return 'science';
-    if (/地缘|政治|军事|外交|制裁|冲突|战争/.test(t)) return 'geopolitics';
-    if (/经济|宏观|金融|市场|央行|gdp|关税|贸易|利率|通胀|股市/.test(t)) return 'economy';
-    if (/总结|趋势|更多|关注/.test(t)) return 'summary';
-    return '';
-  }
-
-  // ─── Date navigation ───────────────────────────────────────
-  function renderDateNav(reports, activeDate) {
-    reportNav.innerHTML = '';
-    reports.forEach(r => {
-      const el = document.createElement('a');
-      el.className = 'nav-item' + (r.date === activeDate ? ' active' : '');
-      el.textContent = formatDate(r.date);
-      el.href = `#${r.date}`;
-      el.addEventListener('click', e => {
-        e.preventDefault();
-        showReport(r.date, reports);
-        history.pushState(null, '', `#${r.date}`);
-      });
-      reportNav.appendChild(el);
-    });
-  }
-
-  // ─── Topic tabs ────────────────────────────────────────────
-  function initTopicTabs() {
-    topicTabs.querySelectorAll('.topic-tab').forEach(btn => {
-      btn.addEventListener('click', () => {
-        currentTopic = btn.dataset.topic;
-        topicTabs.querySelectorAll('.topic-tab').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        filterSections();
-      });
-    });
-  }
-
-  function filterSections() {
-    const sections = reportContent.querySelectorAll('[data-topic]');
-    sections.forEach(sec => {
-      if (currentTopic === 'all' || sec.dataset.topic === currentTopic || sec.dataset.topic === 'summary') {
-        sec.style.display = '';
-      } else {
-        sec.style.display = 'none';
-      }
-    });
-    // Update TOC visibility
-    tocList.querySelectorAll('.toc-link').forEach(link => {
-      const topic = link.dataset.topic || '';
-      if (currentTopic === 'all' || topic === currentTopic || topic === 'summary') {
-        link.style.display = '';
-      } else {
-        link.style.display = 'none';
-      }
-    });
-  }
-
-  // ─── TOC sidebar ───────────────────────────────────────────
-  function buildToc(container) {
-    tocList.innerHTML = '';
-    const h2s = container.querySelectorAll('h2[id]');
-    h2s.forEach(h2 => {
-      const a = document.createElement('a');
-      a.className = 'toc-link';
-      a.textContent = h2.textContent.trim();
-      a.href = `#${h2.id}`;
-      a.dataset.topic = h2.dataset.topic || '';
-      a.addEventListener('click', e => {
-        e.preventDefault();
-        h2.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      });
-      tocList.appendChild(a);
-    });
-  }
-
-  // Highlight current section in TOC on scroll
-  function setupScrollSpy() {
-    const observer = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          const id = entry.target.id;
-          tocList.querySelectorAll('.toc-link').forEach(l => l.classList.remove('active'));
-          const active = tocList.querySelector(`.toc-link[href="#${id}"]`);
-          if (active) active.classList.add('active');
-        }
-      });
-    }, { rootMargin: '-80px 0px -70% 0px' });
-
-    reportContent.querySelectorAll('h2[id]').forEach(h2 => observer.observe(h2));
-  }
-
-  // ─── Render report ─────────────────────────────────────────
-  async function showReport(date, reports) {
-    currentDate = date;
-    reportContent.innerHTML = '<div class="loading">加载中...</div>';
-    tocList.innerHTML = '';
-    renderDateNav(reports, date);
-
-    const md = await loadReport(date);
-    if (!md) {
-      reportContent.innerHTML = '<div class="loading">暂无该日期的日报</div>';
-      return;
-    }
-
-    let html = marked.parse(md);
-
-    // Style tags
-    html = html.replace(/#新闻/g, '<span class="tag tag-news">#新闻</span>');
-    html = html.replace(/#干货/g, '<span class="tag tag-deep">#干货</span>');
-    html = html.replace(/#吃瓜/g, '<span class="tag tag-drama">#吃瓜</span>');
-
-    // Style "骡子点评" lines
-    html = html.replace(/<strong>骡子点评[：:]\s*<\/strong>\s*/g,
-      '<strong class="comment-label">骡子点评：</strong>');
-
-    // Style "来源：xxx" lines
-    html = html.replace(/<strong>来源[：:]\s*(.*?)<\/strong>/g,
-      '<span class="source-badge">$1</span>');
-
-    // Process h2s: add IDs, topic classes, and wrap sections
-    const temp = document.createElement('div');
-    temp.innerHTML = html;
-
-    const allH2 = temp.querySelectorAll('h2');
-    allH2.forEach((h2, i) => {
-      const id = 'sec-' + i;
-      h2.id = id;
-      const topic = detectTopic(h2.textContent);
-      if (topic) {
-        h2.classList.add('topic-' + topic);
-        h2.dataset.topic = topic;
-      }
-    });
-
-    // Wrap each h2 + its content in a section with data-topic
-    const children = Array.from(temp.childNodes);
-    const wrapped = document.createElement('div');
-    let currentSection = null;
-
-    children.forEach(node => {
-      if (node.nodeType === 1 && node.tagName === 'H2') {
-        currentSection = document.createElement('section');
-        currentSection.dataset.topic = node.dataset.topic || '';
-        currentSection.appendChild(node);
-        wrapped.appendChild(currentSection);
-      } else if (currentSection) {
-        currentSection.appendChild(node);
-      } else {
-        wrapped.appendChild(node);
-      }
-    });
-
-    reportContent.innerHTML = wrapped.innerHTML;
-
-    // Build TOC & scroll spy
-    buildToc(reportContent);
-    setupScrollSpy();
-    filterSections();
-  }
-
-  // ─── Back to top ───────────────────────────────────────────
-  window.addEventListener('scroll', () => {
-    backToTop.classList.toggle('visible', window.scrollY > 400);
+function filteredEvents() {
+  const query = state.query.trim().toLowerCase();
+  return (state.data.events || []).filter((event) => {
+    const matchesPriority = state.priority === "all" || event.priority === state.priority;
+    const matchesCategory = state.category === "all" || event.category === state.category;
+    const haystack = [event.title, event.category, event.status, event.summary, event.why, ...(event.keywords || [])].join(" ").toLowerCase();
+    return matchesPriority && matchesCategory && (!query || haystack.includes(query));
   });
-  backToTop.addEventListener('click', () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  });
+}
 
-  // ─── Init ──────────────────────────────────────────────────
-  async function init() {
-    initTopicTabs();
+function eventCard(event) {
+  const sources = (event.sources || []).map((source) => `<a class="source-link" href="${escapeHtml(source.url)}" target="_blank" rel="noreferrer">${escapeHtml(source.name)}</a>`).join("");
+  const keywords = (event.keywords || []).map((keyword) => `<span class="keyword">${escapeHtml(keyword)}</span>`).join("");
+  return `<article class="event-card priority-${escapeHtml(event.priority)}">
+    <div class="event-topline"><div class="event-meta"><span class="priority-badge">${escapeHtml(event.priority)} 级</span><span class="category-badge">${escapeHtml(event.category)}</span><span class="status-badge">${escapeHtml(event.status)}</span></div><time class="event-date">${escapeHtml(formatDate(event.occurredAt))}</time></div>
+    <h3>${escapeHtml(event.title)}</h3>
+    <p class="event-summary">${escapeHtml(event.summary)}</p>
+    <div class="event-details"><div><span class="detail-label">为什么值得看</span><p class="detail-text">${escapeHtml(event.why)}</p></div><div><span class="detail-label">检索词</span><div class="keyword-list">${keywords}</div></div></div>
+    <div class="event-footer"><span class="risk-label">风险：${escapeHtml(event.risk || "待人工核验")}</span><div class="source-list">${sources}</div></div>
+  </article>`;
+}
 
-    const index = await loadIndex();
-    if (!index || !index.reports || index.reports.length === 0) {
-      reportContent.innerHTML = '<div class="loading">暂无日报数据。首篇日报将在明早 07:30 自动发布。</div>';
-      return;
-    }
+function render() {
+  const events = filteredEvents();
+  const counts = { S: 0, A: 0, B: 0 };
+  const sources = new Set();
+  (state.data.events || []).forEach((event) => { if (counts[event.priority] !== undefined) counts[event.priority] += 1; (event.sources || []).forEach((source) => sources.add(source.name)); });
+  $("#report-date").textContent = formatDate(state.data.reportDate);
+  $("#generated-time").textContent = formatGeneratedAt(state.data.generatedAt);
+  $("#report-headline").textContent = state.data.headline || "昨日暂无明确新增重点";
+  $("#report-summary").textContent = state.data.summary || "没有足够可靠的新信息。";
+  $("#metric-total").textContent = (state.data.events || []).length;
+  $("#metric-s").textContent = counts.S;
+  $("#metric-a").textContent = counts.A;
+  $("#metric-b").textContent = counts.B;
+  $("#metric-sources").textContent = sources.size;
+  $("#result-count").textContent = `${events.length} 条`;
+  $("#event-list").innerHTML = events.map(eventCard).join("");
+  $("#empty-state").hidden = events.length > 0;
+  document.title = `${state.data.headline || "每日叙事雷达"} · Signal Desk`;
+}
 
-    currentReports = index.reports.sort((a, b) => b.date.localeCompare(a.date));
-    const hash = location.hash.replace('#', '');
-    const target = currentReports.find(r => r.date === hash) ? hash : currentReports[0].date;
-    showReport(target, currentReports);
+function bindFilters() {
+  $("#search-input").addEventListener("input", (event) => { state.query = event.target.value; render(); });
+  $("#clear-filters").addEventListener("click", () => { state.priority = "all"; state.category = "all"; state.query = ""; $("#search-input").value = ""; document.querySelectorAll(".filter-button").forEach((button) => button.classList.toggle("is-active", button.dataset.priority === "all" || button.dataset.category === "all")); render(); });
+  document.querySelectorAll("[data-priority]").forEach((button) => button.addEventListener("click", () => { state.priority = button.dataset.priority; document.querySelectorAll("[data-priority]").forEach((item) => item.classList.toggle("is-active", item === button)); render(); }));
+  document.querySelectorAll("[data-category]").forEach((button) => button.addEventListener("click", () => { state.category = button.dataset.category; document.querySelectorAll("[data-category]").forEach((item) => item.classList.toggle("is-active", item === button)); render(); }));
+}
+
+async function loadData() {
+  try {
+    const response = await fetch(`./data/news.json?ts=${Date.now()}`);
+    if (!response.ok) throw new Error("news.json unavailable");
+    state.data = await response.json();
+  } catch (error) {
+    console.warn("Using bootstrap data:", error);
   }
+  render();
+}
 
-  window.addEventListener('popstate', init);
-  init();
-})();
+bindFilters();
+loadData();

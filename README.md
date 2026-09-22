@@ -1,76 +1,33 @@
-# LIU冀杨的 AI 日报 - 自动化网站
+# Signal Desk · 每日叙事雷达
 
-每日 20:30 (CST) 自动抓取 YouTube / TechCrunch / Twitter 上的 AI 热点新闻，翻译成中文并生成日报。
+这是一个静态新闻聚合器，聚焦 AI 科技、重大创新突破、AI 生成文化，以及中文社区传播度高的热梗、标语、表情、动物和虚拟角色。
 
-## 快速部署
+项目主动排除战争、灾害、事故、选举、政治人物健康和公共安全等重大社会公共事件。它只整理可验证的叙事线索，不提供买卖建议。
 
-### 1. 创建 GitHub 仓库
+## 自动更新
+
+`.github/workflows/daily-report.yml` 每天 **UTC 00:00（北京时间 08:00）** 运行：
+
+1. 从公开 Google News RSS 获取前一天的条目；
+2. 过滤重大社会公共事件并按 S/A/B 优先级整理；
+3. 写入 `site/data/news.json` 和 `site/data/report.md`；
+4. 自动提交数据更新；
+5. 将 `site/` 部署到 GitHub Pages。
+
+不需要 Firecrawl、OpenAI 或其他 API Key。网络源不可用时，报告会明确显示“暂无足够可靠的新增重点”，不会使用旧新闻填充。
+
+## 本地运行
 
 ```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/你的用户名/ai-daily.git
-git push -u origin main
+python scripts/fetch_news.py
 ```
 
-### 2. 设置 GitHub Secrets
+直接打开 `site/index.html` 可以查看前端；开发预览可运行：
 
-在仓库 Settings → Secrets and variables → Actions 中添加：
-
-| Secret 名称 | 必需 | 说明 |
-|---|---|---|
-| `FIRECRAWL_API_KEY` | 是 | [Firecrawl](https://firecrawl.dev) API 密钥，用于网页抓取 |
-| `OPENAI_API_KEY` | 是 | OpenAI API 密钥，用于生成中文日报 |
-| `OPENAI_BASE_URL` | 否 | 自定义 API 地址（默认 `https://api.openai.com/v1`） |
-| `OPENAI_MODEL` | 否 | 模型名称（默认 `gpt-4o`） |
-
-### 3. 部署到 Vercel
-
-1. 登录 [vercel.com](https://vercel.com)，点击 "Import Project"
-2. 选择你的 GitHub 仓库
-3. 设置：
-   - **Framework Preset**: Other
-   - **Root Directory**: `site`
-   - **Build Command**: 留空
-   - **Output Directory**: `.`
-4. 部署完成后会获得一个 `xxx.vercel.app` 域名
-
-### 4. 手动触发测试
-
-在 GitHub 仓库 → Actions → "Generate AI Daily Report" → Run workflow
-
-## 项目结构
-
-```
-ai-daily-site/
-├── .github/workflows/
-│   └── daily-report.yml    # GitHub Actions 定时任务
-├── reports/                 # 生成的 Markdown 日报 (按日期命名)
-│   └── 2026-03-18.md
-├── scripts/
-│   ├── generate_report.py   # 抓取 + AI 生成脚本
-│   └── build.py             # 构建网站数据
-├── site/                    # 静态网站 (部署到 Vercel)
-│   ├── index.html
-│   ├── style.css
-│   ├── app.js
-│   └── data/                # 构建后的数据文件
-│       ├── reports-index.json
-│       └── 2026-03-18.md
-└── vercel.json              # Vercel 配置
+```bash
+python -m http.server 4173 --directory site
 ```
 
-## 工作流程
+## 人工核验
 
-1. 每天 20:30 CST，GitHub Actions 自动执行
-2. `generate_report.py` 通过 Firecrawl 抓取三个数据源
-3. 调用 OpenAI 将原始数据翻译整理成中文日报
-4. `build.py` 将 Markdown 复制到 `site/data/` 并更新索引
-5. 自动 commit + push，Vercel 检测到更新后自动部署
-
-## 自定义
-
-- 修改 `scripts/generate_report.py` 中的 prompt 来调整日报风格
-- 修改 `site/style.css` 来调整网站外观
-- 修改 cron 表达式 `30 12 * * *` 来调整发布时间（UTC 时区）
+“有传播度”不等于“有代币价值”。请自行核对代币创建时间、是否有明显龙头、流动性、持仓集中度、部署者历史和撤池风险。IP、品牌、名人和影视角色相关线索还要额外考虑版权与仿冒风险。

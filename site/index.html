@@ -1,94 +1,137 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LIU冀杨的科技日报</title>
-  <meta name="description" content="AI·前沿科学·地缘政治·宏观经济 | 四大领域每日情报聚合">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700;900&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=6">
-</head>
-<body>
-
-  <!-- Header -->
-  <header class="site-header">
-    <div class="container-wide">
-      <div class="header-inner">
-        <a href="/" class="logo">
-          <span class="logo-icon">JY</span>
-          <div class="logo-info">
-            <span class="logo-text">LIU冀杨的科技日报</span>
-            <span class="logo-sub">AI · 前沿科学 · 地缘政治 · 宏观经济</span>
-          </div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#101516" />
+    <meta
+      name="description"
+      content="AI 科技与中文互联网热梗的每日观察报告，用于人工筛选潜在链上叙事。"
+    />
+    <title>Signal Desk · 每日叙事雷达</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <a class="brand" href="./">
+          <span class="brand-mark" aria-hidden="true">SD</span>
+          <span>
+            <strong>Signal Desk</strong>
+            <small>每日叙事雷达</small>
+          </span>
         </a>
-        <p class="header-tagline">每早 07:30 自动更新</p>
-      </div>
-    </div>
-  </header>
+        <div class="topbar-actions">
+          <span class="live-indicator"><i></i>自动更新</span>
+          <a class="icon-button" href="./data/report.md" target="_blank" rel="noreferrer" title="打开文字报告" aria-label="打开文字报告">↗</a>
+        </div>
+      </header>
 
-  <!-- Date Navigation -->
-  <div class="date-bar">
-    <div class="container-wide">
-      <nav class="report-nav" id="reportNav"></nav>
-    </div>
-  </div>
-
-  <!-- Main Content -->
-  <main class="main-content">
-    <div class="container-wide">
-
-      <!-- Topic Tabs -->
-      <div class="topic-tabs" id="topicTabs">
-        <button class="topic-tab active" data-topic="all">
-          <span class="tab-icon">&#9776;</span> 全部
-        </button>
-        <button class="topic-tab" data-topic="ai">
-          <span class="tab-icon">&#9889;</span> AI 人工智能
-        </button>
-        <button class="topic-tab" data-topic="science">
-          <span class="tab-icon">&#128300;</span> 前沿科学
-        </button>
-        <button class="topic-tab" data-topic="geopolitics">
-          <span class="tab-icon">&#127758;</span> 地缘政治
-        </button>
-        <button class="topic-tab" data-topic="economy">
-          <span class="tab-icon">&#128176;</span> 宏观经济
-        </button>
-      </div>
-
-      <!-- Report Content -->
-      <div class="report-layout">
-        <!-- TOC Sidebar -->
-        <aside class="toc-sidebar" id="tocSidebar">
-          <div class="toc-sticky">
-            <p class="toc-heading">目录导航</p>
-            <div class="toc-list" id="tocList"></div>
+      <main>
+        <section class="hero-band">
+          <div class="hero-copy">
+            <p class="eyebrow">AI / MEME / CULTURE SIGNALS</p>
+            <h1>把昨天的噪音，整理成今天可验证的叙事。</h1>
+            <p class="hero-description">
+              聚合 AI 科技、创新突破与中文社区热梗。这里只做线索整理，不替你做交易判断。
+            </p>
           </div>
-        </aside>
+          <div class="report-stamp">
+            <span>报告日期</span>
+            <strong id="report-date">加载中</strong>
+            <small id="generated-time">正在读取数据</small>
+          </div>
+        </section>
 
-        <!-- Article Body -->
-        <article class="report" id="reportContent">
-          <div class="loading">加载中...</div>
-        </article>
-      </div>
+        <section class="metric-row" aria-label="报告概览">
+          <div class="metric-block">
+            <span>重点线索</span>
+            <strong id="metric-total">-</strong>
+          </div>
+          <div class="metric-block metric-s">
+            <span>S 级</span>
+            <strong id="metric-s">-</strong>
+          </div>
+          <div class="metric-block metric-a">
+            <span>A 级</span>
+            <strong id="metric-a">-</strong>
+          </div>
+          <div class="metric-block metric-b">
+            <span>B 级</span>
+            <strong id="metric-b">-</strong>
+          </div>
+          <div class="metric-block metric-sources">
+            <span>来源数</span>
+            <strong id="metric-sources">-</strong>
+          </div>
+        </section>
 
+        <section class="briefing-band">
+          <div>
+            <p class="eyebrow">DAILY BRIEFING</p>
+            <h2 id="report-headline">正在生成今日摘要</h2>
+          </div>
+          <p id="report-summary" class="briefing-summary">数据载入后显示前一天的重点摘要。</p>
+        </section>
+
+        <section class="workspace" aria-label="新闻线索">
+          <aside class="filter-panel">
+            <div class="panel-heading">
+              <span class="eyebrow">筛选</span>
+              <button class="text-button" id="clear-filters" type="button">清除</button>
+            </div>
+            <label class="search-box">
+              <span aria-hidden="true">⌕</span>
+              <input id="search-input" type="search" placeholder="搜索梗、角色、关键词" autocomplete="off" />
+            </label>
+            <div class="filter-group">
+              <span class="filter-label">优先级</span>
+              <div class="filter-buttons" id="priority-filters">
+                <button class="filter-button is-active" data-priority="all" type="button">全部</button>
+                <button class="filter-button" data-priority="S" type="button">S 级</button>
+                <button class="filter-button" data-priority="A" type="button">A 级</button>
+                <button class="filter-button" data-priority="B" type="button">B 级</button>
+              </div>
+            </div>
+            <div class="filter-group">
+              <span class="filter-label">主题</span>
+              <div class="filter-buttons" id="category-filters">
+                <button class="filter-button is-active" data-category="all" type="button">全部</button>
+                <button class="filter-button" data-category="AI 科技" type="button">AI 科技</button>
+                <button class="filter-button" data-category="中文热梗" type="button">中文热梗</button>
+                <button class="filter-button" data-category="动物表情" type="button">动物表情</button>
+                <button class="filter-button" data-category="虚拟角色" type="button">虚拟角色</button>
+              </div>
+            </div>
+            <div class="scope-note">
+              <span class="note-dot"></span>
+              <p>已排除战争、灾害、选举、事故等重大社会公共事件。</p>
+            </div>
+          </aside>
+
+          <div class="results-panel">
+            <div class="results-heading">
+              <div>
+                <span class="eyebrow">SIGNAL BOARD</span>
+                <h2>今日重点关注</h2>
+              </div>
+              <span class="result-count" id="result-count">0 条</span>
+            </div>
+            <div id="event-list" class="event-list" aria-live="polite"></div>
+            <div id="empty-state" class="empty-state" hidden>
+              <span class="empty-icon">—</span>
+              <h3>前一天没有足够可靠的新重点</h3>
+              <p>系统不会用旧新闻填充。可以清除筛选，或等待下一次自动更新。</p>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <span>Signal Desk · 人工验证优先</span>
+        <span>数据由 GitHub Actions 每日更新</span>
+      </footer>
     </div>
-  </main>
-
-  <!-- Back to Top -->
-  <button class="back-to-top" id="backToTop" title="返回顶部">&#8593;</button>
-
-  <!-- Footer -->
-  <footer class="site-footer">
-    <div class="container-wide">
-      <p>LIU冀杨的科技日报 · AI / 前沿科学 / 地缘政治 / 宏观经济</p>
-      <p class="footer-note">内容由 AI 自动抓取整理翻译，仅供参考 · 每日 07:30 CST 自动发布</p>
-    </div>
-  </footer>
-
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script src="app.js?v=6"></script>
+    <script src="./app.js" defer></script>
 </body>
 </html>
