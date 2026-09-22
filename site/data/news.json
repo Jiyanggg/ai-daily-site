@@ -1,163 +1,140 @@
 {
   "demo": false,
   "reportDate": "2026-09-21",
-  "generatedAt": "2026-09-22T17:08:28+08:00",
-  "headline": "昨日捕捉到 7 条可验证的 AI 与互联网文化信号",
-  "summary": "70 强项目观察之前沿探索：AI 进入科学发现，答案之外还要验证什么；AI 制药真正的 Scaling Law来了？；AI时代，我们需要什么样的学术规范。建议先核验 S 级条目的原始来源和链上创建时间。",
-  "sourceCount": 7,
+  "generatedAt": "2026-09-22T19:38:34+08:00",
+  "headline": "昨日捕捉到 4 条经过分层验证的 AI 与互联网文化信号",
+  "summary": "优先查看：Meta Muse；Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini；Higgsfield AI ships new video features in a day with GPT-6 Astra。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。",
+  "sourceCount": 3,
   "events": [
     {
-      "id": "2026-09-21-1-70强项目观察之前沿探索ai进入科学发现答案之外还要验证什么",
-      "title": "70 强项目观察之前沿探索：AI 进入科学发现，答案之外还要验证什么",
+      "id": "2026-09-21-1-metamuse",
+      "title": "Meta Muse",
+      "canonicalSignal": "Meta Muse",
       "category": "AI 科技",
       "priority": "A",
-      "status": "新热",
+      "status": "持续传播",
       "occurredAt": "2026-09-21",
-      "summary": "70 强项目观察之前沿探索：AI 进入科学发现，答案之外还要验证什么 InfoQ-CN",
-      "why": "标题在公开 RSS 中出现，并具备可复述或可二创的传播信号；需要人工确认是否形成社区共识。",
+      "firstSeenAt": "2026-09-21",
+      "recentPropagationAt": "2026-09-21",
+      "summary": "Meta Muse 被描述为可以在桌面环境中执行操作的 AI 助手，叙事重点从‘会聊天’转向‘AI 有手了’。",
+      "why": "‘AI 有手了’是短而直观的产品叙事；桌面操作、文件和应用控制也给二创留下了明确动作。",
       "keywords": [
-        "70 强项目观察之前沿探索",
-        "AI 进入科学发现",
-        "答案之外还要验证什么"
+        "META MUSE",
+        "DESKTOP AGENT",
+        "COMPUTER USE"
       ],
       "sources": [
         {
-          "name": "InfoQ-CN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MblpYeVAyNEozWEhnallUSnJzY1poS2hQQnlrSE94NUNUdklvZHdqcF9EaTFnTTVON2FjajFrSEJ3SHJtb2VBcDhfS3A2cDQ0anYtd1ZuVllBMWhVNlE?oc=5"
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "tier": "主流科技媒体",
+          "publishedAt": "2026-09-21T05:21:47-04:00"
         }
       ],
-      "risk": "自动聚合，需人工核验",
-      "chainFit": "待核验"
+      "sourceCount": 1,
+      "independentSources": [
+        "The Verge AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "产品名、品牌和功能真伪需核验",
+      "chainFit": "高"
     },
     {
-      "id": "2026-09-21-3-ai制药真正的scalinglaw来了",
-      "title": "AI 制药真正的 Scaling Law来了？",
-      "category": "AI 科技",
-      "priority": "A",
-      "status": "新热",
-      "occurredAt": "2026-09-21",
-      "summary": "AI 制药真正的 Scaling Law来了？ 华尔街见闻",
-      "why": "标题在公开 RSS 中出现，并具备可复述或可二创的传播信号；需要人工确认是否形成社区共识。",
-      "keywords": [
-        "AI 制药真正的 Scaling Law来了？"
-      ],
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UTHc4QXNLVVdlc0M2bTJNZWJicEI0a005RF81QWlpMnRtZTdfc0hBNDNtX01xdHFTWmYwcmFaOTYwQ3NhUG03ZGdhQkFtSGhaTmpz?oc=5"
-        }
-      ],
-      "risk": "自动聚合，需人工核验",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-09-21-5-ai时代我们需要什么样的学术规范",
-      "title": "AI时代，我们需要什么样的学术规范",
-      "category": "AI 科技",
-      "priority": "A",
-      "status": "新热",
-      "occurredAt": "2026-09-21",
-      "summary": "AI时代，我们需要什么样的学术规范 央视网",
-      "why": "标题在公开 RSS 中出现，并具备可复述或可二创的传播信号；需要人工确认是否形成社区共识。",
-      "keywords": [
-        "AI时代",
-        "我们需要什么样的学术规范"
-      ],
-      "sources": [
-        {
-          "name": "央视网",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kc3hsTUxEQlRzbUliQV93Nkx4SExodEhmd084anhaNGt1LTRGVGx0NXdoa1J1ZWFoTm9HTkszYmt6V19JdWFkS3BCaTROQU9OemZGQ0ZBcUVqY242T2F3UUJCR0YtcS1CS1V0QlNibTl3eTcwTnhzUQ?oc=5"
-        }
-      ],
-      "risk": "自动聚合，需人工核验",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-09-21-6-从明星分子到黄金配比ai制药迈入多成分协同时代",
-      "title": "从\"明星分子\"到\"黄金配比\"：AI制药迈入多成分协同时代",
-      "category": "AI 科技",
-      "priority": "A",
-      "status": "新热",
-      "occurredAt": "2026-09-21",
-      "summary": "从\"明星分子\"到\"黄金配比\"：AI制药迈入多成分协同时代 中华网",
-      "why": "标题在公开 RSS 中出现，并具备可复述或可二创的传播信号；需要人工确认是否形成社区共识。",
-      "keywords": [
-        "从\"明星分子\"到\"黄金配比\"",
-        "AI制药迈入多成分协同时代"
-      ],
-      "sources": [
-        {
-          "name": "中华网",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJdnVvVVpHZVZYeHpISnR2TDFnSTVvVHNqbVhXaEhjU2JwR3BXU2dZWEtiNlRIR2FKazNOVGFvTE1nUjVEd0RjVFlZb1N5X295NmJVc2M1cE1uRjh4QkJIWnRzb2czM1VsdjFhZA?oc=5"
-        }
-      ],
-      "risk": "自动聚合，需人工核验",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-09-21-2-姚旭waico展现中国开放合作与大国担当",
-      "title": "姚旭：WAICO展现中国开放合作与大国担当",
-      "category": "AI 科技",
-      "priority": "A",
-      "status": "新热",
-      "occurredAt": "2026-09-21",
-      "summary": "姚旭：WAICO展现中国开放合作与大国担当 复旦发展研究院",
-      "why": "标题在公开 RSS 中出现，并具备可复述或可二创的传播信号；需要人工确认是否形成社区共识。",
-      "keywords": [
-        "姚旭",
-        "WAICO展现中国开放合作与大国担当"
-      ],
-      "sources": [
-        {
-          "name": "复旦发展研究院",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qUEU0dlBodEplcWx4aDJvUDNyTUNKMmlyNEIwY2VYaVF0Tng4WXFqX2hiVnMyUEJQZ3FWZzc0U3k2aERkajl0OXdtMmlxS084WUtpMDd1b0lmanBlV3RVMTNJZFA?oc=5"
-        }
-      ],
-      "risk": "自动聚合，需人工核验",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-09-21-4-播客上新为什么你的产品卖得好ai却只推荐竞品",
-      "title": "播客上新 |为什么你的产品卖得好，AI却只推荐竞品？",
-      "category": "AI 科技",
-      "priority": "A",
-      "status": "新热",
-      "occurredAt": "2026-09-21",
-      "summary": "播客上新 |为什么你的产品卖得好，AI却只推荐竞品？ CBNData-第一财经商业数据中心",
-      "why": "标题在公开 RSS 中出现，并具备可复述或可二创的传播信号；需要人工确认是否形成社区共识。",
-      "keywords": [
-        "播客上新 ",
-        "为什么你的产品卖得好",
-        "AI却只推荐竞品？"
-      ],
-      "sources": [
-        {
-          "name": "CBNData-第一财经商业数据中心",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1WjJYQS04MVVrdFJwWFBEdF82NW93UjQxWmRvZ2VZdWp2Ulg3UG8zUTdxams5R2xwRFcyODIxUkZKaERzeDE5U2lud3pheWFCbEE?oc=5"
-        }
-      ],
-      "risk": "自动聚合，需人工核验",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-09-21-0-europeanfirmsmusttakeadvantageofchin",
-      "title": "European Firms Must Take Advantage of China's Robotics Boom, CEOs Say",
+      "id": "2026-09-21-0-googles899googlebookisabetthatyoullbuyanew",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "canonicalSignal": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
       "category": "AI 科技",
       "priority": "B",
-      "status": "新热",
+      "status": "持续传播",
       "occurredAt": "2026-09-21",
-      "summary": "European Firms Must Take Advantage of China's Robotics Boom, CEOs Say 一财全球Yicai Global",
-      "why": "标题在公开 RSS 中出现，并具备可复述或可二创的传播信号；需要人工确认是否形成社区共识。",
+      "firstSeenAt": "2026-09-21",
+      "recentPropagationAt": "2026-09-21",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        " CEOs Say"
+        "Google’s $899 Googlebook is a be"
       ],
       "sources": [
         {
-          "name": "一财全球Yicai Global",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVR1TUZfMDlQbV8tSXNOZGZHYTdweGswWE11b19vanhQckQ0NDBqQW9Candiakhqbk4yNjVMcmJzTk9NWTl2enpubmc2aUVtVWhIYU9mZUh4d044YXdrbVBNbHdISjhnTVliSVhlYkU3SXhfU0M3NEVIblRkdXlULUh4ZUV0RVh1Nm1FUEZLYjhOQ0EwQnpjQ0FpZlU4WXJOT3c?oc=5"
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+          "tier": "主流科技媒体",
+          "publishedAt": "Mon, 21 Sep 2026 14:39:22 +0000"
         }
       ],
-      "risk": "自动聚合，需人工核验",
+      "sourceCount": 1,
+      "independentSources": [
+        "TechCrunch AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-09-21-2-higgsfieldaishipsnewvideofeaturesinadaywit",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "canonicalSignal": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "持续传播",
+      "occurredAt": "2026-09-21",
+      "firstSeenAt": "2026-09-21",
+      "recentPropagationAt": "2026-09-21",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.。",
+      "why": "该条目具备明确动作，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "Higgsfield AI ships new video fe"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "tier": "官方源",
+          "publishedAt": "Mon, 21 Sep 2026 12:00:00 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "OpenAI News"
+      ],
+      "verification": "1 个独立来源 · 高置信度",
+      "confidence": "高",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "中"
+    },
+    {
+      "id": "2026-09-21-3-howv7givesaiagentsinstitutionalmemory",
+      "title": "How V7 gives AI agents institutional memory",
+      "canonicalSignal": "How V7 gives AI agents institutional memory",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "持续传播",
+      "occurredAt": "2026-09-21",
+      "firstSeenAt": "2026-09-21",
+      "recentPropagationAt": "2026-09-21",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "How V7 gives AI agents instituti",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/v7",
+          "tier": "官方源",
+          "publishedAt": "Mon, 21 Sep 2026 00:00:00 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "OpenAI News"
+      ],
+      "verification": "1 个独立来源 · 高置信度",
+      "confidence": "高",
+      "risk": "自动聚合，仍需核对原始来源与语境",
       "chainFit": "待核验"
     }
   ]

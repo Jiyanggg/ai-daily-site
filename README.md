@@ -8,11 +8,13 @@
 
 `.github/workflows/daily-report.yml` 每天 **UTC 00:00（北京时间 08:00）** 运行：
 
-1. 从公开 Google News RSS 获取前一天的条目；
-2. 过滤重大社会公共事件并按 S/A/B 优先级整理；
-3. 写入 `site/data/news.json` 和 `site/data/report.md`；
-4. 自动提交数据更新；
-5. 将 `site/` 部署到 GitHub Pages。
+1. 发现层从 TechCrunch、The Verge、MIT Technology Review、OpenAI News 和定向 Google News 查询获取前一天的条目；
+2. 分析层按 AI Agent、创新突破、AI 生成文化、中文热梗、动物表情和虚拟角色生成具体事件摘要、别名、检索词与传播特征；
+3. 验证层合并同一事件的转载，统计独立来源、官方/主流/社区来源层级，并与上一期比较新热、再热和持续传播；
+4. 过滤重大社会公共事件并按 S/A/B 优先级整理；
+5. 写入 `site/data/news.json` 和 `site/data/report.md`；
+6. 自动提交数据更新；
+7. 将 `site/` 部署到 GitHub Pages。
 
 不需要 Firecrawl、OpenAI 或其他 API Key。网络源不可用时，报告会明确显示“暂无足够可靠的新增重点”，不会使用旧新闻填充。
 

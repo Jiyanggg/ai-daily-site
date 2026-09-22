@@ -171,6 +171,8 @@ h1 {
 .detail-text { margin: 0; color: #bac7c3; font-size: 12px; }
 .keyword-list { display: flex; flex-wrap: wrap; gap: 5px; }
 .keyword { padding: 4px 7px; border-radius: 4px; color: #c5d8d2; background: var(--surface-2); font-size: 11px; }
+.validation-strip { display: flex; flex-wrap: wrap; gap: 7px 16px; margin-top: 16px; padding: 10px 0 0; border-top: 1px solid var(--line); color: var(--faint); font-size: 11px; }
+.validation-strip span { white-space: normal; }
 .event-footer { display: flex; align-items: center; justify-content: space-between; gap: 14px; margin-top: 17px; }
 .risk-label { color: var(--coral); font-size: 11px; }
 .source-list { display: flex; flex-wrap: wrap; gap: 10px; }

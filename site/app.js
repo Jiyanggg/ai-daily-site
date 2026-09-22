@@ -47,11 +47,13 @@ function filteredEvents() {
 function eventCard(event) {
   const sources = (event.sources || []).map((source) => `<a class="source-link" href="${escapeHtml(source.url)}" target="_blank" rel="noreferrer">${escapeHtml(source.name)}</a>`).join("");
   const keywords = (event.keywords || []).map((keyword) => `<span class="keyword">${escapeHtml(keyword)}</span>`).join("");
+  const independentSources = (event.independentSources || []).join("、") || "待补充";
   return `<article class="event-card priority-${escapeHtml(event.priority)}">
     <div class="event-topline"><div class="event-meta"><span class="priority-badge">${escapeHtml(event.priority)} 级</span><span class="category-badge">${escapeHtml(event.category)}</span><span class="status-badge">${escapeHtml(event.status)}</span></div><time class="event-date">${escapeHtml(formatDate(event.occurredAt))}</time></div>
     <h3>${escapeHtml(event.title)}</h3>
     <p class="event-summary">${escapeHtml(event.summary)}</p>
     <div class="event-details"><div><span class="detail-label">为什么值得看</span><p class="detail-text">${escapeHtml(event.why)}</p></div><div><span class="detail-label">检索词</span><div class="keyword-list">${keywords}</div></div></div>
+    <div class="validation-strip"><span>交叉验证：${escapeHtml(event.verification || `${event.sourceCount || 0} 个独立来源`)}</span><span>来源：${escapeHtml(independentSources)}</span><span>首次出现：${escapeHtml(formatDate(event.firstSeenAt || event.occurredAt))}</span><span>链上适配：${escapeHtml(event.chainFit || "待核验")}</span></div>
     <div class="event-footer"><span class="risk-label">风险：${escapeHtml(event.risk || "待人工核验")}</span><div class="source-list">${sources}</div></div>
   </article>`;
 }
