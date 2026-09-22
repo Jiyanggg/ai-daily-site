@@ -23,6 +23,7 @@
         </a>
         <div class="topbar-actions">
           <span class="live-indicator"><i></i>自动更新</span>
+          <a class="archive-nav" href="#history">历史归档</a>
           <a class="icon-button" href="./data/report.md" target="_blank" rel="noreferrer" title="打开文字报告" aria-label="打开文字报告">↗</a>
         </div>
       </header>
@@ -125,6 +126,25 @@
               <h3>前一天没有足够可靠的新重点</h3>
               <p>系统不会用旧新闻填充。可以清除筛选，或等待下一次自动更新。</p>
             </div>
+          </div>
+        </section>
+
+        <section id="history" class="archive-band" aria-label="历史报告归档">
+          <div class="archive-heading">
+            <div>
+              <p class="eyebrow">REPORT ARCHIVE</p>
+              <h2>历史报告</h2>
+              <p class="archive-description">按日期回看过去的每日情报，当前报告会在每天更新时自动归档。</p>
+            </div>
+            <div class="archive-actions">
+              <span id="archive-count" class="result-count">读取中</span>
+              <button class="text-button" id="toggle-archive" type="button">查看全部</button>
+            </div>
+          </div>
+          <div id="archive-list" class="archive-list" aria-live="polite"></div>
+          <div id="archive-empty" class="empty-state archive-empty" hidden>
+            <h3>还没有历史报告</h3>
+            <p>下一次自动更新后，报告会出现在这里。</p>
           </div>
         </section>
       </main>

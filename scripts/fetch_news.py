@@ -33,6 +33,8 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "site" / "data"
 NEWS_FILE = DATA_DIR / "news.json"
 REPORT_FILE = DATA_DIR / "report.md"
+REPORTS_DIR = ROOT / "reports"
+ARCHIVE_INDEX_FILE = DATA_DIR / "reports-index.json"
 LOCAL_ZONE = ZoneInfo("Asia/Shanghai")
 USER_AGENT = "SignalDesk/2.0 (+https://github.com/Jiyanggg/ai-daily-site)"
 
@@ -397,7 +399,7 @@ def build_report(report_date: date) -> dict[str, Any]:
     return {"demo": False, "reportDate": str(report_date), "generatedAt": datetime.now(LOCAL_ZONE).isoformat(timespec="seconds"), "headline": headline, "summary": summary, "sourceCount": source_count, "events": events}
 
 
-def write_markdown(report: dict[str, Any]) -> None:
+def markdown_for_report(report: dict[str, Any]) -> str:
     lines = [f"# Signal Desk · {report['reportDate']}", "", str(report["summary"]), "", "## 今日重点关注", ""]
     events = report["events"]
     if not events:
@@ -412,7 +414,26 @@ def write_markdown(report: dict[str, Any]) -> None:
             "- 来源：" + ", ".join(f"[{source['name']}]({source['url']})" for source in event["sources"]), "",
         ])
     lines.extend(["## 人工核验提醒", "", "传播度不等于代币价值。请核对代币创建时间、是否有明显龙头、流动性、持仓集中度、部署者历史、撤池风险，以及品牌/IP/人物形象的版权风险。"])
-    REPORT_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    return "\n".join(lines) + "\n"
+
+
+def write_markdown(report: dict[str, Any]) -> None:
+    """Write the current report and keep a dated copy for the archive UI."""
+    content = markdown_for_report(report)
+    REPORT_FILE.write_text(content, encoding="utf-8")
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+    archive_path = REPORTS_DIR / f"{report['reportDate']}.md"
+    archive_path.write_text(content, encoding="utf-8")
+    (DATA_DIR / archive_path.name).write_text(content, encoding="utf-8")
+
+    reports: list[dict[str, str]] = []
+    for path in sorted(REPORTS_DIR.glob("*.md"), reverse=True):
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", path.stem):
+            continue
+        text = path.read_text(encoding="utf-8")
+        heading = re.search(r"^#\s+(.+)$", text, flags=re.MULTILINE)
+        reports.append({"date": path.stem, "title": heading.group(1).strip() if heading else "Signal Desk 日报"})
+    ARCHIVE_INDEX_FILE.write_text(json.dumps({"reports": reports, "lastUpdated": reports[0]["date"] if reports else None}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def main() -> int:

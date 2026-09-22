@@ -14,7 +14,7 @@ const bootstrapData = {
   ]
 };
 
-const state = { data: bootstrapData, priority: "all", category: "all", query: "" };
+const state = { data: bootstrapData, archives: [], archiveExpanded: false, priority: "all", category: "all", query: "" };
 const $ = (selector) => document.querySelector(selector);
 
 function escapeHtml(value) {
@@ -32,6 +32,13 @@ function formatGeneratedAt(value) {
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return value;
   return `更新于 ${new Intl.DateTimeFormat("zh-CN", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" }).format(date)}`;
+}
+
+function formatArchiveDate(value) {
+  if (!value) return "未知日期";
+  const date = new Date(`${value}T00:00:00+08:00`);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat("zh-CN", { year: "numeric", month: "short", day: "numeric", weekday: "short" }).format(date);
 }
 
 function filteredEvents() {
@@ -58,6 +65,27 @@ function eventCard(event) {
   </article>`;
 }
 
+function archiveCard(report) {
+  return `<a class="archive-card" href="./data/${encodeURIComponent(report.date)}.md" target="_blank" rel="noreferrer">
+    <span class="archive-date">${escapeHtml(formatArchiveDate(report.date))}</span>
+    <span class="archive-title">${escapeHtml(report.title || "Signal Desk 日报")}</span>
+    <span class="archive-arrow" aria-hidden="true">↗</span>
+  </a>`;
+}
+
+function renderArchives() {
+  const archiveList = $("#archive-list");
+  const empty = $("#archive-empty");
+  const toggle = $("#toggle-archive");
+  const reports = state.archives || [];
+  const visible = state.archiveExpanded ? reports : reports.slice(0, 12);
+  $("#archive-count").textContent = reports.length ? `${reports.length} 期` : "暂无归档";
+  toggle.hidden = reports.length <= 12;
+  toggle.textContent = state.archiveExpanded ? "收起" : "查看全部";
+  archiveList.innerHTML = visible.map(archiveCard).join("");
+  empty.hidden = reports.length > 0;
+}
+
 function render() {
   const events = filteredEvents();
   const counts = { S: 0, A: 0, B: 0 };
@@ -75,6 +103,7 @@ function render() {
   $("#result-count").textContent = `${events.length} 条`;
   $("#event-list").innerHTML = events.map(eventCard).join("");
   $("#empty-state").hidden = events.length > 0;
+  renderArchives();
   document.title = `${state.data.headline || "每日叙事雷达"} · Signal Desk`;
 }
 
@@ -83,13 +112,18 @@ function bindFilters() {
   $("#clear-filters").addEventListener("click", () => { state.priority = "all"; state.category = "all"; state.query = ""; $("#search-input").value = ""; document.querySelectorAll(".filter-button").forEach((button) => button.classList.toggle("is-active", button.dataset.priority === "all" || button.dataset.category === "all")); render(); });
   document.querySelectorAll("[data-priority]").forEach((button) => button.addEventListener("click", () => { state.priority = button.dataset.priority; document.querySelectorAll("[data-priority]").forEach((item) => item.classList.toggle("is-active", item === button)); render(); }));
   document.querySelectorAll("[data-category]").forEach((button) => button.addEventListener("click", () => { state.category = button.dataset.category; document.querySelectorAll("[data-category]").forEach((item) => item.classList.toggle("is-active", item === button)); render(); }));
+  $("#toggle-archive").addEventListener("click", () => { state.archiveExpanded = !state.archiveExpanded; renderArchives(); });
 }
 
 async function loadData() {
   try {
-    const response = await fetch(`./data/news.json?ts=${Date.now()}`);
-    if (!response.ok) throw new Error("news.json unavailable");
-    state.data = await response.json();
+    const [newsResponse, archiveResponse] = await Promise.all([
+      fetch(`./data/news.json?ts=${Date.now()}`),
+      fetch(`./data/reports-index.json?ts=${Date.now()}`),
+    ]);
+    if (!newsResponse.ok) throw new Error("news.json unavailable");
+    state.data = await newsResponse.json();
+    if (archiveResponse.ok) state.archives = (await archiveResponse.json()).reports || [];
   } catch (error) {
     console.warn("Using bootstrap data:", error);
   }
