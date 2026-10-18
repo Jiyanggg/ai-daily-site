@@ -1,21 +1,21 @@
 {
   "demo": false,
-  "reportDate": "2026-10-16",
-  "generatedAt": "2026-10-17T09:43:51+08:00",
-  "headline": "昨日捕捉到 40 条经过分层验证的 AI 与互联网文化信号",
-  "summary": "优先查看：爱疯18；Meta Muse；#小城良方的广告位是抢下来的# 大家都太梗了[允悲][允悲] ​。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。",
-  "sourceCount": 30,
+  "reportDate": "2026-10-17",
+  "generatedAt": "2026-10-18T09:40:58+08:00",
+  "headline": "昨日捕捉到 30 条经过分层验证的 AI 与互联网文化信号",
+  "summary": "优先查看：爱疯18；清华开源！智能体操作系统任务成本降83%，AI记忆可查可改|AI Agent|面壁智能|清华大学|Token|Minimax；AI 带来的效率，可能会毁掉下一代专业人才。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。",
+  "sourceCount": 27,
   "events": [
     {
-      "id": "2026-10-16-50-爱疯18",
+      "id": "2026-10-17-27-爱疯18",
       "title": "爱疯18",
       "canonicalSignal": "爱疯18",
       "category": "中文热梗",
       "priority": "S",
       "status": "持续传播",
-      "occurredAt": "2026-10-16",
+      "occurredAt": "2026-10-17",
       "firstSeenAt": "2026-09-22",
-      "recentPropagationAt": "2026-10-16",
+      "recentPropagationAt": "2026-10-17",
       "summary": "‘爱疯18’把现实产品发布与《爱情公寓》旧台词、胡一菲擀面杖手机画面重新接在一起。",
       "why": "旧影视记忆有现成台词、人物和画面，现实事件提供了再次传播的触发点。",
       "keywords": [
@@ -27,758 +27,148 @@
       "sources": [
         {
           "name": "新浪网",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQkZGTXk1UU03MGdpbmlwd0FKNFpZX0YzVnpTc1lfVkRMaDZjVW15N3NLM3I1MmlJa2JyOFoyRzRvbnd2QjAxWHZqMnpETmtZLVlKcy1RNmQxSHRfcW80MVNFWDRMRFRMZjMtaWNwWl9Mb2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GS05LOGNLbUZ4SVYzd0dqNDFtdG5RZFBjcDd5VWpPNGZ3bDZmazd2N2xUR3dicHhkM2NKN21GdmVkQmlFYlhHLWVEdERyZHQ2N0dhb1pockVKaFZXZHVOcHVNT3FIa2ZFcW9XTThiRXktMVU?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 11:10:53 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 11:10:30 GMT"
         },
         {
-          "name": "风闻",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aQzFFbTdUbWJOb2I2ZDFaaFdONFdEQ2NCeXhvZjVLaWFJVTFaOF84bGk2b1hISFFNbzI5MmtGZTl5dGdtODdmOXg3dWNQMWozRWhWZHl2aUVVTlNGY1hwU0J5STFrTmg1QWc?oc=5",
+          "name": "驱动之家",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1reExjcVJwZGhhMDJuUFVnMEg5aDh0eU9QQk5pYTR3S2pjSWJsMUFPTDl0WjBFNE51bm9lN3lSSWNlQ0U3bmJzTWxhakNSQ3FzenBPUE1ucVg?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 15:18:31 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 05:55:00 GMT"
         },
         {
-          "name": "手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WemxDVjVaamdIamVzVGlMdnJZY0ZJMDZpcWZldHdZbnNrRkNydVYxMkZSTEg0WDhMQ1VJUUc3czRYaHZRNHUzT1drYjVxOFRWaHNfOUxyMy11YmMwNjQ0bTFJbw?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 06:00:00 GMT"
+          "name": "IT之家",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PeEh0dV94Sk13dFNUSHotc3ZrblhEMlM5WV9ndDRyNXNmZVJGLVdqZ1NBem5CYmlOUmF1Y2pabHl0T0lDNHJWUmhoWnAwdw?oc=5",
+          "tier": "中文社区媒体",
+          "publishedAt": "Sat, 17 Oct 2026 05:20:00 GMT"
         },
         {
-          "name": "VOI.ID",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GdzZPdG84MjNlakRjdWNESFRydmp0UVdhTXR5V0JTalNkSndjODRJNXFzVU9ERzlBZXVHREhLcmNoanZ5OFNOd0lOZVpBUFnSAUJBVV95cUxNYWVVZDVyV3lCbjJwcVd6Ri00NFI0WTJCanJZYWhXYjdwM1E1a3FGX2poWkVyOGJiZEMyV0tpdlNIZWc?oc=5",
+          "name": "آي-فون إسلام",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYllFeWVuVVdZY3BCVkFwa0dnSERVOC12TE9GRjd4eDdoS1pGcmtpVTk5dDFZOExDUkRQSy1YVTNvU2JMcEFWOTdoOW5LSkRFa3JZVzI3UXpkN2xEeEZkU1pUal9IejB2WHhLbnNrdkZ0SnptMS0zZkpFOEo4RGI3WF9ZYUVRbDNhRTNB?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 04:20:03 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 04:09:52 GMT"
+        },
+        {
+          "name": "凤凰网科技",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91R1pZUG40WjJPd21NRmlBOGtVWEhGSXZDZnA5ZTROUlpmLWpJMkJraml3Vk05dDBkeEVWb29ISFNPeTNxUzN5OTBkN2g?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 05:40:20 GMT"
+        },
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNk8wNEh6bW14OWpFZ05nUGUwZ2JlRHg1NE8zdXpuNGd2aEdLdEtuRXctSlFHdmtaeHhReFdTNjg0TEdDR3Y0RTFULVNNdEhUNGotRDhDUHI3aUZZVUZKbDVtMVM2dXZtVmtadzVLZVFtVGp2NUtoeTA5Y0dCWTg?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 05:25:14 GMT"
         },
         {
           "name": "香港01",
           "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaGFWczJnUzN5ODhtOEZCVFZVZ0FYakF3dGMtS3NkczdlRHdHeGZWWVlzQjZWRWhPcG9oOE1YN296QVk1b1J6OEplMkh4VjFOT3ZwaDBjUDB6YmFodEFSbDNrbGs5LXdFUkFSNTV6ei1Xd3RIZ2lQUzRtRFYtN25lcGI0d2FpQURpYmg2bHRKaWt6bExsalYzWlpmdDE4bUExSEo2LWZnaFhWVWFjWXRYY1lDb19XTUZDZXNLcjhpdzRJN1RYSzdDYWZWejk5RHJVZzNMYkh2eVU4NUJOOVJ6RVBNTEhONDgxb3JmSFBNbDZTa0c0T21yX0RSOVlROU1tNkhJcDJFNWtDSDJNZkFCdTNrTnBlRnNvSGYyWHlTWV9ZbWt2Ml9TWDF6dklDaVpBZU1kdFZtaEVCOHdGTlIxem1jWEtHUQ?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 13:10:16 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 14:59:31 GMT"
         },
         {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XYmo5ajZsem5TVUdsX3NfdWVNWUJMMVJUdGNkY3NtVXNWSFQ5UVNfcmJsejNiVDc2bG5uUFVMenB3SzVlSzlzVWt2X2gtVW8?oc=5",
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1emowRTdZM2xLQVFtSVBWQU42YWN2Z3BrckJFZ2cyZUZmdml0U0U1QnVEWUh1MmpQOG92V180cjhsUC1iNU1CSFhB0gFCQVVfeXFMUGRzdkFGWk1LWGlPUUotbjk1akdaZTFZdlNBLS1NR2g2bVotdFE1YkhLVHVqRTFjWGItcmF2MDgxMWlR?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 10:00:00 GMT"
+          "publishedAt": "Fri, 16 Oct 2026 19:54:07 GMT"
         },
         {
-          "name": "TGBUS",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94b3BQQ2tDb2hTMFozWGpkbnAwQzBQX2RDNEVtTndveHE5Yk01d1BkN2RjUVdEakdHZTc3T0ZVRVltYmNGSVJ6SDBR?oc=5",
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjNhV0ZvaE1SeWRvYVJfRExFVW94S0tRQzFXbUQtSkVuZW1MeTNRZGlyYTNXSG5WWHZWTTZvSnh4b0FNTTh5SFZrTEFPRkxZbGgtZU9ReWVXemlRN3V5Um1pTG92YjBPdmJaaGNXZVhZblkwb05UcGdQMEtIQjJVNTRSNkNmOG1yZFIycEtVQnFhT0Jpa2VRNEdST3duWVlXaExTSnNucGRybjg?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 05:21:00 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 01:41:49 GMT"
         },
         {
-          "name": "币界网",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUT1VRR0VaTElGV2NWczFXRGJxQWxTbW5oNmZSY0lheDFFWWxzQ3FaX1lrT3Yxa1pRb0NsUzVfUGtxSHAxVmJrYl9rd2o2RllrT2c?oc=5",
+          "name": "禁闻网",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ca1VFWENiQUQwRTktWmRmWXlnUWsyZ1R0dDdwemNsYXpJZUIwWEd1OXFIVXJBcmp5SGFGVWd6bUVuRThSTG9GWlVMZkVBU05oM293LVhrR19pY2ZpQXRyajRmSS1jNERrbUNacldR0gFzQVVfeXFMT0J0QTZsUGw2RGIzVFVuNVJBVHlVR2hreTFDQkpqa0Nka0FiUzJrSUxnSGF6a0drNnpiYWNYSjhRd1RFLVAxQjV5Mmh1THRHSGFnSDl2YkdoeERYc0JLMEdTNTZ0Y1l0bnR3RlpzNHJDbjdpYw?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 06:39:00 GMT"
-        },
-        {
-          "name": "Samsung Magazine",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WRUJZQU0tWWdhWWZiMXk1dWpYUmo1alViWUNjQXBQaDhXVEFDTXhaM242TFdFWTY5cVBRLTlRVjV4bG5LLVVKSl9ISEJFTlJ4dHJMOGVjUElvZWtSeURYTi1WR0diNTl6VFBMaGk0VUlndDA?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 04:02:40 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 09:00:00 GMT"
         }
       ],
-      "sourceCount": 9,
+      "sourceCount": 10,
       "independentSources": [
-        "Samsung Magazine",
-        "TGBUS",
+        "IT之家",
         "VOI.ID",
-        "凤凰网",
-        "币界网",
-        "手机新浪网",
+        "Vietnam.vn",
+        "آي-فون إسلام",
+        "凤凰网科技",
         "新浪网",
-        "风闻",
-        "香港01"
+        "新浪财经",
+        "禁闻网",
+        "香港01",
+        "驱动之家"
       ],
-      "verification": "9 个独立来源 · 高置信度",
+      "verification": "10 个独立来源 · 高置信度",
       "confidence": "高",
       "risk": "影视版权、商标和人物形象风险",
       "chainFit": "高"
     },
     {
-      "id": "2026-10-16-10-metamuse",
-      "title": "Meta Muse",
-      "canonicalSignal": "Meta Muse",
-      "category": "AI 科技",
-      "priority": "A",
-      "status": "持续传播",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-08",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Meta Muse 被描述为可以在桌面环境中执行操作的 AI 助手，叙事重点从‘会聊天’转向‘AI 有手了’。",
-      "why": "‘AI 有手了’是短而直观的产品叙事；桌面操作、文件和应用控制也给二创留下了明确动作。",
-      "keywords": [
-        "META MUSE",
-        "DESKTOP AGENT",
-        "COMPUTER USE"
-      ],
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-          "tier": "主流科技媒体",
-          "publishedAt": "2026-10-15T14:15:36-04:00"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "The Verge AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "产品名、品牌和功能真伪需核验",
-      "chainFit": "高"
-    },
-    {
-      "id": "2026-10-16-41-小城良方的广告位是抢下来的大家都太梗了允悲允悲",
-      "title": "#小城良方的广告位是抢下来的# 大家都太梗了[允悲][允悲] ​",
-      "canonicalSignal": "#小城良方的广告位是抢下来的# 大家都太梗了[允悲][允悲] ​",
-      "category": "中文热梗",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "#小城良方的广告位是抢下来的# 大家都太梗了[允悲][允悲] ​ 手机新浪网。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "#小城良方的广告位是抢下来的# 大家都太梗了",
-        "允悲"
-      ],
-      "sources": [
-        {
-          "name": "手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fbXhsY3AwOWt6VUJFOERmN2NfUEhGX0JFTWJtaTRreWNnYXo0OHRSbmpHaEo2UXdYbm81V0dkQ1NmU3RYSzZhckQ4c3RiT1BSRl9BSXdKYjRxbG0yNjgxZy0tbw?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 10:50:00 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "手机新浪网"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-20-aiagent推升算力调度需求中华电信布局高速算力网",
-      "title": "AI Agent推升算力调度需求 中华电信布局高速算力网",
-      "canonicalSignal": "AI Agent推升算力调度需求 中华电信布局高速算力网",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "AI Agent推升算力调度需求 中华电信布局高速算力网 DIGITIMES。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "AI Agent推升算力调度需求 中华电信布局高速算力网",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "DIGITIMES",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNEZKR2FBQjNVQUIwczhHRDI5Vk9rVk9MM3ZJbzFvZDcwOW5YdHkyRXlZYjBQUjFaOTZTZ1ZMLU0zemxld3B3ZzgtTFBNMlgyc1phLUxzVEJROWNWemMzTkRqUW02aXZkWmFtMEVGdzNMNHo3RXpEcUNBRWtTaHRQc1kxaFhYdFFLWS1GelZvLTdDdlV1bHd5M0hnR2c?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Thu, 15 Oct 2026 19:09:37 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "DIGITIMES"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-45-ai写完代码谁来验证手淘teko写验修自主闭环的工程实践qcon上海",
-      "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon 上海",
-      "canonicalSignal": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon 上海",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon 上海 InfoQ-CN。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "AI 写完代码",
-        "谁来验证",
-        "手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon 上海"
-      ],
-      "sources": [
-        {
-          "name": "InfoQ-CN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42M0RQTmNjaThiejVEc24wTllQVXhoWS1qdk05b000NGQzSTh4SlZXbmFzMU5tSGtWcnNfOHhBSFdWUG9tb3F5dV96ak9OTnZTaXc3WkZNVC14ZmhES2c?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 02:00:04 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "InfoQ-CN"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-43-ai生成的代码怎么才能进得了工程体系",
-      "title": "AI 生成的代码，怎么才能进得了工程体系？",
-      "canonicalSignal": "AI 生成的代码，怎么才能进得了工程体系？",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "AI 生成的代码，怎么才能进得了工程体系？ InfoQ-CN。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "AI 生成的代码",
-        "怎么才能进得了工程体系"
-      ],
-      "sources": [
-        {
-          "name": "InfoQ-CN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MOVZFcF9FUTZLSTRqelY1QTZLbFMtUzlKT0NERjRQQ3U1NEFPSmZuVzZNSFQtQnVPbTJrd3FhenNheTg5U3NpZE1MVndXSng0MUxHdk9FS1N1WWVUN1E?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 08:57:10 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "InfoQ-CN"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-14-ai流量首次超人类互联网下半场进入为aiagent设计阶段",
-      "title": "AI流量首次超人类，互联网下半场进入为AI Agent设计阶段",
-      "canonicalSignal": "AI流量首次超人类，互联网下半场进入为AI Agent设计阶段",
+      "id": "2026-10-17-9-清华开源智能体操作系统任务成本降83ai记忆可查可改aiagent面壁智能清华大学t",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改|AI Agent|面壁智能|清华大学|Token|Minimax",
+      "canonicalSignal": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改|AI Agent|面壁智能|清华大学|Token|Minimax",
       "category": "创新突破",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "AI流量首次超人类，互联网下半场进入为AI Agent设计阶段 虎嗅网。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改|AI Agent|面壁智能|清华大学|Token|Minimax 新浪财经。",
+      "why": "该条目具备明确动作，可能形成可复述的社区叙事；已有多个独立来源交叉出现。",
       "keywords": [
-        "AI流量首次超人类",
-        "互联网下半场进入为AI Agent设计阶段",
-        "AI AGENT"
+        "清华开源",
+        "智能体操作系统任务成本降83%",
+        "AI记忆可查可改",
+        "AI Agent",
+        "面壁智能"
       ],
       "sources": [
         {
-          "name": "虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DelZoa1RvSXltSzdHeERVNDZUUE0xbU80UkJKcU9VSXNtbGZhcTZGWk9ETlpEUTdXbnJzYWIxWkdEWkM0NU9HRGZjTElxbk50ZXlwag?oc=5",
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNam1PVDRKQ285MWhiY1RFcURMcEtoU1hETG51YVlRR3lwZTUwb3NBaFZ4OVJ2S2c1MGM4djR5WFdIamtjbFR4QW9rNFlWVEk4WjlnMWppT2xMNnRVS1pxdGwzd08yLWVtWUExaFRvUnpHVlFzOVA0RkZjdFZoQnhxRGpIQTlxZ1hBWkRCazAzNFd4bjlva0ZWTi1zMVZIODhqZEV5VFhRckl6NEw0cFVXOUN3?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 02:25:51 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "虎嗅网"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-30-ai黑箱要被ai破解了前openai研究员发现90的神经元功能可以解释",
-      "title": "AI黑箱要被AI破解了？前OpenAI研究员发现，90%的神经元功能可以解释",
-      "canonicalSignal": "AI黑箱要被AI破解了？前OpenAI研究员发现，90%的神经元功能可以解释",
-      "category": "创新突破",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "AI黑箱要被AI破解了？前OpenAI研究员发现，90%的神经元功能可以解释 安全内参。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "AI黑箱要被AI破解了",
-        "前OpenAI研究员发现",
-        "90%的神经元功能可以解释"
-      ],
-      "sources": [
+          "publishedAt": "Sat, 17 Oct 2026 12:13:26 GMT"
+        },
         {
-          "name": "安全内参",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ERGxqQXV3SnJnYlVzdFExaXg3b0h0RXVCOFlySDVYZjJscVA0VlNuODVBclBvR0h6RnFHRXhOU3ZYNEZid0VJLWFETVhsZw?oc=5",
+          "name": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEVSaHpiM0lOc0hYVWhENXY2a0NudzNJRVdtZ2x2QTBfckNkZ1gxZ21BQmUxV3NpUlJ1RDR0NTFYTDloV1FXMDRNTlNKcm5xeEI3dUdsclpZSnliWEZnenRFSHItRWNfM0dKcHYxNG1UWkhsSk52QmluaTN3STF6Y2s3ejZTN0l5azhv?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 02:26:29 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 02:13:22 GMT"
         }
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "independentSources": [
-        "安全内参"
+        "搜狐网",
+        "新浪财经"
       ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
+      "verification": "2 个独立来源 · 高置信度",
+      "confidence": "高",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "中"
     },
     {
-      "id": "2026-10-16-5-anthropicislettingmetrresearcherslookunder",
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "canonicalSignal": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "id": "2026-10-17-26-ai带来的效率可能会毁掉下一代专业人才",
+      "title": "AI 带来的效率，可能会毁掉下一代专业人才",
+      "canonicalSignal": "AI 带来的效率，可能会毁掉下一代专业人才",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.。",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "AI 带来的效率，可能会毁掉下一代专业人才 36Kr。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Anthropic is letting METR resear"
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Thu, 15 Oct 2026 19:14:26 +0000"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TechCrunch AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-6-blueskyexpandsitsaipoweredattieapptoletany",
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "canonicalSignal": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "games",
-        "and more"
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Thu, 15 Oct 2026 18:56:46 +0000"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TechCrunch AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-9-blueskysaitoolnowletsyoumakegamesandappsto",
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "canonicalSignal": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an i。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Bluesky’s AI tool now lets you m"
-      ],
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-          "tier": "主流科技媒体",
-          "publishedAt": "2026-10-15T15:57:16-04:00"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "The Verge AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-12-cantbeartosaygoodbyetoyourpetbiotechsgotyo",
-      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-      "canonicalSignal": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-      "category": "动物表情",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s c。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Biotech’s got you covered."
-      ],
-      "sources": [
-        {
-          "name": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Fri, 16 Oct 2026 09:00:00 +0000"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "MIT Technology Review"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-35-faradayfuture发布nova人形机器人售价2490美元novamini售价",
-      "title": "Faraday Future 发布 Nova 人形机器人，售价 2,490 美元；Nova Mini 售价 299 美元",
-      "canonicalSignal": "Faraday Future 发布 Nova 人形机器人，售价 2,490 美元；Nova Mini 售价 299 美元",
-      "category": "创新突破",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Faraday Future 发布 Nova 人形机器人，售价 2,490 美元；Nova Mini 售价 299 美元 Unite.AI。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Faraday Future 发布 Nova 人形机器人",
-        "售价 2",
-        "490 美元；Nova Mini 售价 299 美元"
-      ],
-      "sources": [
-        {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0pqVTRaS0VpbFBnTDRjaTNtTGRWODRTd0Myd0k2cmMwR2Q5YnRiS0lFZWs2MkNDdXNBVDJiUFdnSDJ0RDg3ZEs0OUJiMWhDRUVrSENsOFc4VnZwSTNMcGdyY2tmR0pYUEUtLW1JRlpCXy16ZlVOM1Y1NkRtRzBJM1I2eVZ4cGxRa2xnV2h4WkhWbWlsY1FJaVlWOA?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 04:12:31 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "Unite.AI"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-17-filecoin创世代币解锁即将结束aiagent新叙事引爆fil飙涨逾10",
-      "title": "Filecoin 创世代币解锁即将结束，AI Agent 新叙事引爆 FIL 飙涨逾10%",
-      "canonicalSignal": "Filecoin 创世代币解锁即将结束，AI Agent 新叙事引爆 FIL 飙涨逾10%",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Filecoin 创世代币解锁即将结束，AI Agent 新叙事引爆 FIL 飙涨逾10% TradingKey。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Filecoin 创世代币解锁即将结束",
-        "AI Agent 新叙事引爆 FIL 飙涨逾10%",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVlnbmh3MlJJa1RaSkU1VnEzVDBXZDlGQzh1TmNfVHducVBEQzNfWVBCSWoyNTFvLWxESlY3RUZkU2xCNWFIUzhaZXZrZS01S3dpOGZxTEZJV3NneHNKRGdTUktQeTlraFBqRmxqQ1pMRzF4X0RBRW9GOV9TSE10Z3FpdXpfVE05VExLdUpfQnRYMXN4NXZaeEZWNzZ5aThfVGxUQzRhbkN6cGZ4SVVCcU1PY0xGNEpzTWw3OEE4NUxIbkw2RDAtUw?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Thu, 15 Oct 2026 18:07:00 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TradingKey"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-11-friendsdontletfriendsfeedtheirdatatoaiagen",
-      "title": "Friends don’t let friends feed their data to AI agents",
-      "canonicalSignal": "Friends don’t let friends feed their data to AI agents",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, y。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Friends don’t let friends feed t",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-          "tier": "主流科技媒体",
-          "publishedAt": "2026-10-15T12:21:45-04:00"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "The Verge AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-0-jevisvercelsfastestadoptedaimodelever",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "canonicalSignal": "Jev is Vercel’s fastest-adopted AI model ever",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Jev is Vercel’s fastest-adopted"
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Fri, 16 Oct 2026 15:33:49 +0000"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TechCrunch AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-51-kimiclaw发布7个月仍处beta个人智能体面临算力成本与大厂生态卡位战",
-      "title": "Kimi Claw发布7个月仍处Beta：个人智能体面临算力成本与大厂生态卡位战",
-      "canonicalSignal": "Kimi Claw发布7个月仍处Beta：个人智能体面临算力成本与大厂生态卡位战",
-      "category": "中文热梗",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Kimi Claw发布7个月仍处Beta：个人智能体面临算力成本与大厂生态卡位战 虎嗅网。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Kimi Claw发布7个月仍处Beta",
-        "个人智能体面临算力成本与大厂生态卡位战",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "虎嗅网",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94akxfZUl1YVc4aDctZjJrUldVU3BoalJmdFdMZjNBU1duMnFHd0tFOTR4M1BmZGxYOW5oNFN1ekZoNHNtb0NOdjF1N3plWjhFMktMQQ?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 02:54:47 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "虎嗅网"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-1-markwahlbergonusingaiinfilmtherightwayandb",
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "canonicalSignal": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Mark Wahlberg on using AI in fil"
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Fri, 16 Oct 2026 14:26:51 +0000"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TechCrunch AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-4-metalaunchesanopenweightaimodelthatrunsonm",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "canonicalSignal": "Meta launches an open-weight AI model that runs on Macs",
-      "category": "创新突破",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Meta launches an open-weight AI"
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Thu, 15 Oct 2026 20:04:53 +0000"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TechCrunch AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-7-metasnewtermsmayallowittotrainaionnewssite",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "canonicalSignal": "Meta’s new terms may allow it to train AI on news sites for free",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Meta’s new terms may allow it to"
-      ],
-      "sources": [
-        {
-          "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-          "tier": "主流科技媒体",
-          "publishedAt": "2026-10-16T10:02:40-04:00"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "The Verge AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-52-meta发布musesparkopen8160亿参数权重开放",
-      "title": "Meta发布Muse Spark Open，8160亿参数、权重开放",
-      "canonicalSignal": "Meta发布Muse Spark Open，8160亿参数、权重开放",
-      "category": "中文热梗",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Meta发布Muse Spark Open，8160亿参数、权重开放 Pasquale Pillitteri。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Meta发布Muse Spark Open",
-        "8160亿参数、权重开放"
-      ],
-      "sources": [
-        {
-          "name": "Pasquale Pillitteri",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMU5BTUw0aDdVY0thMmRsWUJLTHY0YnVRcGpnN1BQeEdxZHJqOWRyeWd1d0lXOTJqTEdGakhXa0s3RXVoYVpOMG5JdFRDU3lnVlNjRlJSM0hEWVI4Zk9DVzYzU2RjOGdjMmtqakdCdF9oSU02bnNCZE1ueFFib1o1eENXU2NRX1JxZk5MbWZvSXc?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Thu, 15 Oct 2026 20:09:54 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "Pasquale Pillitteri"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-46-muse能带火国内个人ai智能体吗",
-      "title": "Muse能带火国内个人AI智能体吗？",
-      "canonicalSignal": "Muse能带火国内个人AI智能体吗？",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Muse能带火国内个人AI智能体吗？ 36Kr。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Muse能带火国内个人AI智能体吗",
-        "AI AGENT"
+        "AI 带来的效率",
+        "可能会毁掉下一代专业人才"
       ],
       "sources": [
         {
           "name": "36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTT3EyTzlDd05ZN1B1YXVkV0hfUTMtSC1Idkp2MHNtM09GbURVTnFtWUJEeHZmTnUwaFMzcnBvZ2xIZmZhXzdXaXU3R3poQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VQUdQcXQza0Jwd3B1b2JwUUxacDRqOTF0TUZyWk9rOF9JVEtUNTVITDU3UGk3YjRHWnZKaXJadW5XQjhyT19EQVZkUG5sdw?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Thu, 15 Oct 2026 18:43:00 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 09:30:00 GMT"
         }
       ],
       "sourceCount": 1,
@@ -791,59 +181,26 @@
       "chainFit": "待核验"
     },
     {
-      "id": "2026-10-16-33-nyobolt电池将为agilityrobotics的digit5人形机器人提供动力",
-      "title": "Nyobolt 电池将为 Agility Robotics 的 Digit 5 人形机器人提供动力",
-      "canonicalSignal": "Nyobolt 电池将为 Agility Robotics 的 Digit 5 人形机器人提供动力",
-      "category": "AI 科技",
+      "id": "2026-10-17-1-eloriansfirstaimodelwantstoreasonwithimage",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "canonicalSignal": "Elorian’s first AI model wants to reason with images, not just about them",
+      "category": "创新突破",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Nyobolt 电池将为 Agility Robotics 的 Digit 5 人形机器人提供动力 Unite.AI。",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Nyobolt 电池将为 Agility Robotics 的"
-      ],
-      "sources": [
-        {
-          "name": "Unite.AI",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDllSG9RM2dMekp2bFNLUTZkMDhRdGh2S3l3d0ZkQzlGRUc1cWxyX29jZk5CbzhYUlVNajNGWUVpcnVqd0dMX0c4ZXB5Vk5jTzZjWU1UMkJDcGxZX1pkUzg4RExnVUZ6ak96ZjFTSFNFSEE1WURKaFpMT1J0bGpsYXNkM0htcUg1UW1IYnlBYVIyZWU3QjVNWWpB?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 05:07:00 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "Unite.AI"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-2-replitsceosaysthefutureofworkistheselfdriv",
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "canonicalSignal": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Replit’s CEO says the future of",
-        "AI AGENT"
+        "not just about them"
       ],
       "sources": [
         {
           "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
           "tier": "主流科技媒体",
-          "publishedAt": "Fri, 16 Oct 2026 12:55:09 +0000"
+          "publishedAt": "Fri, 16 Oct 2026 16:01:37 +0000"
         }
       ],
       "sourceCount": 1,
@@ -856,59 +213,129 @@
       "chainFit": "待核验"
     },
     {
-      "id": "2026-10-16-13-stackoverflowforagentstriplessignupswithch",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "canonicalSignal": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "category": "AI 科技",
+      "id": "2026-10-17-12-immunitybioincibrx股价尽管膀胱癌治疗取得重大突破仍下跌725区块链",
+      "title": "ImmunityBio, Inc. (IBRX) 股价：尽管膀胱癌治疗取得重大突破，仍下跌7.25%-区块链文库",
+      "canonicalSignal": "ImmunityBio, Inc. (IBRX) 股价：尽管膀胱癌治疗取得重大突破，仍下跌7.25%-区块链文库",
+      "category": "创新突破",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.。",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "ImmunityBio, Inc. (IBRX) 股价：尽管膀胱癌治疗取得重大突破，仍下跌7.25%-区块链文库 https://www.5m88.com/。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Stack Overflow for Agents triple",
-        "AI AGENT"
+        "ImmunityBio",
+        "Inc.",
+        "IBRX",
+        "股价",
+        "尽管膀胱癌治疗取得重大突破"
       ],
       "sources": [
         {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "tier": "官方源",
-          "publishedAt": "Fri, 16 Oct 2026 00:00:00 GMT"
+          "name": "https://www.5m88.com/",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YMHIyT3VIMDdoOGJVT1pYYzgtZ0x1aktkVERKUm12VUxRWVdCTFJPdjFJRTNLUVB0WWt5TmxZTWwzUVpUay1YNmZNQVpydw?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 16 Oct 2026 16:59:00 GMT"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "OpenAI News"
+        "https://www.5m88.com/"
       ],
-      "verification": "1 个独立来源 · 高置信度",
-      "confidence": "高",
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-0-indiabecomesthelatestcountrytoreportroguea",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "canonicalSignal": "India becomes the latest country to report rogue AI agent activity",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "India becomes the latest country",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "tier": "主流科技媒体",
+          "publishedAt": "Fri, 16 Oct 2026 17:52:24 +0000"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "TechCrunch AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
       "risk": "自动聚合，仍需核对原始来源与语境",
       "chainFit": "待核验"
     },
     {
-      "id": "2026-10-16-8-trumppostsaieditedphototobragaboutwhitehou",
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "canonicalSignal": "Trump posts AI-edited photo to brag about White House restoration work",
+      "id": "2026-10-17-28-metamuse",
+      "title": "Meta Muse",
+      "canonicalSignal": "Meta Muse",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "持续传播",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-08",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "Meta Muse 被描述为可以在桌面环境中执行操作的 AI 助手，叙事重点从‘会聊天’转向‘AI 有手了’。",
+      "why": "‘AI 有手了’是短而直观的产品叙事；桌面操作、文件和应用控制也给二创留下了明确动作。",
+      "keywords": [
+        "META MUSE",
+        "DESKTOP AGENT",
+        "COMPUTER USE"
+      ],
+      "sources": [
+        {
+          "name": "OrcaRouter",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Smt3dFdJMzRPeTE3QnRPcVU1dkkxdy14ZlB0UVZKS003alVBem1objRCVUZ5cUlzX091NUNuUW1UcklvM2YzMTFtOUNmRVg2NVM2NXQ3d1FEWlRpSk1oNmsyTWZoWmRnWHZMek1PNGRnbENm?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 03:29:58 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "OrcaRouter"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "产品名、品牌和功能真伪需核验",
+      "chainFit": "高"
+    },
+    {
+      "id": "2026-10-17-2-metaremoveslanguagethatmayhaveallowedittos",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "canonicalSignal": "Meta removes language that may have allowed it to scrape news sites",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discr。",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta 。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Trump posts AI-edited photo to b"
+        "Meta removes language that may h"
       ],
       "sources": [
         {
           "name": "The Verge AI",
-          "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
           "tier": "主流科技媒体",
-          "publishedAt": "2026-10-15T17:09:33-04:00"
+          "publishedAt": "2026-10-17T11:04:36-04:00"
         }
       ],
       "sourceCount": 1,
@@ -921,427 +348,28 @@
       "chainFit": "待核验"
     },
     {
-      "id": "2026-10-16-18-vitalik展示aiagent隐私模式接入torzkapi与本地llm",
-      "title": "Vitalik展示AI Agent“隐私模式”：接入Tor、zkAPI与本地LLM",
-      "canonicalSignal": "Vitalik展示AI Agent“隐私模式”：接入Tor、zkAPI与本地LLM",
+      "id": "2026-10-17-18-openai入局具身智能国内企业该拼的不是模型是资源整合",
+      "title": "OpenAI入局具身智能，国内企业该拼的不是模型，是资源整合",
+      "canonicalSignal": "OpenAI入局具身智能，国内企业该拼的不是模型，是资源整合",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "Vitalik展示AI Agent“隐私模式”：接入Tor、zkAPI与本地LLM TradingView。",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "OpenAI入局具身智能，国内企业该拼的不是模型，是资源整合 机器人大讲堂。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Vitalik展示AI Agent“隐私模式”",
-        "接入Tor、zkAPI与本地LLM",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUOTBzRTF0UzFBWjgxQVA1M3BwaV90UVlaWmpmOEZnXzVHSkFxc3AyR0JhQ0dHWWV6Zm5Oa1UyRHNvRXpvVDlwYjZsdkxhdnhsOXhhRjFDcHlka0NmM3dKaFVDVm0yZw?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 11:14:26 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TradingView"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-3-whenitcametocalaisviralsuccessasmallarmyof",
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "canonicalSignal": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.。",
-      "why": "该条目具备可复制句式，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "When it came to Cal AI’s viral s"
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Thu, 15 Oct 2026 23:44:56 +0000"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TechCrunch AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "中"
-    },
-    {
-      "id": "2026-10-16-37-不烧心播放超22亿次ai短剧如何造出全民热梗",
-      "title": "“不烧心”播放超22亿次，AI短剧如何造出全民热梗？",
-      "canonicalSignal": "“不烧心”播放超22亿次，AI短剧如何造出全民热梗？",
-      "category": "中文热梗",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "“不烧心”播放超22亿次，AI短剧如何造出全民热梗？ 中广互联。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "“不烧心”播放超22亿次",
-        "AI短剧如何造出全民热梗"
-      ],
-      "sources": [
-        {
-          "name": "中广互联",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05Y0ctUjYzUTVaaFhJYjhfTmdiOG9mU21oZWhjTTZmTFBtMUsxeDA0bHhyek5VV0hOQWY1bFU4RmhHV1lQNUx2WVFnRQ?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 02:53:01 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "中广互联"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-15-券商聚焦中信证券aieda正成为aiagent落地的下一个重要方向滚动新闻财经",
-      "title": "【券商聚焦】中信证券：AI EDA正成为AI Agent落地的下一个重要方向_滚动新闻_财经",
-      "canonicalSignal": "【券商聚焦】中信证券：AI EDA正成为AI Agent落地的下一个重要方向_滚动新闻_财经",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "【券商聚焦】中信证券：AI EDA正成为AI Agent落地的下一个重要方向_滚动新闻_财经 证券之星。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "券商聚焦】中信证券",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "证券之星",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFVDNuamVEY3pQb3Zhazg2Sm1xajNsQnRXVno5cTJxeVF6X1JJMXY3WFJrUTQtamE4bnNVVURpdlY3SmpBTER2bmVJUmxwZ1Jwak9WdlUzNF90dVpqSFd2OQ?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 00:51:14 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "证券之星"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-16-中信证券aieda正成为aiagent落地下一个重要方向eda价值有望重估",
-      "title": "中信证券：AI EDA正成为AI Agent落地下一个重要方向 EDA价值有望重估",
-      "canonicalSignal": "中信证券：AI EDA正成为AI Agent落地下一个重要方向 EDA价值有望重估",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "中信证券：AI EDA正成为AI Agent落地下一个重要方向 EDA价值有望重估 凤凰网。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "中信证券",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "凤凰网",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tbGltUzFoUk1JTzJEdGxtZkNkem52WGVQbC1rS2oyTXFZTkZ1Tm5PelBSQ0dLcVBtS0hsOFJDNnVMODEyWGduNG1aaHJYcG5X?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 00:12:54 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "凤凰网"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-19-亚马逊agent最严厉的父亲grokbotaiagent商品马斯克购物",
-      "title": "亚马逊，Agent最严厉的父亲|Grok Bot|AI Agent|商品|马斯克|购物",
-      "canonicalSignal": "亚马逊，Agent最严厉的父亲|Grok Bot|AI Agent|商品|马斯克|购物",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "亚马逊，Agent最严厉的父亲|Grok Bot|AI Agent|商品|马斯克|购物 finance.sina.com.cn。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "亚马逊",
-        "Agent最严厉的父亲",
-        "Grok Bot",
-        "AI Agent",
-        "商品"
-      ],
-      "sources": [
-        {
-          "name": "finance.sina.com.cn",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTklGOHhINWV4QXFjMW02RTEtSzROdTFId3B2Nk5qUVFUcGlhTUE5VmhxTGZYUExfSk16MHFjTVB5Uk03dWNjZ0Z2RU96WmszWk5pVWt1OFpUR29fbGlCY2JHVTNUakdTVmstWUFndmdvNjhKNUtCZjZRV1d1MUFfY3I5bjlKZGcyZFRSREZ3VkpxRDFPNksybzF5djVMR0J0ZHRhNFVYaw?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 04:04:34 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "finance.sina.com.cn"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-36-人形机器人概念震荡反弹宇树科技涨超5",
-      "title": "人形机器人概念震荡反弹 宇树科技涨超5%",
-      "canonicalSignal": "人形机器人概念震荡反弹 宇树科技涨超5%",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "人形机器人概念震荡反弹 宇树科技涨超5% 富途牛牛。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "人形机器人概念震荡反弹 宇树科技涨超5%"
-      ],
-      "sources": [
-        {
-          "name": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3MtSzdsZDNJUE9kRUoxZkNseUVVN3pHXzVNMFlkdmM5US0yU00wMWgzTk9tS0hJTXFjbDFqRnEtSl9wYWVWUVdua3B0RnV6MG9XeGQtMERkbnFaMEJpUThtcS1IcFZVWEs3YXQwcUVCLU9VUlZVTDFEYUZNbGlUVS1fanI1akp5ZHVVQ0MyeVAzaEdabUw3a0J5RlZkWXZyU1pQWENPTnZOZ0F4dHpNZFZYVkk2OGNOVkhvcmp3MA?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 02:44:31 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "富途牛牛"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-42-从coding到runningainativesreagent的工程实践",
-      "title": "从 Coding 到 Running：AI Native SRE Agent 的工程实践",
-      "canonicalSignal": "从 Coding 到 Running：AI Native SRE Agent 的工程实践",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "再热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-15",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "从 Coding 到 Running：AI Native SRE Agent 的工程实践 InfoQ-CN。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "从 Coding 到 Running",
-        "AI Native SRE Agent 的工程实践",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "InfoQ-CN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YelYtUlhKdk1DUVhWR3hhQUNnd2ZWMmZ4VVMzT0s5QU9oYUpxaW42SWRMUGtpelpRM0h5emF3WF92Mk1CVF84NGhXbHJ3QU82eGdpaXltdjRXNm1iWUE?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 07:33:29 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "InfoQ-CN"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-38-又成热梗小札扎饮黑啤画面疯传装镇定后默默推开",
-      "title": "又成热梗？小札扎饮黑啤画面疯传 装镇定后默默推开…",
-      "canonicalSignal": "又成热梗？小札扎饮黑啤画面疯传 装镇定后默默推开…",
-      "category": "中文热梗",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "又成热梗？小札扎饮黑啤画面疯传 装镇定后默默推开… 文学城。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "又成热梗",
-        "小札扎饮黑啤画面疯传 装镇定后默默推开…"
-      ],
-      "sources": [
-        {
-          "name": "文学城",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iaGNpaThLRlFqZmF5bVNsSERKeXUxVGl6NV8zZVU5R2JzNWtRV2JLdGVrQUZ2OUVCZ25CYXZ2a1Q4Q2ctNmd2NjNkdlJoRkczV1dSZ2tFM1RvQU5nUkl6QXFuMFBFbHNZ?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Thu, 15 Oct 2026 16:48:06 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "文学城"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-21-国产碳化硅加工装备重大突破产业链量价齐升这7股业绩倍增可期名单",
-      "title": "国产碳化硅加工装备重大突破！产业链量价齐升 这7股业绩倍增可期(名单)",
-      "canonicalSignal": "国产碳化硅加工装备重大突破！产业链量价齐升 这7股业绩倍增可期(名单)",
-      "category": "创新突破",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "国产碳化硅加工装备重大突破！产业链量价齐升 这7股业绩倍增可期(名单) 东方财富。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "国产碳化硅加工装备重大突破",
-        "产业链量价齐升 这7股业绩倍增可期",
-        "名单"
-      ],
-      "sources": [
-        {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uNy1SZmlJOGRHWFU0VnlyMDZiMjNhdm5BaFhYMVM5MDc4a1dmTW5TakFsdlZtMG0yWDk0SnNHYnVEd2xNT3ZxNEI4NDhwTmFzRWtYdG5pUzRhbHRib2dDTQ?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 00:07:27 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "东方财富"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-22-小k播早报a股科技板块迎预增回购潮谷歌发布量子计算重大突破",
-      "title": "小K播早报|A股科技板块迎预增、回购潮 谷歌发布量子计算重大突破",
-      "canonicalSignal": "小K播早报|A股科技板块迎预增、回购潮 谷歌发布量子计算重大突破",
-      "category": "创新突破",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "小K播早报|A股科技板块迎预增、回购潮 谷歌发布量子计算重大突破 财联社。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "小K播早报",
-        "A股科技板块迎预增、回购潮 谷歌发布量子计算重大突破"
-      ],
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mRExlZ3lTejZ3Q1FLMDZWSTN4dENmazZyX0FKRU1jRHhnR3YtcllZb0tSTVNHQThCRFpyQ2FqWFRIVmdaYlZQMA?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 00:05:00 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "财联社"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-39-打游戏打到贤者时间摸了几个表情包没画几个但强行凑9之后慢慢收集烂梗不定期更新",
-      "title": "打游戏打到贤者时间摸了几个表情包【没画几个但强行凑9 之后慢慢收集烂梗不定期更新",
-      "canonicalSignal": "打游戏打到贤者时间摸了几个表情包【没画几个但强行凑9 之后慢慢收集烂梗不定期更新",
-      "category": "中文热梗",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "打游戏打到贤者时间摸了几个表情包【没画几个但强行凑9 之后慢慢收集烂梗不定期更新 手机新浪网。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "打游戏打到贤者时间摸了几个表情包【没画几个但强行凑9 之后慢慢收"
-      ],
-      "sources": [
-        {
-          "name": "手机新浪网",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIN0pVclhiT2hFRDB2WjM5cVVKZ204RnBuOFF5c29BRUh3MmxyTlhYS0ZsMnpSaWJlSWdmU0ZMY0h6dnZJazNLYlB4YjZIOXpJdzJjWVhuSW5tQk5TTF9KUnd3TQ?oc=5",
-          "tier": "聚合发现",
-          "publishedAt": "Thu, 15 Oct 2026 16:34:00 GMT"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "手机新浪网"
-      ],
-      "verification": "1 个独立来源 · 低置信度",
-      "confidence": "低",
-      "risk": "单一来源，需人工核验原文和传播范围",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-10-16-32-浙大机器人研究院团队做的nexform新元体种子轮融了数千万签约金额已过亿",
-      "title": "浙大机器人研究院团队做的NEXFORM新元体，种子轮融了数千万，签约金额已过亿",
-      "canonicalSignal": "浙大机器人研究院团队做的NEXFORM新元体，种子轮融了数千万，签约金额已过亿",
-      "category": "AI 科技",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "浙大机器人研究院团队做的NEXFORM新元体，种子轮融了数千万，签约金额已过亿 机器人大讲堂。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "浙大机器人研究院团队做的NEXFORM新元体",
-        "种子轮融了数千万",
-        "签约金额已过亿"
+        "OpenAI入局具身智能",
+        "国内企业该拼的不是模型",
+        "是资源整合"
       ],
       "sources": [
         {
           "name": "机器人大讲堂",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YbWFnczBHR2lNTUdXVWU4YTBRSTBhbWlpZVJGNENubUN4ZURMNGtPTHNXWThXUjc2ZGZJSF9Zc3BZU0sxbDRkWXlwUXZjdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1yWk9sVDVaci1FZFdrSFE1dEZKYzAzeEdaVWluYmVxWjg2V0xheGF6VTJueWZ4N25UUUtZY3pFNC1kS3V6VVlWNkY3Wk5DQQ?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Fri, 16 Oct 2026 03:17:13 GMT"
+          "publishedAt": "Fri, 16 Oct 2026 19:44:28 GMT"
         }
       ],
       "sourceCount": 1,
@@ -1354,31 +382,693 @@
       "chainFit": "待核验"
     },
     {
-      "id": "2026-10-16-48-温和智能革新体验ai机器人从机械执行进阶共情陪伴",
-      "title": "温和智能革新体验 AI机器人从机械执行进阶共情陪伴",
-      "canonicalSignal": "温和智能革新体验 AI机器人从机械执行进阶共情陪伴",
+      "id": "2026-10-17-4-roundtablesaconversationwiththecreatorofai",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "canonicalSignal": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "category": "创新突破",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "Roundtables"
+      ],
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "tier": "主流科技媒体",
+          "publishedAt": "Fri, 16 Oct 2026 18:00:00 +0000"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "MIT Technology Review"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-24-theworldisnotadatasetbuildingaisystemsthat",
+      "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "canonicalSignal": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-10-16",
-      "firstSeenAt": "2026-10-16",
-      "recentPropagationAt": "2026-10-16",
-      "summary": "温和智能革新体验 AI机器人从机械执行进阶共情陪伴 36Kr。",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海 InfoQ-CN。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "温和智能革新体验 AI机器人从机械执行进阶共情陪伴"
+        "The World Is Not a Dataset - Bui"
+      ],
+      "sources": [
+        {
+          "name": "InfoQ-CN",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFRsYTFqVUh2aTQ1RTR3MnVuRTVIcG55YXBhcmlTMWVod3VlczBvd1NucDhDb3k2b3RNOFJwX1kzUmRYYXRoSWZZV2pLOHUwMjMxZWdxLXVBQTlNUC1xM2dERmhDLXB0dnNvMnNzTTM4bEhSaHJqdXFidUtUNGFXWWg3Qk5IOWhOaFNaR2xzMUQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 07:05:10 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "InfoQ-CN"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-3-websitesareclosingtheirdoorstoaiagents",
+      "title": "Websites are closing their doors to AI agents",
+      "canonicalSignal": "Websites are closing their doors to AI agents",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. Bu。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "Websites are closing their doors",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "tier": "主流科技媒体",
+          "publishedAt": "2026-10-17T09:00:00-04:00"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "The Verge AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-5-中信证券aieda智能体时代价值重估aiagent芯片agentcopilot工具",
+      "title": "中信证券：AI EDA“智能体时代”价值重估|AI Agent|芯片|Agent|Copilot|工具",
+      "canonicalSignal": "中信证券：AI EDA“智能体时代”价值重估|AI Agent|芯片|Agent|Copilot|工具",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "中信证券：AI EDA“智能体时代”价值重估|AI Agent|芯片|Agent|Copilot|工具 finance.sina.com.cn。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "中信证券",
+        "AI EDA“智能体时代”价值重估",
+        "AI Agent",
+        "芯片",
+        "Agent"
+      ],
+      "sources": [
+        {
+          "name": "finance.sina.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMioAVBVV95cUxQWFFiN1BYZ09GcmpLSlkzMnkwc0tCMW92ck5pTGczMUtoOHJNekppMzZDRko0ZEs3YUYwX2RDTmZiLWw3T1piZ1ktMnd4Z0JVSVJJX0F1TTliRndzMVpycU9Zc2VSc2tIWEd2SzFPZVJnLXo3blgxSGxoU2s2ZVltSWhsbHhLdHlTcWRxZUNkeHRLT0ZZeFVCM3E1Z0x0a2hleGtydzd3MlZSU2pDemFORDlTVHl5bURTUmlvYk5vS0RkbzlDaklTa05KRUVlTFBXLTRwUFJEUkRkcURqY1dva1JsV2sybGNsOGtFaF9WVDl5cEhYNVN5VHFwZzN6eXc3c0tUR1ktLU1ZXy04UEJtaWFTaFJ0aWJnWlBUbXozbGJwM3BQTUM2V3BnZTVhaUI0V2RmY1M4QVkySmstMGdNaWx5c2I0SnVLZHZHVEJoX3g1UTkyemVFNldNcVZRQ0RVeDBObUNNNUpyUldHUVVZWFRtSkoxMjdNdkFBQ1dQcmhKalZWY3FqcG5Ub1ZHR2hKSXk5ay1LdUZUOUp6U1hSeXhiTWZVcHF6aVotdmw1MlRlUHRHZGpBVlRHeU42VWpQRXJ1UUVlN2ZDQzJ4NzR6NGt0aXdQUUt1Z1pPY0ljejhuMXY2eGJxbDJUaENhRVlvaHJrN09nd1gxNTUzTzlLS0pSMENtMnkyVDI3SU55VTFBc1ZxSVNvRVB5RHF1OHZ1ZmsxTzRCV3NMZ1FBRU53a05CUDdfZkdTNEFJUnFET21VdFV2aDI5c2pPRWt3RVhvOUI0ZUZPeUVqb0xwZzRfX1RuZjhPVUc2VGJ5YzNjemxMaGdaTkZUcm9WZlpzVWRWS194VFNCZWZKdFJlT2I3a1JQSk1tRU5WNUt2YlZoU1A?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 00:43:44 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "finance.sina.com.cn"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-16-中国人形机器人在美国才艺秀americasgottalent上跳舞和跳高进入决赛",
+      "title": "中国人形机器人在美国才艺秀《America's Got Talent》上跳舞和跳高，进入决赛",
+      "canonicalSignal": "中国人形机器人在美国才艺秀《America's Got Talent》上跳舞和跳高，进入决赛",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "中国人形机器人在美国才艺秀《America's Got Talent》上跳舞和跳高，进入决赛 VOI.ID。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "进入决赛"
+      ],
+      "sources": [
+        {
+          "name": "VOI.ID",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yTXhFNTA1Q3N4V2pRVEJFb1VGTXNEUWVPRE5mTWFrS2tWVVRGZ0dNblQ1cWxwSTlHSjY5bXhqZWtjSHhXakV5bW5fMF83T0nSAUJBVV95cUxNVFFid2VhbVBYQ1hrRjdVbmZRaGViR2l4UWt6S2QxbXdtaHp2YkhrNmx3a2RYVzQ0enhTY1RncEZPLWc?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 06:21:40 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "VOI.ID"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-17-中国推出4公尺巨型机器人neo1双臂负载达半吨国际国际拼盘",
+      "title": "中国推出4公尺巨型机器人 Neo1双臂负载达半吨 - 国际 - 国际拼盘",
+      "canonicalSignal": "中国推出4公尺巨型机器人 Neo1双臂负载达半吨 - 国际 - 国际拼盘",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "中国推出4公尺巨型机器人 Neo1双臂负载达半吨 - 国际。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "中国推出4公尺巨型机器人 Neo1双臂负载达半吨 - 国际 -"
+      ],
+      "sources": [
+        {
+          "name": "Sin Chew Daily",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01SzVhRHIwamVpa3JjWmVmYXNNSWZBRkJDZDRMaUIzMlRiemhRMDZON0U0RV9GcWpMS0xwUjdUZHRQRkR1YU01LXotQ1pDU1Qxc2pEVlZiT3lmRWRGZDdxT0VVX0xlSktMcHM2djllOA?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 16 Oct 2026 23:37:23 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "Sin Chew Daily"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-11-从互联网到ai周期轮回下一场突破将在2036年",
+      "title": "从互联网到AI，周期轮回下一场突破将在 2036年",
+      "canonicalSignal": "从互联网到AI，周期轮回下一场突破将在 2036年",
+      "category": "创新突破",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "从互联网到AI，周期轮回下一场突破将在 2036年 创业邦。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "从互联网到AI",
+        "周期轮回下一场突破将在 2036年"
+      ],
+      "sources": [
+        {
+          "name": "创业邦",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IOUFRTExMMzRwNk5xLTcwN1RZd2hyT1hfYnp1WFlTZURjUE1pUU5MMUJXeU1GY1M2cW5RUFdMRVIxTHdra3pJWDNNemxNbzdu?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 03:47:11 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "创业邦"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-23-众筹近400万美金这家明星ai体育硬件公司做了款多合一教练机器人产品观察",
+      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+      "canonicalSignal": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察 36Kr。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "众筹近400万美金",
+        "这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察"
       ],
       "sources": [
         {
           "name": "36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wcFdHT2kyRmVTTUFhYmdqSEpIOWRXRHYwMFpGdWFpWS1pdEZDVXdSYU1ZYXUzcWJhdmVlV3NTRlo2S0RLUmlJejFUU3k2eEtnUjZR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JUU1GR1FLbi1TWWN3aS1qUWJtbXB6T0h1eVlXODZyZDRGV2h5c3Z0QTF6T3RCVmFDZG4wV3oxNnJBbmcxcTlYZUM0Q3lUQQ?oc=5",
           "tier": "聚合发现",
-          "publishedAt": "Thu, 15 Oct 2026 17:30:00 GMT"
+          "publishedAt": "Sat, 17 Oct 2026 14:54:29 GMT"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
         "36Kr"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-14-全球人形机器人收入前五全是中国企业前8个月深圳机器人出口激增超1200",
+      "title": "全球人形机器人收入前五全是中国企业 前8个月深圳机器人出口激增超1200%",
+      "canonicalSignal": "全球人形机器人收入前五全是中国企业 前8个月深圳机器人出口激增超1200%",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "全球人形机器人收入前五全是中国企业 前8个月深圳机器人出口激增超1200% 富途牛牛。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "全球人形机器人收入前五全是中国企业 前8个月深圳机器人出口激增超"
+      ],
+      "sources": [
+        {
+          "name": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDRQTXIxX2MwelJGM1N2cWQ4Q2tOXzhRYUZtOF9tV1RwMVpIOGJpaXR2aG9DdFpmZEtmOTdNbzI1Y1N4UFZnVWFaR1VMbXZzTEJMazVxaE5TRXhCWnV4VWZSZTQwN1E5LTliSkRLMVZ5M21wVVdncVRSSnFoV0tPQ1hIRl9MOFVZYVhuMHlPaWwyYXZZaXFrUGNieTd3Rk1JUGl1NEhxMEFmdGVWM29LZWlta1ZHdw?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 11:02:22 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "富途牛牛"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-19-全网热梗照进河北省第十七届运动会现场演员凌空起舞燕赵儿女展翅向上",
+      "title": "全网热梗照进河北省第十七届运动会现场！演员凌空起舞，燕赵儿女展翅向上",
+      "canonicalSignal": "全网热梗照进河北省第十七届运动会现场！演员凌空起舞，燕赵儿女展翅向上",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "全网热梗照进河北省第十七届运动会现场！演员凌空起舞，燕赵儿女展翅向上 河北广播电视台。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "全网热梗照进河北省第十七届运动会现场",
+        "演员凌空起舞",
+        "燕赵儿女展翅向上"
+      ],
+      "sources": [
+        {
+          "name": "河北广播电视台",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5OVp1Nko3WWJtN3d4LUtxODJiWEFCV1pXdEE5TkFJS3B5WUNULUgxZUVGRjNJZjlCQkJqbU4xR2VaWkNFaTF3UV9Yd1BBY0dYRi1oY1dyc05INi1lbGw4UVJYcDJ5UjlyVF9v?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 01:02:32 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "河北广播电视台"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-29-哪些ai助手能替你购物各自在哪些地方可用",
+      "title": "哪些 AI 助手能替你购物，各自在哪些地方可用",
+      "canonicalSignal": "哪些 AI 助手能替你购物，各自在哪些地方可用",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "哪些 AI 助手能替你购物，各自在哪些地方可用 Pasquale Pillitteri。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "哪些 AI 助手能替你购物",
+        "各自在哪些地方可用"
+      ],
+      "sources": [
+        {
+          "name": "Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2lSZUk3bjh1ci1HYzQxdmhEZl9CdzRwVnhMUjJhNUFvZXFWclM0ZUNnN1hacFFoN0ZSRHd6NUl5bjZvaGxpNG9QWEVCVkNKdGpENk9RcHRIY084b3U5UkxJcFdEZ2duUWJJQWRTdGt4MUlBMzdJQW9ISkszN1RRcnhnbGo?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 16 Oct 2026 16:58:11 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "Pasquale Pillitteri"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-8-开源iterlay让claudecode等aiagent在画布上配图改图与管理素材",
+      "title": "开源 Iterlay：让 Claude Code 等 AI Agent 在画布上配图、改图与管理素材",
+      "canonicalSignal": "开源 Iterlay：让 Claude Code 等 AI Agent 在画布上配图、改图与管理素材",
+      "category": "创新突破",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "开源 Iterlay：让 Claude Code 等 AI Agent 在画布上配图、改图与管理素材 www.80aj.com。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "开源 Iterlay",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "www.80aj.com",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02SGRQZmF0ZktzWnl1U1ZiT3czd25mWEYxa1FWb0cxd3g5T3hhUFRPSGIyTERwalFFbGNzcTBYUVFMckNpSDRnTE85RE9BZEQ3NmZxcHEyUmRrRU1RTnFmMVVJWQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 08:34:31 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "www.80aj.com"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-7-开源项目pebrel发布v22更新为windows打造更美观的aiagent终端界面",
+      "title": "开源项目 Pebrel 发布 v2.2 更新：为 Windows 打造更美观的 AI Agent 终端界面",
+      "canonicalSignal": "开源项目 Pebrel 发布 v2.2 更新：为 Windows 打造更美观的 AI Agent 终端界面",
+      "category": "创新突破",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "开源项目 Pebrel 发布 v2.2 更新：为 Windows 打造更美观的 AI Agent 终端界面 https://www.80aj.com/。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "开源项目 Pebrel 发布 v2.2 更新",
+        "为 Windows 打造更美观的 AI Agent 终端界面",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "https://www.80aj.com/",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KcW5tNkcwZkVoSGlLTl9XcVN5NXBZYkRmd1lMOWs4eWx4WDRGRUc4bHFpTnBjWDJVMlFfMnNOZTRGdm1QaDBYSS1rWGs5WTJ3bUtYSm5iTjl4M2x1OEY5akl4SUJucHEtNnF2eW93?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 14:36:34 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "https://www.80aj.com/"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-13-梅卡曼德把眼脑手搬进工博会人形机器人自主分拣海量随机物体",
+      "title": "梅卡曼德把“眼脑手”搬进工博会，人形机器人自主分拣海量随机物体",
+      "canonicalSignal": "梅卡曼德把“眼脑手”搬进工博会，人形机器人自主分拣海量随机物体",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "梅卡曼德把“眼脑手”搬进工博会，人形机器人自主分拣海量随机物体 机器人大讲堂。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "梅卡曼德把“眼脑手”搬进工博会",
+        "人形机器人自主分拣海量随机物体"
+      ],
+      "sources": [
+        {
+          "name": "机器人大讲堂",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hTEJ4SEZRaXhiS3lWd081OFFJaW9sMFJVMU94TzhaZU9Wa1FPS3NjRU9yQjBpMTF1SktZN2dibnNLSVFqU2hGTFN5NjBuQQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 16 Oct 2026 19:44:28 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "机器人大讲堂"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-15-法拉第未来发布人形机器人ffnova定价2490美元首批交付20台",
+      "title": "法拉第未来发布人形机器人FF Nova，定价2490美元，首批交付20台",
+      "canonicalSignal": "法拉第未来发布人形机器人FF Nova，定价2490美元，首批交付20台",
+      "category": "创新突破",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "法拉第未来发布人形机器人FF Nova，定价2490美元，首批交付20台 机器人大讲堂。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "法拉第未来发布人形机器人FF Nova",
+        "定价2490美元",
+        "首批交付20台"
+      ],
+      "sources": [
+        {
+          "name": "机器人大讲堂",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aVm1PQzBwVUNMWFV2bXF0c2JUWVkzZkJZY1dabmxrTENxTm9ESWtWc0Vtb1BJT2Yxbm5XWVF4ak9WX0U1SjBXOWFJYlBnUlFESEdrWUlFaVA?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 02:44:43 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "机器人大讲堂"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-21-热梗越刷越溜我们为何越来越词穷",
+      "title": "热梗越刷越溜，我们为何越来越词穷",
+      "canonicalSignal": "热梗越刷越溜，我们为何越来越词穷",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "热梗越刷越溜，我们为何越来越词穷 搜狐网。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "热梗越刷越溜",
+        "我们为何越来越词穷"
+      ],
+      "sources": [
+        {
+          "name": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHFrZ3g4a3VuVWV0ZXVzZkJMTEk4d285RkdXVGRIdWdGM3NXQ2g5TGhaQW96bTl1SUxyWm51cTZDcXA5R3lmMnJCUmJ6a0syZFREc3NkWGZWLTZRcmlNZkRNZVk4ZGpxQ3Z0WDRFWFg4NGtaaDg5UjlpbWtjaDlMVWV3eG1kRzFqNGtBZjh2TQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 00:47:23 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "搜狐网"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-22-现在就出发4名场面引爆全网玩梗热潮",
+      "title": "现在就出发4名场面引爆全网玩梗热潮",
+      "canonicalSignal": "现在就出发4名场面引爆全网玩梗热潮",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "现在就出发4名场面引爆全网玩梗热潮 新浪网。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "现在就出发4名场面引爆全网玩梗热潮"
+      ],
+      "sources": [
+        {
+          "name": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xVGZTRXExQzBQZl8yenJ5TVVpUnloYXpjTTd5SnV6LTYxVGg2US12R0Uyc2pMdTBKcnh6N3QxRmZQRHI4dllSN1pWWWp6bkVRejJOemRLdUV1eGxlUXNmOVJPWGpqNmJ1REU3ZEZIQXpfUQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 16 Oct 2026 22:01:53 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "新浪网"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-25-第二届中国geoai营销智能体峰会从被看见到被选择",
+      "title": "第二届中国GEO & AI营销智能体峰会 | 从「被看见」到「被选择」",
+      "canonicalSignal": "第二届中国GEO & AI营销智能体峰会 | 从「被看见」到「被选择」",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "第二届中国GEO & AI营销智能体峰会。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "第二届中国GEO & AI营销智能体峰会",
+        "从「被看见」到「被选择」",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93NWJLQnM1czQtWWQwWkNPWk5EYk1sVW9ubFFKMktVN3Y1dmJtOXJqYzlOR2pNNjd0dFg3ZWZaemdEc0ctLU95UzIwX0Vfdw?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 16 Oct 2026 18:38:33 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "36Kr"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-6-美银花旗出手限制aiagent",
+      "title": "美银、花旗出手限制AI Agent",
+      "canonicalSignal": "美银、花旗出手限制AI Agent",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "美银、花旗出手限制AI Agent 搜狐网。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "美银、花旗出手限制AI Agent",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9veHphUHdfSGJBdEh3S0VGNl9qTy1FODFYVmpkbGNCalhuQUk3Z25fazlEWFpnQlVzQnJjZHUtdzNQUjRkVlhUNE5QOWx2aXVtLVdPdlZR?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 01:51:00 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "搜狐网"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-10-金融监管领域的harness实践让知识与数据驱动agent稳定运行",
+      "title": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行",
+      "canonicalSignal": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行 InfoQ-CN。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "金融监管领域的 Harness 实践",
+        "让知识与数据驱动 Agent 稳定运行",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "InfoQ-CN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJRVE1bTBvWW52Y0NsM0ttYS13bThWMWNiQkZMWTBnQUdfdWxsdno4YnJ4Yk55bnBHX19mSHlBbXdzLVliUFc3NWVyQkZPS1h3cHVKRFhfMWlGbWZsaFE?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 17 Oct 2026 14:19:54 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "InfoQ-CN"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-10-17-20-锤娜丽莎活用热梗称刘亦菲为形容词",
+      "title": "锤娜丽莎活用热梗称刘亦菲为形容词",
+      "canonicalSignal": "锤娜丽莎活用热梗称刘亦菲为形容词",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-10-17",
+      "firstSeenAt": "2026-10-17",
+      "recentPropagationAt": "2026-10-17",
+      "summary": "锤娜丽莎活用热梗称刘亦菲为形容词 新浪网。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "锤娜丽莎活用热梗称刘亦菲为形容词"
+      ],
+      "sources": [
+        {
+          "name": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qX3Jtelc1ZGs1dnhMcXRuRDV3a2Q5c1RIYkZSMkxEVW5EcjA2TkVFdXB2eHlBdE02Q2ttb0JwZ2hkWXB5OXJnLWk5d1FHWUY3YW83dkJqYkRBd2dHcU5sQlpFaVZHOTVKdHJQdTM5bGs?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 16 Oct 2026 17:04:00 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "新浪网"
       ],
       "verification": "1 个独立来源 · 低置信度",
       "confidence": "低",
