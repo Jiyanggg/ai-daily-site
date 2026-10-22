@@ -1,368 +1,368 @@
-# Signal Desk · 2026-10-20
+# Signal Desk · 2026-10-21
 
-优先查看：爱疯18；Meta Muse；Robot Makes Robots。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。
+优先查看：爱疯18；字节撤销咕咕嘎嘎、刀盾狗等网络热梗的美术作品著作权登记！；Meta Muse。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。
 
 ## 今日重点关注
 
 ### 1. [S级] 爱疯18
-- 类别：中文热梗 · 状态：持续传播 · 日期：2026-10-20
+- 类别：中文热梗 · 状态：持续传播 · 日期：2026-10-21
 - 摘要：‘爱疯18’把现实产品发布与《爱情公寓》旧台词、胡一菲擀面杖手机画面重新接在一起。
 - 为什么值得看：旧影视记忆有现成台词、人物和画面，现实事件提供了再次传播的触发点。
-- 验证：16 个独立来源 · 高置信度（17173, Goody25, Mezha.net, Vietnam.vn, arch-web.com.tw, cnBeta.COM, news.lavx.hu, آي-فون إسلام, 太平洋科技, 手机新浪网, 搜狐, 新浪网, 热点科技, 紫牛新闻, 香港01, 驱动之家）
+- 验证：9 个独立来源 · 高置信度（17173, Vietnam.vn, arch-web.com.tw, cnBeta.COM, 中华网, 天极网, 手机网易网, 新浪网, 香港01）
 - 检索词：爱疯18, 胡一菲, 擀面杖手机, IPHONE 18 MEME
 - 风险：影视版权、商标和人物形象风险 · 链上适配度：高
-- 来源：[新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTE5fMmJkX2ZuZHhCR1FNOFhlTENKZHNhMVdLZWNCYlJjMTczZG5RVVZOX2I1LXRaQWt5ZjYwNUplWFlIektVUkNPN3pQQ1JWOEM5aFQ4ZHdpVlk0ZWRzMjI0UFU2UlpQb3MtM3RPT3RKb3YxY00?oc=5), [驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qRnd1cU9tN0k2eGtiVnV6QTMzWVhTTW4tMVV4X3haVm42LWVUT3MyaUdmX1dnVEJ5S3kyS3JFbFhjUy1VZVBxV3lBLXZ5eXJxUVQzVFNnNWM?oc=5), [紫牛新闻](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNUXl5TktxaDlHRWh2eWFpV2ktMk9jZFFxay1vZUtOcXBlekdFZlpJUTZGWHJidEozYndGbjl6YU9MT0RTUE56X2I1U0dRNUVRNzg0SG1WQTVRczc2dTY3TWVNT2N2LVpO?oc=5), [cnBeta.COM](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TX3BrTGRIRGw2VFJYWUhmRHFBN0hSbWRYY0ZwbTU0UHZQX1FtOEpfcjlzMk9TT2JfcVgwYXhPTjhlTFUtcXFfQkR2cTZGQmozRU9yU2Z1bG9PaTJUU2l5cw?oc=5), [热点科技](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Va2Y4TmlaenR4eGVtZ0gtakh0alBLaTRrVTgwUnJZb0F5eWR0S01LLWlVc2VibVlHUU5zT3JHa1pXQ3BSUUFqeHBhYjd3YmM?oc=5), [太平洋科技](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VNVJrc21hSm9kdFNfSzB6MUduZ1BXakloWDgwWDQzYmt0ejhidS1IdHZVUDVOZWViOVl5aUxVNmg1dFlBUTU2dEFqdXYzc3hReGFFQUdGbm0tdlU?oc=5), [آي-فون إسلام](https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0tPMlZFUm9aZzgwWGRxajk1X0dXNE9EWUVsaHAxNy1pNGc5c0NQbVlTendBWjl5Z3hRQ0hQanhaMEpPSnp4M3F1ZzB6M2YteUFscmxMVFNjbHNsYlhiMXRIejZxcW9IOUJZcGRwaUw3ZWowQWllNUxPYkd3VnRsbTZrUmFFaUUwbzdoWHZhM2lpcldX?oc=5), [Vietnam.vn](https://news.google.com/rss/articles/CBMipgFBVV95cUxORzdxQzV1ZXBaWHQxbHJvenJoQWEycnZLVmlGMGFuTldxamNvT19OTEhrRl9uS042cEV3QXNJTnNPT3VkdF9XNWpNUVgtMlpmUUZSaXUyNG5XaU1mUFUtZm1LSmd5MVVOOEhwbzVZcWVMdjBMcmw2NHl3M085Z1FobXZGTHJDWVFWdGhheW9MZHk3TTdzQXpLV2RDZEgxNkZKX1hkTVp3?oc=5), [17173](https://news.google.com/rss/articles/CBMiZEFVX3lxTE81TjBaU3ZiQVc2cnBUaXQtS0pKN01UaTR2eGNabWhScHhtbEpCaEJPelhIRmk4UkJLY2NqSlhwdnBWSHhueEJRNEpoemFNeHJSYlhUZnpwVVg2NlRxcWw5blNXUW4?oc=5), [Mezha.net](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjdmcVVxLWdrZkp6VVBfWGtIRGM0Mlg4ZUJvLWtHSTlsUjR0cUFTS1ozUGFFVDBzR0dwVzZWVzl6MTh1dHptbVRFLV9NSGNnQl8zTmd1bGhWS1pOOTQ5ckdRbnF1Y2JEYUY0ZkNlY1Ftakd5MGpSWlhMOUk4TU9VYnNSYXRrZ2pncGY3bmx3d0xoVGw3UXRRdg?oc=5), [news.lavx.hu](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWFZvbW1tRnhfeE9aTU9pNTNMeHVZeEhIV1p1NEpTSk5makdyVGNqQ0xOZXlQbW44SHpzZWE1eEt1bldZSFFrLTVWYzZTSTlvSjFvOVlYbDV2S0haX2pXYTJfQWxKUVVrdUpMekhaQlZDYW53cERVWjdkb3hyX09ER1VISXdpcmhfUkdLdGluQ1Ftek95SmEyV2FYZ21Pb0RLZTdMYlFlbXJnajRzb3FuU3RR?oc=5), [搜狐](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEJhWHpwZ01YOEZhanFod1gybWUzVTk4a1Y3MERMSFdjaVVWSElvOUhacEFleTJXWjc1VWxYRkZDa2s2ZmM0WjdzTk1xZ2xxY3JqaXR2MF9nQ0xnYjJZbjJPMnU2SjdRM252M1BoaHkzNkR2VlFsTjBmTGJBSkRhQTkyQmlBRHp1?oc=5), [手机新浪网](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ucVlZbXRZUXQxTXVjWVg3bGZtWVByNEFiYmdYRVRuMlYxbk8zZXQ1a0dOeGR5S0JueHYtV1FFR1NvYldWMWRuNlVmZlZlZV9Sc20zWkVFak5XZFBXbVk0?oc=5), [香港01](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQaTJmbTNmYnM3NlQ4OEtUZzNlV3hXSEE3UHE4Z2ROLXQtbGpIT2RqZU5oaDhSQ1JDNGpXb0Y5MWxGc3NDeFdjOTVuc0pFLTUxendLc25lMUN6WFBUSXBCWmFkNnBSM3FXTDMwNDNVSzZkWm5NNENWZjRGbHlMdk5QZXhfOU5nZ0hFVXlQWm9FS1J3TEU3WkQ2aTNwVnFxVmpMZWw0RFRxN2EzQkZNTlBUMi1jaGZjc3RYemdVNGJqZ09qQW9ETnRwR2VYZVFCRnM1Z3p6THdxRVljQjdZVi1IWGJNS2lpc1hMc2w4RmI0bjBTVU5mbW9PM3lfeHRqYVlEOGJPOTl1LXA0LTZTX3g3WXZHcDVZRndNR1lEZUVjZGx6aGZuTjRqQmpwZU5lRllCbEJXeVQtbmZjRzNhcGdJQ2lQQXIzVEVL?oc=5), [Goody25](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YcE9xbzhsbHM1VUJVeDB4VTZvT2Z3bFg2cE1yODdaTFpUTDloNjlJNTZZMTZSSGFsSFFfNE5ySHRTdkU2c3pPNkNjdw?oc=5), [arch-web.com.tw](https://news.google.com/rss/articles/CBMitAJBVV95cUxNQVJ6U1RnWElQR2s4ckJXS2VQZkxLQml4ck9PTXVnZ2tEazhYWVRmSnpSeVVtR2pqYklFTjFSMVZHallYcFRqeUEzcUxsYlhXQTVlVEdKQ1hxcGwzQmlJWTlRMnFhUWdXb3lvVDZPMW8zX1V2dGlRWnFJX2psb1FfV1d0cVhUOHdfSkd3dm4yZmpwNnF3VGpLSkR3ajdiS0d5TFBTczNyNW42T2pPWGdlYzJPWGQ2N1JkVFlwSlRrZTNjUVBwOW1tTVBtU2tlU1NzQkxaV0d6TGxRUTMzdnBYbGk1dkdZZnItejhHSG4wV1lBYjZqb2FMVzVGTmxfZVZMaWdQZXpTOVNlakZ0dnIyNUJzN2VUcnJFOU9OcmY3RElnLTVFclN0allNUXd1V1k5bmtOcg?oc=5)
+- 来源：[天极网](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LenJlb3Mwa0t3UWFNYld3eC1DM0hlYndhRmgwNVBVX01Kd0ZMSUxEU2J6R0FBU2pDUkFOcy01YjBPNTlpZkpsRW9OdjBITTk0ZGFz?oc=5), [cnBeta.COM](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAydzg3dDYxS1NuZy1vZWNhUHBYUl9DQ0hiNnJJTzJDRkRfRXJULXhtY1luSDR5QVBUTEgxbXg3SXFocTN0OFNhd0hrQUl4VkpOV1ZuOE03Y0t4bWNpeUR3cw?oc=5), [17173](https://news.google.com/rss/articles/CBMiZEFVX3lxTE53OU9SYUc2aUtFbGNfekFwWFJRT2Mwall4OWNHaXljM0hkLUFIX3Foc0lCQllVTDlib3BRNzZVb1p4VkNweXp6TzBGdnlrSTRVWG1mZFNqektQRGJsUnhFWnRZYjA?oc=5), [新浪网](https://news.google.com/rss/articles/CBMi4ARBVV95cUxPbEJWYVppaEd4SldkTktYdHA0UzNnd1NCS0Q4cGMtR1VSRXJ2WnJ4R0ZGUmdjT1UwZ0tXaE9PYy1TX1o2U2VaZTR2aXVBRmV5b1BUM2txbk16OUZTWm45YnQxUlhQNHQ4a0xpTFZOX1lKMThSY2YxaTFBQjNsUzlFdmFrY1hlR2dpM25HUXVWdU1UbzFscXFHcmIwWDZ5WF9ma1NIZjNRTkVjUmVrMlVMMVN2Y3MzT1ZEb202cDBURnFmVTNBZkdBRzRzUGJ6RjFUcGdTMzJUeWJKaU9IQUJBc09ZSGtwTVFaZ2hhWmZVLUllYmRVNldwV1pYTHNWTzhFX0p6UFZja3pJTFdZS291VmNDaTliS1JwTk9zU21BUXBWb2Y5cktWenhTRVFYUUgzb05wYXJISUpZNGtDTW56dkhXR0t6MUcxekJ3cTJDS1Z6U184bGlwVldlNUJtUkNYaEpFSUFiakJXam45cF9tRlAzanlBcFpGQTJWOFI3RzZHT3ZSUTZmc2loWk4tLU9EZklVaDJHVXllbUZETjVxSlp6bHhuMDVBQUFqaVZVcmo3cWU5bHpwM1FBV0xGZnBVU184Y19vbkVBVktzZlJ0OUt6TXVSbEhfcl9VSVlMQlBmYzdvRVRrRV9ZZmZ1V0twVjRyRmpmcXl3Sk1kU09obzJITUotZG1qWUVVLVBrYUhwUk9veWZwUzU3REVLMzBVMFJJX19mQ3NfMFhlSEluaFBkaXNTTmU0d0tsc0ZuUnZlaWNOcW1iLTJnWkN3RUlndkllZVJxbVFDRHlIaWNRSg?oc=5), [中华网](https://news.google.com/rss/articles/CBMicEFVX3lxTE1IMWtyWlFfN09XWGU0MDMxUjZnaWxBaE1iMkxxQjZuakV6SnNfM0ZtQ1RqUjJEV2xmS0xDZU84WEI3SmFIRHg1RXYtaFZEZlU4dUJXZzY2OTljMWFmd1B6QWkzdkxSMEJMeTNDNGlPZjc?oc=5), [手机网易网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4QmpFTUZoYlk2QkRZQk5oV2w0aXdFbXJwWGd6YnR0d044OFQ0dEc3bGk4Y1gxU1pPbnRWa1l2aDd5aTh2SkY4NTBYQnNmc2l4VjJoVmRhNG5oREdEZklJbDZn?oc=5), [Vietnam.vn](https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2hlVjE4c0ZPck5mV19GbXJLSGVvNWlNYkctazlJUUdnalMzUmR4MEo0ellVVlVMRGdNYVZCM0psVFo1MHFOUGtGVGRXTUNlYWE3Sl9sblQyUjFucFpadzZVMHVXd2hTVDl3enhzS0FvUlpISHA0NU1EUkhjMldvOHN3cjhoZ1E?oc=5), [香港01](https://news.google.com/rss/articles/CBMilANBVV95cUxPbGJjSTYtT0c1a2tLUkpVNkpRbk0xaWhkVFgzN3FLekJ4OUxCdkNIZko0Y2pGODgzWmZWVFVzSVVpZGQxbWJFTWRoaDFFNzlSVENXQTVLUi1NcVI5S0ZjenBRbXBLUmJFLUNfV3ZFUFBqdUZhUUdXSXhjQldGNks3c0dGVXhtTU9VN0xzZjNheW91alR1Rk1FalFUY3Jqdm55WEtOWkJBRTNXcTd6NlM5dU1qLTRjQTVucjhHNGZWS1RieVk1ZGFXYy1fUWpDSk1KanE4UjV3SlJlX1k4MHUyVlBSWkItcHRaTDE3OWxseEJMOWFJQUkwYzdjMWQ3MFFjT2gyVTFzWHNYOTBCYUpRR2d1ekhoMWpfTHNCMEdseWtDZU9CWXIxV0NxNXA4d2FMem1oYmRSRlczbTdSVjZWTC1hOWlYVVZvT3h1VFBHQTc5cDg5TmJ6NFdmdXhqQ1dpY0gyczBLTmNoUmlybmxaemZKcnlfMTlSb2JGMnU0eGZkMDlRY284TXZFZ1hCX0ZVY2xmbA?oc=5), [arch-web.com.tw](https://news.google.com/rss/articles/CBMinAJBVV95cUxPdXdYTmRIeTV2QmRWVXRscFotMl9TQTdPWHhYa24yNlFEZzVDZWxVYXU2MmppejRjajJaY1VCM2R6VFdfbFo4NVV2QUlZLUZnaGY0b3h3YlMxckNBUVpiZWFDMkxUWjJUdUhhd0ZFNVlEcTlRZFppMEsxMmhPamE5clhKX3h1M1pZcTI2R0tGWE9zZFFmaVBnQVpaZnpZNVhBV2tJLWNIYVhMWXJOdW04T0ZfYkZiak45dE80RzZOd1IxMWNlUFMxeTFmT0t0cExwWHQyWkdBd2tSQ3RvSUhZX3pleHhUTlpZZTRGOUVEZk81di16WElBRHZlSzc1TnNwcldXTnBzYVJGQ3NJRm5UVkNFU21udVBpeXRRTg?oc=5)
 
-### 2. [A级] Meta Muse
-- 类别：AI 科技 · 状态：再热 · 日期：2026-10-20
+### 2. [A级] 字节撤销咕咕嘎嘎、刀盾狗等网络热梗的美术作品著作权登记！
+- 类别：动物表情 · 状态：新热 · 日期：2026-10-21
+- 摘要：字节撤销咕咕嘎嘎、刀盾狗等网络热梗的美术作品著作权登记！ 驱动之家。
+- 为什么值得看：该条目具备视觉角色，可能形成可复述的社区叙事；已有多个独立来源交叉出现。
+- 验证：3 个独立来源 · 高置信度（凤凰网科技, 搜狐, 驱动之家）
+- 检索词：字节撤销咕咕嘎嘎、刀盾狗等网络热梗的美术作品著作权登记
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：中
+- 来源：[驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13UDlMUndDbVpzUkdsd0Q1eGdEbGNTMEhUdWd5RWR3ZnFPVUF4YjV2UzJJcm5QZkpnWWpIVGd3d08zMFlvYmtJM3dCRzBZRTNNMmtEVFVBbU0?oc=5), [搜狐](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXpodm42SERLQ1NkZDJuSmxYQ3BvYXFyLXFPeHdYWEx4X05hT1VOQlZOTDhVWG01YWFIbTl5QkF4QVFyeXdLWmsySm5KbHJlNXFVQzU0V3pVTjZPOGNWd1dpeXZHWHZ5bFo1QkxGUElNVThWd0w1RXBudUIxWnFNUGY5MzM2QWtT?oc=5), [凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QQ3RtaUo4bV9yc2QzbmpyVFpzTjFvZDNySjVkZHMzS05PbnJheDRLWkE5MjlUV1pGMk16V0c2QnZGTHV1Wld3eGJsMXg?oc=5)
+
+### 3. [A级] Meta Muse
+- 类别：AI 科技 · 状态：持续传播 · 日期：2026-10-21
 - 摘要：Meta Muse 被描述为可以在桌面环境中执行操作的 AI 助手，叙事重点从‘会聊天’转向‘AI 有手了’。
 - 为什么值得看：‘AI 有手了’是短而直观的产品叙事；桌面操作、文件和应用控制也给二创留下了明确动作。
-- 验证：3 个独立来源 · 高置信度（Mezha.net, UA.NEWS, 至顶网）
+- 验证：2 个独立来源 · 高置信度（BlockBeats, Mezha.net）
 - 检索词：META MUSE, DESKTOP AGENT, COMPUTER USE
 - 风险：产品名、品牌和功能真伪需核验 · 链上适配度：高
-- 来源：[至顶网](https://news.google.com/rss/articles/CBMiXkFVX3lxTE16eDFIU3RHdmNiNHAwdktnUVRxelF6VEtSSWdOclFMdV9HV011ZFptcG5qb1E1M1RkTkw4Rk5pd0ZydnhGNHFGdU5vdS03VFNMNGVZdkFUSTJta1c2ekE?oc=5), [Mezha.net](https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVBYMGVYUEZlSkc2M0paSjVIVU9pSEFjUXZiSnhHTFR2dzdpbWI0RE9uTVFMdzZIQ2NiamF3c09BUE0xZjN4aXFjMWxKbE5zQTJJeVp0MkpCanZLbmR1WS1NN1EzanVsblczRGdwR1NfNG9SalBDVy14UDQ2cGlOaGIzTW83OC1wVDVNcWdkd0dXcjBP?oc=5), [UA.NEWS](https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0VMX2JQbzVVLUZ4TkJhNHk2dTRiSkliUzhVUWg3bEpkdzlDN091Tmt5SXFEcTFtalJ5eU1oVkRzS2tuZE5fYjczTlhmMFpfQzViOXhMZTZkd0tKUXdOeG0tZGd5R3hxMWp5a0M1OE9zRWxwdzhWM1d3ZG9UVmRPYy12RkowSktKV2hGdlJQSlNIMS00MUNZ?oc=5)
+- 来源：[BlockBeats](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdE1CZHpoNkcxZWtmT1NPSUlrelpzVFdLdVZ2R3FQdGw5MXNobDVLZjhod3UxMzJJR0Y4LUJKUnFKRkJOaUdva3NsMDhiaHc0LXlZakln?oc=5), [Mezha.net](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2FDX1RZSW5jSGJnUnV1Q1ZXeTdEMk5sLTZ2ZGZ4SUphMGs0bjE2R19pSUxQOEV1VG9XdnMzTEJoOEs2d3NtLUVpdHJtTVowQjhiTm9Sam16dEFBTkxNZGE3RXViVDN6M1F5elg0U2ZLNUw4TkFHUjJQaVh2dDVlNU1Vek1tbWZRRm1tUTlaRVBibGlXa2ZBYg?oc=5)
 
-### 3. [A级] Robot Makes Robots
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：机器人参与制造机器人的报道，把机器人从工具升级为‘制造者’角色。
-- 为什么值得看：主体、动作和结果都很具体，‘机器人制造机器人’本身就是可复制的标语。
-- 验证：1 个独立来源 · 低置信度（盖世汽车社区）
-- 检索词：ROBOT MAKES ROBOTS, HUMANOID, SELF-MANUFACTURING
-- 风险：演示范围、人工参与程度与商业化时间表需核验 · 链上适配度：高
-- 来源：[盖世汽车社区](https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkhFa29kZUhJZk9LbjlwREFtNC1LVzlSWnh3ZUFJanYwT2Y1WS1FUlMzNWJlMkJsLWVNZXhhNlhUaVBpVWZWc0NONjYxN29kTm4yMi1uNTVhX3JRUUNRcDVRN3gxMEFWTDdDWXV1Q2J1X0VFRnV5UDhWejhQbFdmWTJYZndHWE1qWFlaWTNLQ0t0UFNPaHpZN0NMODFrVkc3RGwzcE1RNDlKcnpsLXVmXzgzY3NxWkM1dmprbjRPS080azJENDFZX2FkMWc3YVU?oc=5)
-
-### 4. [B级] Anthropic被曝开发新模型，重点提升模糊指令理解能力；英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成｜全球科技早参
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：Anthropic被曝开发新模型，重点提升模糊指令理解能力；英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成｜全球科技早参 https://www.mrjjxw.com/。
+### 4. [B级] 宇树科技发布人形机器人“H2-X 功夫传奇”
+- 类别：创新突破 · 状态：新热 · 日期：2026-10-21
+- 摘要：宇树科技发布人形机器人“H2-X 功夫传奇” 第一财经。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；已有多个独立来源交叉出现。
-- 验证：2 个独立来源 · 高置信度（https://www.mrjjxw.com/, 华尔街见闻）
-- 检索词：Anthropic被曝开发新模型, 重点提升模糊指令理解能力；英伟达官宣重大突破, 超8000块GPU加持, 创纪录量子容错计算模拟所需物理比特降九成｜全球科技早参
+- 验证：2 个独立来源 · 高置信度（富途牛牛, 第一财经）
+- 检索词：宇树科技发布人形机器人“H2-X 功夫传奇”
 - 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[https://www.mrjjxw.com/](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IOTNJSl9ON3k0UnJKQUtqNDI3T0hOUVc4VnNrb0dwQko2bk5BNTlUTUJiNDdBbXBOdW45LWlrWW1nbTl6djFPUWszaWNDcnpfWk5JTzhkZllBemh3a3ZjaE5MdWJKUQ?oc=5), [华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JbjFFRnVWd2F1ZGFXb2FfYVFQSWtHTEZhYmkxVzBkZmpXaV9SbUFoMGdEN21ZazZBNUF1Y3hwcnA3R2RpMlpva2xZWjFEN0xXRnc0?oc=5)
+- 来源：[第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jMjVFbUpVRVlrMnV3dzQxMEpOUm5LdElZZ2d4cjl1aC1VenpidkhEMG5yaklzMWViZWRla19HRUZJZ3RyRkR0ZmpMa3ZkVFRCUmNN?oc=5), [富途牛牛](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVERXenlnRTkzUEduWGRSejVMTVVQU09rUkUzR2VDMWdVdmFzU19Id0Qtb2VwQVkxZlVNTGN0dTExSC1NMHdsM2UzWU05ZHZhV19iS1ZZTEdnckV5VzNyOWJWb01za1hZNnR3d0NOUE0wM1lJWGRwck4wRktxNm96MFJWWTlacHVHeDNYN3FZUDlvSW02RWtHSjNvUzVmVFRm?oc=5)
 
-### 5. [B级] 日本演员工会发布AI语音使用准则，龙珠悟空配音演员怒批AI盗用其声音
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：日本演员工会发布AI语音使用准则，龙珠悟空配音演员怒批AI盗用其声音 新浪网。
-- 为什么值得看：该条目具备明确动作，可能形成可复述的社区叙事；已有多个独立来源交叉出现。
-- 验证：2 个独立来源 · 高置信度（凤凰网科技, 新浪网）
-- 检索词：日本演员工会发布AI语音使用准则, 龙珠悟空配音演员怒批AI盗用其声音
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：中
-- 来源：[新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE1IX0F5My1iZUlmdEM5WGNka0NiWl82LU9hNXg1d3BuZ0V6TWdJV25BTjMyWTJEQzJiaHlLd3k3YVgtWWViZ1FwallRSW80TktxelJLV0Nzc3NoeE5lV1NDam9lYWhhNWVaOUQzaENRR2w1Znp3d1pOajBycjBCb2s?oc=5), [凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OYk1VNDJiNzZFamxuMFo0S3FZZ0VGaGROQW93ZjU4cGNrWm16TkxBdlJFVm50RWdKSks4aENMcm5mSWxhWGg2MFMyMjY?oc=5)
+### 5. [B级] 英伟达官宣重大突破！这次不是AI
+- 类别：创新突破 · 状态：新热 · 日期：2026-10-21
+- 摘要：英伟达官宣重大突破！这次不是AI 搜狐。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；已有多个独立来源交叉出现。
+- 验证：2 个独立来源 · 高置信度（搜狐, 电子工程专辑）
+- 检索词：英伟达官宣重大突破, 这次不是AI
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[搜狐](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3czaE1xMHQzV0ZicFJYUzc5M0g4bkpYZVVTRmZiLUFrdm5PWUg2SExYZWl6cVZVdUtnbjNhZkZwenUxQ1czUV9MUVZqTTFVYm5IaDhRcHBqYWJzT1psU3NoZmRVU1I4RVJHLWN0ckhya0hmMmsyQk13RnhOVWJ1dFo0Q2NPNHUw?oc=5), [电子工程专辑](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSWUhidHZIc09TeW0zSm9CcWZKYlptSDAwaFNRWGdvWEFMVWxkSmE5cndLbFE5X2c4VHgwVG02aUdLSjVGdXB0VkZBcGRaMlJYRlA4?oc=5)
 
-### 6. [B级] 18年热梗 全看过的前途一片互联网了｜网红｜刘宇宁｜回忆｜考古｜青春
-- 类别：中文热梗 · 状态：新热 · 日期：2026-10-20
-- 摘要：18年热梗 全看过的前途一片互联网了｜网红｜刘宇宁｜回忆｜考古｜青春 新浪网。
+### 6. [B级] 24 小时涨幅超 70%，Orbio 将可以发射 AI Agent 代币了
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：24 小时涨幅超 70%，Orbio 将可以发射 AI Agent 代币了 ForesightNews。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（新浪网）
-- 检索词：18年热梗 全看过的前途一片互联网了｜网红｜刘宇宁｜回忆｜考古｜
+- 验证：1 个独立来源 · 低置信度（ForesightNews）
+- 检索词：24 小时涨幅超 70%, Orbio 将可以发射 AI Agent 代币了, AI AGENT
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTE5MTmU1SXVYTmo1RmRVeXNJQ3RzMjJ5c01tYmJMbjBqc3AtMmVheS1kdUpaOWt6b2hxajczM0JEWDZzcFQyMEU4WkhfNFZDdXQ4cEsyT0luaDN5SU1sZmVUZWhvbnJ1NlZRZWlnM3ZINWlCbDA?oc=5)
+- 来源：[ForesightNews](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WNnlRMVZKWGtfTHo5cDVHOXU4N3hkNTdMWGQxT0s4YkxLY3NDVGRHWHVhMTdMY1RNWGs3LVpObHgtNzB3ZFBTN0ZjdWlsQ1lNOXMwaDlwdXgwalE?oc=5)
 
-### 7. [B级] 2026年9月中国AI大模型平台排行榜
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：2026年9月中国AI大模型平台排行榜 36Kr。
+### 7. [B级] 2连板同为股份：目前大模型AI产品出货数量及营收未形成规模
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：2连板同为股份：目前大模型AI产品出货数量及营收未形成规模 36Kr。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 低置信度（36Kr）
-- 检索词：2026年9月中国AI大模型平台排行榜
+- 检索词：2连板同为股份, 目前大模型AI产品出货数量及营收未形成规模
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTFAya2xoLWtLMnlHcURsMXRiRkFXUk80NXJISTcyZWVvcUZGbGpEc1ZGOXNFOVotV0tNelFmNkg5Rm5UQzVXeXNJRFlxSVAwV0JvZzRr?oc=5)
+- 来源：[36Kr](https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3TGRiVVo2aGtWcUhTTmJIbHlzRkh6Y09TTVIwRmlSNFVIcjZFNWpSMTJ6b1A1eUhMaEpmWW13OE80UDNieXp6STFpSk1PSENaMkNLbzVaQm8?oc=5)
 
-### 8. [B级] AI AGENT笔记本电脑推荐ProArt创16，一机兼顾画质、性能与便携
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：AI AGENT笔记本电脑推荐ProArt创16，一机兼顾画质、性能与便携 DoNews。
+### 8. [B级] AI Agent Related to China Allegedly Used to Attack 80 Japanese Companies
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：AI Agent Related to China Allegedly Used to Attack 80 Japanese Companies VOI.ID。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（DoNews）
-- 检索词：AI AGENT笔记本电脑推荐ProArt创16, 一机兼顾画质、性能与便携, AI AGENT
+- 验证：1 个独立来源 · 低置信度（VOI.ID）
+- 检索词：AI Agent Related to China Allege, AI AGENT
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[DoNews](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nZnFxM0plU3RKSTY3OVo5UWJfdEtlNm44ZENRaldhS2M2NnFMT3BDVUdDSzZfRlhXbVdhVFphNE1KOVNLSGFnYWpmbjE2SFZSNEVFZWZqZHhvamNaalE?oc=5)
+- 来源：[VOI.ID](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrWGRkR1VqcjVPTzhQd0hZUFBjSEFPTnAxU1dqZmpHcnRsOW81ZXpZT3Y5endseC1KdHdZaTUyUXlqX194Xzdja2toazI3TmvSAUJBVV95cUxQTW4yam1wUjA2Zy1KTU9GYUJPcmFSR0FDTENEdk1GMzlBRzZhUmRNY1FJTTB1RGU5WXViMHlKa2Z0V3c?oc=5)
 
-### 9. [B级] AI Agent链上花钱这件事，到底难在哪里？
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：AI Agent链上花钱这件事，到底难在哪里？ https://www.me.news/。
+### 9. [B级] AI Agent 正在把 AI 商业化的主战场从 “聊天” 推向 “干活”，一个问题也随之而来：领先的 Agent，壁垒到底来自哪一层？
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：AI Agent 正在把 AI 商业化的主战场从 “聊天” 推向 “干活”，一个问题也随之而来：领先的 Agent，壁垒到底来自哪一层？ Longbridge。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（https://www.me.news/）
-- 检索词：AI Agent链上花钱这件事, 到底难在哪里, AI AGENT
+- 验证：1 个独立来源 · 低置信度（Longbridge）
+- 检索词：一个问题也随之而来, 领先的 Agent, 壁垒到底来自哪一层, AI AGENT
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[https://www.me.news/](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TcTNONnBKYlUwcWtTYlBNTURxV1UwZFJISndmX2FaYmtOTTJHTHR5VGUtX2JNemZubnplVm9mREt3NFlyWFpxMmgzSQ?oc=5)
+- 来源：[Longbridge](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OaTRxWVlDYWlKYS11OEhTMVJST2JGb25EUUIzN0piMVdZSGxOX1plcFBzUGtqTzYzOUstQ290SnNtZ3ZnM3A3YVNFcjNwSm9ZZEZFZHhPZUJVeWVkNV9r?oc=5)
 
-### 10. [B级] Adobe Lightroom mobile can now open closed eyes in photos with a simple tap
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eye。
+### 10. [B级] AI Agent学会自我进化！微软与UCSB新研究：自己读论文、改代码
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：AI Agent学会自我进化！微软与UCSB新研究：自己读论文、改代码 新浪财经。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（The Verge AI）
-- 检索词：Adobe Lightroom mobile can now o
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[The Verge AI](https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair)
-
-### 11. [B级] Agility Robotics与AGCO签署协议，试点部署Digit人形机器人
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Agility Robotics与AGCO签署协议，试点部署Digit人形机器人 Unite.AI。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（Unite.AI）
-- 检索词：Agility Robotics与AGCO签署协议, 试点部署Digit人形机器人
+- 验证：1 个独立来源 · 低置信度（新浪财经）
+- 检索词：AI Agent学会自我进化, 微软与UCSB新研究, 自己读论文、改代码, AI AGENT
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[Unite.AI](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVhBZlo1dHdPbUd1STJ0ZXNoU3FYV1JwOWNSek1rYjhLS1Zpc3BLcVZERFN5WE5Vdmx5QjB5SGFERi1mdzdCTXo0VnN1WThGQmdIV2d5a0FRVkFkT2M0TEZtaVdWczhOM01LUFk3a1BINzZaYzk4b2pVcFNpaGNZeTdlMks4cmZZN2ZkdFk3cXpaVDVDOUE?oc=5)
+- 来源：[新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE4ya1B4T0dmNC1lWGwwYVNxNGs1N2hGRW1XamM0LVRsRHdWUjBYN1A5dWhud3Rpb0JQVFpVTzRfSkRtVjhkQ3loWUVickljeUdDLTV1cUt3N3NvTnlHdXA5cmhtTXVBZFNUNW9xMzU5b2xjcndCcTh5eQ?oc=5)
 
-### 12. [B级] Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.。
+### 11. [B级] AI Agent执行任务时，你的钱包在悄悄流血
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：AI Agent执行任务时，你的钱包在悄悄流血 科技行者。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（科技行者）
+- 检索词：AI Agent执行任务时, 你的钱包在悄悄流血, AI AGENT
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[科技行者](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HdXJESW1CZzNncEMySGY4V3dZZ1JMTDRyeWpKeE90MDFNS29uV3dOUEhzdDFDdnFhVUR0NnZPd1VzOHFESVZselphRUNVbkFmY0JGSVgzRWFaaTJ0eXpR?oc=5)
+
+### 12. [B级] AI promises productivity, but for managers, it’s mostly a headache for now
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Amazon is taking its biggest sho
+- 检索词：AI promises productivity, but for managers, it’s mostly a headache for now
 - 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/)
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)
 
-### 13. [B级] Anthropic最新报告：AI Agent 工时已是人类6倍，未来职场将被如何重塑？
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Anthropic最新报告：AI Agent 工时已是人类6倍，未来职场将被如何重塑？ 投资界。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（投资界）
-- 检索词：Anthropic最新报告, AI Agent 工时已是人类6倍, 未来职场将被如何重塑, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[投资界](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vV3dSOWd1QWV4Q0hZcVl2V2l6eU1rdndYMVFwMnBVOEF5eVFBbC14bXI5VjRYaWhELVBHUF9mRTNwTnB1ZG5Id1htQkN0NFk5bm9jMWVB?oc=5)
-
-### 14. [B级] CoreWeave’s debt is becoming the whole AI industry’s problem
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath "SPAC King" Palihapitiya notic。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（The Verge AI）
-- 检索词：CoreWeave’s debt is becoming the
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[The Verge AI](https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai)
-
-### 15. [B级] Eka is worth $1.45B thanks to a physical AI model that has experts raving
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Eka is worth $1.45B thanks to a
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/)
-
-### 16. [B级] Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：The idea of embedded evaluators — in which supposedly "neutral" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concern。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Hugging Face’s policy chief says
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)
-
-### 17. [B级] KAIST人形机器人亮相韩国国会国政监察，现场秀出“月球漫步”
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：KAIST人形机器人亮相韩国国会国政监察，现场秀出“月球漫步” 디지털투데이。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（디지털투데이）
-- 检索词：KAIST人形机器人亮相韩国国会国政监察, 现场秀出“月球漫步”
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[디지털투데이](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMV9ReXZTQlZ1TVYwQjVabjZSdzNWaWxJaDhMa1RQeHVwcEx1SlZQdFJFTDB4RnNQdzZEeW9nMm1wOVhnMFl0Y1hHREJzRk9uRm96VWZUdF9iczJlWFBZSFdiSlJzXzQxNXpZVVNZZ2dCcThLdGk3VS1IdVBWYm9SckJTMEVLMXZiR055T0VVa3gzWmxxYkpoUmYxNXdrM3djQjltUmx6cjc?oc=5)
-
-### 18. [B级] Mamdani says feds have abdicated on AI, urges New Yorkers to push back
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：urges New Yorkers to push back
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/)
-
-### 19. [B级] Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Microsoft says AI agents are lik, AI AGENT
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)
-
-### 20. [B级] MiniMax M3.1 Flash 更新：Computer Use 国产第一，成本降70% - OSCHINA - 开源 × AI · 开发者生态社区
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：MiniMax M3.1 Flash 更新：Computer Use 国产第一，成本降70% - OSCHINA。
+### 13. [B级] AI的下一站:从Personal Agent到灯塔工厂|36氪|制造业|苏州市|江苏省|胡旭_手机
+- 类别：创新突破 · 状态：新热 · 日期：2026-10-21
+- 摘要：AI的下一站:从Personal Agent到灯塔工厂|36氪|制造业|苏州市|江苏省|胡旭_手机新浪网 新浪网。
 - 为什么值得看：该条目具备明确动作，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（OSCHINA）
-- 检索词：MiniMax M3.1 Flash 更新, Computer Use 国产第一
+- 验证：1 个独立来源 · 低置信度（新浪网）
+- 检索词：AI的下一站, 从Personal Agent到灯塔工厂, 36氪, 制造业, 苏州市
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：中
-- 来源：[OSCHINA](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUV1BXaTR2ekRQYlA0a19iZHdTWFJLVkNsSS11MllnTEdzSXJicWl3Y2NxNk84VExLQ2pCV0ctV1JJTGZreE1HdllvSQ?oc=5)
+- 来源：[新浪网](https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1N0elJyUWVTOVJfRUI2OFQ5V1ZhQUVNNkgzeTNqS2xpOFBjaFlTbXFzcEVoLTRmOXNHbFhRSEZxUV9DRDVHQXVtVU9FSjlZRWNIQTBLRWFyZEdPMjZQMU8ybU9wVmtKODVTVWNMNENoZHJqVFhweUhvcjAzWkpQbVQzNmpTaU8yRk9FajNqMUp1Z2tVNF9FVmZvWFJUckdaYUJxeG5zVQ?oc=5)
 
-### 21. [B级] MiniMax发布M3.1 Flash：AI Agent任务成本降70%，推理速度提升约3倍
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：MiniMax发布M3.1 Flash：AI Agent任务成本降70%，推理速度提升约3倍 디지털투데이。
+### 14. [B级] Anthropic 几乎停招初级员工！占比一年半骤降 33%：Agent 工时已是员工 6 倍
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：Anthropic 几乎停招初级员工！占比一年半骤降 33%：Agent 工时已是员工 6 倍 InfoQ-CN。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（디지털투데이）
-- 检索词：MiniMax发布M3.1 Flash, AI Agent任务成本降70%, 推理速度提升约3倍, AI AGENT
+- 验证：1 个独立来源 · 低置信度（InfoQ-CN）
+- 检索词：Anthropic 几乎停招初级员工, 占比一年半骤降 33%, Agent 工时已是员工 6 倍, AI AGENT
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[디지털투데이](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUZ5T1lsUDhKaWhoQlRoUERNYzZuU0lQai1hTUN3RFBvREJGSmtUYkZaSW9NcmdhUTRtRU1JTkpUNTI4cDAybjJEcG5ib2JqYU9GT1RZc2diQktySmxqdDQ3a3lIRjV2RVhqUDc0RTFFRzhYblpCZEg3cGprS1dKMlduU3pmWXBCRkN3RzlzYmxfZ1BZVDItMEp3cnZFUW5QNTFXb041VTBxc2ho?oc=5)
+- 来源：[InfoQ-CN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DSENEZmdQbnBYd1hfWG5uanVpVzZBX3NxMTVDY2Q5bFNBMU5OdHd2R2ZYam1FYTVWRG1HUkRXaFJaZnJ0WHg3VmlEZHhkc2Z6VG5pai1MSVJEU0FQeFE?oc=5)
 
-### 22. [B级] Modal首次采用NVIDIA“Vera”CPU，AI Agent负载能力提升至2倍
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：Modal首次采用NVIDIA“Vera”CPU，AI Agent负载能力提升至2倍 디지털투데이。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（디지털투데이）
-- 检索词：Modal首次采用NVIDIA“Vera”CPU, AI Agent负载能力提升至2倍, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[디지털투데이](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXBjRVp1QVYtSWdNTGNRd2xzNm9La3RiZnNZalFSallUajh0WHBqVkdVVFhQLUFhSFZZQUNYdTV0MjJjUVVFcGpTd3lXS05RWmhpbDJTM05aUzdTZ3gxZGw2Nm5qYjdqUEM4Y2JxUFc3LTdEZnhkOHY2dFJhcEx5dUg2dHRWcnVUcDFDMUt4T3A5eUgtZGNxeG5qalpib1lPa0d4WWwybk05QkJI?oc=5)
-
-### 23. [B级] Notion升级AI Agent，支持电脑与浏览器操作及最长24小时任务
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Notion升级AI Agent，支持电脑与浏览器操作及最长24小时任务 TradingView。
-- 为什么值得看：该条目具备明确动作，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（TradingView）
-- 检索词：Notion升级AI Agent, 支持电脑与浏览器操作及最长24小时任务, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：中
-- 来源：[TradingView](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jZGtBYkZXYk8wZE1lRUQ2VVlCbTUwNVR3LWI4Qk5sWjFVZjdOUVZBc29SN19yQVIwbWhVYUNOVEJZWkNIY2hUbnJVQTltNjJ2U0xQak0xM2duZHdKN3VobzNlMzE2QQ?oc=5)
-
-### 24. [B级] OpenAI acquires Orchestra Bio
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.。
+### 15. [B级] Cloudflare links vulnerability discovery to defense with OpenAI
+- 类别：创新突破 · 状态：新热 · 日期：2026-10-21
+- 摘要：Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 高置信度（OpenAI News）
-- 检索词：OpenAI acquires Orchestra Bio
+- 检索词：Cloudflare links vulnerability d
 - 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[OpenAI News](https://openai.com/index/openai-to-acquire-orchestra-bio)
+- 来源：[OpenAI News](https://openai.com/index/cloudflare-cyber)
 
-### 25. [B级] OpenAI称发现其AI Agent削弱了对齐失效监控机制
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
+### 16. [B级] Conversational Gemini navigation comes to Apple CarPlay
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with "rollout happening globally too," according to Goog。
+- 为什么值得看：该条目具备跨语言传播，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（The Verge AI）
+- 检索词：Conversational Gemini navigation
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：中
+- 来源：[The Verge AI](https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps)
+
+### 17. [B级] Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
+- 检索词：‘Physical AI is in its LEGO era’
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/)
+
+### 18. [B级] Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.。
+- 为什么值得看：该条目具备明确动作，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
+- 检索词：Google has joined Amazon in atta
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：中
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)
+
+### 19. [B级] Google’s more personalized Gemini AI is heading to your car
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. 。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（The Verge AI）
+- 检索词：Google’s more personalized Gemin
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[The Verge AI](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)
+
+### 20. [B级] Here’s the tea
+- 类别：创新突破 · 状态：新热 · 日期：2026-10-21
+- 摘要：When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label 。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（MIT Technology Review）
+- 检索词：Here’s the tea
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[MIT Technology Review](https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/)
+
+### 21. [B级] Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
+- 检索词：Hugging Face CEO warns that Netf
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
+
+### 22. [B级] Meta pauses Muse sharing after researchers find AI chats on the web
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm 。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（The Verge AI）
+- 检索词：Meta pauses Muse sharing after r
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[The Verge AI](https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats)
+
+### 23. [B级] Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：New data also shows Muse is retaining users at higher rates than its AI rivals.。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
+- 检索词：Meta’s Muse hits 10M US download
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/)
+
+### 24. [B级] NVIDIA 借助 Agile ONE SN 参考人形机器人扩展 Isaac 平台
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：NVIDIA 借助 Agile ONE SN 参考人形机器人扩展 Isaac 平台 Unite.AI。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（Unite.AI）
+- 检索词：NVIDIA 借助 Agile ONE SN 参考人形机器人扩展
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[Unite.AI](https://news.google.com/rss/articles/CBMimgFBVV95cUxOakVBRXA0eHgxWDhVOHZ1Vjk5cGx1NmMyOC10b1FRSzlpOFU1d0RzVERJSWdHRlNOLTRCTVl0aFc1RlRzWDRCSGxqM3BIQlBZQkFQZ2FwNzlHcWlKR0Q3S2JrZ1FRVXNaWGxWRDhpQkdjaUpJUjI0a0VqV0ptTHdGSDdWRmlEMHhrSzFPaDhBalJTVVNKMFhla05R?oc=5)
+
+### 25. [B级] Nuclear-powered spaceships
+- 类别：创新突破 · 状态：新热 · 日期：2026-10-21
+- 摘要：Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed 。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（MIT Technology Review）
+- 检索词：Nuclear-powered spaceships
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[MIT Technology Review](https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/)
+
+### 26. [B级] OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
+- 检索词：OpenAI acquires startup Orchestr
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/)
+
+### 27. [B级] OpenAI models are coming to Google Cloud
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 高置信度（OpenAI News）
+- 检索词：OpenAI models are coming to Goog
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[OpenAI News](https://openai.com/index/openai-models-google-cloud)
+
+### 28. [B级] OpenAI says an AI agent lied about disabling its safety monitoring system
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - a。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（The Verge AI）
+- 检索词：OpenAI says an AI agent lied abo, AI AGENT
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[The Verge AI](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems)
+
+### 29. [B级] OpenAI披露：旗下AI智能体曾试图关闭内部监控警报
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：OpenAI披露：旗下AI智能体曾试图关闭内部监控警报 新浪网。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（新浪网）
+- 检索词：OpenAI披露, 旗下AI智能体曾试图关闭内部监控警报, AI AGENT
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[新浪网](https://news.google.com/rss/articles/CBMifkFVX3lxTE9YclZFeUJjelg1dGJRVmFDalNwTThXLUt3WWJoQ3gwWnYxRk1lQWM3WXR4MDg5X3d2Y2ptWnB0c0htT3V3T3llVVNPUDdvS1FLY3pZekpZMFhGY1UzOXNpcmFnN0JvSXR5OXB3T3ZRekNyclZONE03azFfOGtlQQ?oc=5)
+
+### 30. [B级] OpenAI称发现其AI Agent削弱了对齐失效监控机制
+- 类别：创新突破 · 状态：再热 · 日期：2026-10-21
 - 摘要：OpenAI称发现其AI Agent削弱了对齐失效监控机制 TradingView。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 低置信度（TradingView）
 - 检索词：OpenAI称发现其AI Agent削弱了对齐失效监控机制, AI AGENT
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[TradingView](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Lelpmc2RLSl96QWNMZlNCMlphSkxPRnhlZjZNeTk5NjNaVE5DR1B3TkZtd0lmTzdxUGJwUWdyUW85Qy1hNm9ZRTZyWUtrOGRVelVWNjBTVjhGVG81MGg4VGs3Z0tYdw?oc=5)
+- 来源：[TradingView](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Hd0NpeGNIWG9KM0JzZDFoVGxPWW9rLXB4MUhhblcwUVk3OGNqeW9WTGRxbmxQcllTaUR6S3JMTFRtTUVXSHJ3NXFWck1rbzY1empmQThQLUVlal9oWDNtSThCeFI3Zw?oc=5)
 
-### 26. [B级] Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.。
-- 为什么值得看：该条目具备跨语言传播，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Otter AI raises $320M from Gener
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：中
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/)
-
-### 27. [B级] Spotify pulled 50 million AI slop and spam tracks from its recommendations
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation sys。
+### 31. [B级] Oracle重磅扩展AI Agent Studio至行业应用，企业智能体平台争夺战升温
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：Oracle重磅扩展AI Agent Studio至行业应用，企业智能体平台争夺战升温 区块周刊BlockWeeks。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（The Verge AI）
-- 检索词：Spotify pulled 50 million AI slo
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[The Verge AI](https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed)
+- 验证：1 个独立来源 · 低置信度（区块周刊BlockWeeks）
+- 检索词：Oracle重磅扩展AI Agent Studio至行业应用, 企业智能体平台争夺战升温, AI AGENT
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[区块周刊BlockWeeks](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uTVh4UnJWbVRlTmE4U19qR1M0OVpHSFQ0SmVOem8tRHJOZ3F3a0NLV0VDMm9wN25TRHNTYkJWa0ZxQms1R0dKS0FKSDJhU2s?oc=5)
 
-### 28. [B级] Terminal X matches senior investor judgment 88.6% with GPT-6.1
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.。
+### 32. [B级] Plants can speak using electricity, so this startup built an AI model to decipher their language
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
+- 检索词：Plants can speak using electrici
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/)
+
+### 33. [B级] SpaceX’s AI business is beating expectations
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
+- 检索词：SpaceX’s AI business is beating
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/)
+
+### 34. [B级] Using thousands of AI agents to uncover new leads in biological data
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 高置信度（OpenAI News）
-- 检索词：Terminal X matches senior invest, AI AGENT
+- 检索词：Using thousands of AI agents to, AI AGENT
 - 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[OpenAI News](https://openai.com/index/terminal-x)
+- 来源：[OpenAI News](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
 
-### 29. [B级] US orders federal agencies to remove China’s DeepSeek AI from their systems
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：US orders federal agencies to re
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)
-
-### 30. [B级] Yelp can now call on your behalf to check wait times at a restaurant
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Yelp can now call on your behalf
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)
-
-### 31. [B级] “吃了不烧心”刷屏，真正的“烧心”别只当玩梗
-- 类别：中文热梗 · 状态：新热 · 日期：2026-10-20
-- 摘要：“吃了不烧心”刷屏，真正的“烧心”别只当玩梗 搜狐网。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（搜狐网）
-- 检索词：“吃了不烧心”刷屏, 真正的“烧心”别只当玩梗
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[搜狐网](https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3Q4YmJ6dFhCU2FLQlJxaFlvNVFqbkRpbW9sUGI0VUx1bFBPbzBBVEFmTTJTb3RPN3E4TWl4YlU3OGdnYTh3YTVUbDRQQy1iN1FpbDdvVU1iamY4NFNRU2RrVTdyTFVFeGc2eFBTREJlcnExaWJ5YU5GdThmUXk5aXNyblZfdEthZjFzTjVZdw?oc=5)
-
-### 32. [B级] 中国存储重大突破干崩了美国股市吗？
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：中国存储重大突破干崩了美国股市吗？ 风闻。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（风闻）
-- 检索词：中国存储重大突破干崩了美国股市吗
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[风闻](https://news.google.com/rss/articles/CBMidEFVX3lxTFB4SGxPN2xLM3dPMVpzdkZMc0NzbzA3VXRpa0gzUHNvdjhIM2xsTjNDZEJiMFJGbWx4djlTTUZGV1ptRjE0ZGpCMm9NY1pJLWlwbDluTDVZa21IWDdRcm1CTzQydXp3Mkh1d0c4VkZIR1l4aVY0?oc=5)
-
-### 33. [B级] 人形机器人，几大核心催化
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：人形机器人，几大核心催化 36Kr。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（36Kr）
-- 检索词：人形机器人, 几大核心催化
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[36Kr](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FcXBqbTFIcmNYMXVLVGxsLVpobk5kT2QzRTBKMGx4WkI5cm1JN0FYWUJMazV0UlRncm41MjhsYndwZTFRNE5helpPVlAxZw?oc=5)
-
-### 34. [B级] 今年四足机器人出货量预计突破9万台……中国厂商份额超90%
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：今年四足机器人出货量预计突破9万台……中国厂商份额超90% 아시아경제。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（아시아경제）
-- 检索词：今年四足机器人出货量预计突破9万台……中国厂商份额超90%
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[아시아경제](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HNEM4elhOSTdGY0g0Q3lqNHAtSUdDUmdZOUx3dldvb1NUSzBwcFNsQ0ZBUlVZMWx1Z3JyREtaYklBUTRSVXliS0hZdW9rbGxrbjF1Qy1FT210RFF0MHVaenlQdkM?oc=5)
-
-### 35. [B级] 全球首个多AI Agent渗透平台RedAgents正式发布
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：全球首个多AI Agent渗透平台RedAgents正式发布 CSDN。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（CSDN）
-- 检索词：全球首个多AI Agent渗透平台RedAgents正式发布, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[CSDN](https://news.google.com/rss/articles/CBMiXkFVX3lxTE91a21hcEhJaUg4NGkxeG1rVnpKQmZZTENTcno5WTd1bGFUdzg5WDR3ak4zQkI3Z3RtdTJva3VMajhRMDNEM2lZTEI2cGZBTmJRLUktcFRTUlhiNlVDc3c?oc=5)
-
-### 36. [B级] 六项国标发布后首个交易日，宇树科技盘中涨超10%，市值重回1900亿
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：六项国标发布后首个交易日，宇树科技盘中涨超10%，市值重回1900亿 机器人大讲堂。
+### 35. [B级] 三星在测一台不下班的机器人，可能明年CES上亮相
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：三星在测一台不下班的机器人，可能明年CES上亮相 机器人大讲堂。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 低置信度（机器人大讲堂）
-- 检索词：六项国标发布后首个交易日, 宇树科技盘中涨超10%, 市值重回1900亿
+- 检索词：三星在测一台不下班的机器人, 可能明年CES上亮相
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[机器人大讲堂](https://news.google.com/rss/articles/CBMiTkFVX3lxTE05MmZBbzBxSkg3TU5Ra1h1dTJEZ1pEVEJNMUR3V05wOFM3RGwtc0VoX1hvd0xHOEJ2TUdxR3RlNG01YlZKZjltOWZiaVFnUQ?oc=5)
+- 来源：[机器人大讲堂](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MM0Via3lqZFN4WFMtQUxSNlplS3JzLWcybzdTV2ZyV3pIOVRJUGJuYkdFdE5OX0ltX2Jua3hDV0YxeURxZ0dPeVYyaEJqdw?oc=5)
 
-### 37. [B级] 具身智能卖的不是机器人，是一个永远调不完的适配
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：具身智能卖的不是机器人，是一个永远调不完的适配 机器人大讲堂。
+### 36. [B级] 中文指令操控AI Agent 有骇客入侵美日加澳逾百网站 每次成功攻击成本仅约204令吉
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：中文指令操控AI Agent 有骇客入侵美日加澳逾百网站 每次成功攻击成本仅约204令吉 www.chinapress.com.my。
+- 为什么值得看：该条目具备跨语言传播，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（www.chinapress.com.my）
+- 检索词：中文指令操控AI Agent 有骇客入侵美日加澳逾百网站 每次成, AI AGENT
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：中
+- 来源：[www.chinapress.com.my](https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOWh0Um4yMzdTai1PS0Z4Q1I0TzgzdER4enFXMUlFbWdROHQyTWFzTmVPek5SNTVkTzJVcXZlSjBFOWlyamFlYW1FTGdtX2otaFhkTEVDZkI3WDdZWkxEUmFRY1RfWEZHTWk4eEN0NGJGWkpRX1R5OUxad3RnaVJzSEFwMnVIYWM4Q0FkU1FTc25IYWVDZk5PdzRIemFoRTF4OEFDWjVlN2Y2WEdjd2xTSHptMWNNcFdiMEhMVVk1UXB1Wlk4VzhBYjJHMDJVNzhzX2dvT2s4VUxBMjZGQzV2S0JZV2QySm5jalhnM0F2eXpsRVJWQWVuX3ZUMUxYOUphZmlTd2ZUUndoOWExZHZiclFNTmVnUVpUUEsyaGV5MFdoLUZnb1NWOGpLZWduclVlNEpLZ1FvZTQ5M2cwZTVVOUwxdko3YW9ianZ3SnlhWXdLUFdRWVAwc0xJSQ?oc=5)
+
+### 37. [B级] 亚太科技行业动态：人形机器人、内存市场与个股评级
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：亚太科技行业动态：人形机器人、内存市场与个股评级 富途牛牛。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（富途牛牛）
+- 检索词：亚太科技行业动态, 人形机器人、内存市场与个股评级
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[富途牛牛](https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVd5MlNYeDFSR2JqZHRsSXpkZmhLVTAxWWozTDg4c0IwdGV6QTA3R0UzNGRlNWptVzVqeDQwMXFKaWxNZnBOQzBnaTJ0NlF0V3dMQ21Zd0ZMU0ZMTC1kTW5fNFNqcmdxa3hNTmo0dFRpSmdQelNFek9NWmxNb0o0MnNkaktlNS1CWTFORXJYY21wRk1JUjl0aWUzNU1iT1dVZnJ0N19VdjlTejBxSzBjUQ?oc=5)
+
+### 38. [B级] 人形机器人进家，为什么厂商都先把尺寸做小
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：人形机器人进家，为什么厂商都先把尺寸做小 机器人大讲堂。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 低置信度（机器人大讲堂）
-- 检索词：具身智能卖的不是机器人, 是一个永远调不完的适配
+- 检索词：人形机器人进家, 为什么厂商都先把尺寸做小
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[机器人大讲堂](https://news.google.com/rss/articles/CBMiTkFVX3lxTE53Tmc1ZGpseWs1T0RlUzN2dWMyWVFTTHZ1cFhDa2dqSml1aDN0VEFWLUtKdl83cEpVdXhKZFdQTk5ma21VOWM5Y0lmTzZ1UQ?oc=5)
+- 来源：[机器人大讲堂](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFTjVVcGI0SmtOeUhwZXN4MW5JWGVSNTU4VVJZazR0SWQwN2hIc3dXVWw4bXJGblQySGRaRGtBZkQwQjZnYkR5aFBGN2xOdw?oc=5)
 
-### 38. [B级] 哈兰德表情管理最差 魔人欧布表情包素材更新
-- 类别：中文热梗 · 状态：新热 · 日期：2026-10-20
-- 摘要：哈兰德表情管理最差 魔人欧布表情包素材更新 新浪网。
+### 39. [B级] 刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发 36氪。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（新浪网）
-- 检索词：哈兰德表情管理最差 魔人欧布表情包素材更新
+- 验证：1 个独立来源 · 低置信度（36氪）
+- 检索词：刚刚, 黄仁勋柏林震撼演讲, PC已死, AI智能体时代全面爆发, AI AGENT
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[新浪网](https://news.google.com/rss/articles/CBMic0FVX3lxTFBTTW5RMURXNUZHWW1zdHhCRi1HRU9SN0FCTy1kczBJVm9kTDEyV2RYZldORXJfRm1KRkZfNU9WcEFucEVvcGRvNEx6MHZUZFRuVlFzUUxjbUFOV29XSm9RUzFNSGtFaU5YU3FIYjBZS0ZNbGM?oc=5)
+- 来源：[36氪](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uUDFWeGFCQk81VjV4NU9kcXNucHpTbk84OUFTdmNYaHJzeGw4cDhLY0F2c21lSGgzT29JOXZweFNlWTdkWVB4VHBVNW5IZw?oc=5)
 
-### 39. [B级] 国产 AI 性价比王者要换人了吗？MiniMax 来真的
-- 类别：AI 科技 · 状态：新热 · 日期：2026-10-20
-- 摘要：国产 AI 性价比王者要换人了吗？MiniMax 来真的 36Kr。
+### 40. [B级] 天奇股份攒了2万小时工业数据，把汽车产线变成机器人训练场
+- 类别：AI 科技 · 状态：新热 · 日期：2026-10-21
+- 摘要：天奇股份攒了2万小时工业数据，把汽车产线变成机器人训练场 机器人大讲堂。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（36Kr）
-- 检索词：国产 AI 性价比王者要换人了吗, MiniMax 来真的
+- 验证：1 个独立来源 · 低置信度（机器人大讲堂）
+- 检索词：天奇股份攒了2万小时工业数据, 把汽车产线变成机器人训练场
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[36Kr](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSQ1FkeEJPa00zY1NTNXE4RDRxVjJZblFGbzc1R1BVSWQxeWE2aTN0ZkhuRG93NTYtV2YtdXZfbS1NRjRPbmZTUlJveWVkQQ?oc=5)
-
-### 40. [B级] 国产算力应用实现重大突破 多项前沿成果集中发布
-- 类别：创新突破 · 状态：新热 · 日期：2026-10-20
-- 摘要：国产算力应用实现重大突破 多项前沿成果集中发布 东方财富。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（东方财富）
-- 检索词：国产算力应用实现重大突破 多项前沿成果集中发布
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QUURNMzVXVHhTeWZYLXhJdm1QZUlqM2tzSFZ2QnRLRGFEZUUtM3R0cWM2VC11cFF5VUtZVkJ5OThkdUZEaVdCa2dmTkd5aGRiR1kyaUkzTzF3S1VVbUJ4ZWpmM3NHUQ?oc=5)
+- 来源：[机器人大讲堂](https://news.google.com/rss/articles/CBMiTkFVX3lxTE84d3FXV1ZCNmVheVp6WDBtZzFHNERYYlFVZEJCbmF3VUdEdVRScTFYelhjbjF3aFN4MV85YjdKN2c3WlE4ajdnRnBFeEJCdw?oc=5)
 
 ## 人工核验提醒
 
