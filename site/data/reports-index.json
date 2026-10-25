@@ -1,6 +1,10 @@
 {
   "reports": [
     {
+      "date": "2026-10-24",
+      "title": "Signal Desk · 2026-10-24"
+    },
+    {
       "date": "2026-10-23",
       "title": "Signal Desk · 2026-10-23"
     },
@@ -753,5 +757,5 @@
       "title": "LIU冀杨的科技日报"
     }
   ],
-  "lastUpdated": "2026-10-23"
+  "lastUpdated": "2026-10-24"
 }
