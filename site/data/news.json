@@ -1,21 +1,77 @@
 {
   "demo": false,
-  "reportDate": "2026-11-06",
-  "generatedAt": "2026-11-07T11:22:58+08:00",
-  "headline": "昨日捕捉到 11 条经过分层验证的 AI 与互联网文化信号",
-  "summary": "优先查看：Meta Muse；Airbnb says it’s launching an AI travel agent in the first half of 2027；Amazon will let you text Alexa your shopping list。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。",
-  "sourceCount": 3,
+  "reportDate": "2026-11-07",
+  "generatedAt": "2026-11-08T10:51:26+08:00",
+  "headline": "昨日捕捉到 32 条经过分层验证的 AI 与互联网文化信号",
+  "summary": "优先查看：爱疯18；Meta Muse；AI broke the cybersecurity world. What’s next?。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。",
+  "sourceCount": 20,
   "events": [
     {
-      "id": "2026-11-06-4-metamuse",
+      "id": "2026-11-07-31-爱疯18",
+      "title": "爱疯18",
+      "canonicalSignal": "爱疯18",
+      "category": "中文热梗",
+      "priority": "S",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "‘爱疯18’把现实产品发布与《爱情公寓》旧台词、胡一菲擀面杖手机画面重新接在一起。",
+      "why": "旧影视记忆有现成台词、人物和画面，现实事件提供了再次传播的触发点。",
+      "keywords": [
+        "爱疯18",
+        "胡一菲",
+        "擀面杖手机",
+        "IPHONE 18 MEME"
+      ],
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1JzZHlUUm8tbmVmYUZ1cWRURW5SdjFRWFZ5RWNySDd0eUI1c0tmVEZtc2VrSk1fcEFxVFB1SFRLMl9BejVlazl5RENWQVFON0U2Z1BQbjFfUmdtMG9tb0doNEI0Y0NGUnVzOUFpZzI3SGpRX0dCYXlrVjktX2tLamFUTVJpcEJpQlZ0ZGF5bUdzcUV0MTNpTlFyUWVOZjh1?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 06 Nov 2026 22:06:49 GMT"
+        },
+        {
+          "name": "驱动之家",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLdktzVWJ2eTVpWWZOOVJZQWJDbTNVZlhNZkU3TmNxLXJtNG1FUDNqaUZHS3Y3U0lIbElYQ3RzR3pkTWFDVXdoSjJvSXFFWU96SE81bHM1OTg?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 09:43:00 GMT"
+        },
+        {
+          "name": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5d18wT1JQWV9iRW40Mnh1ZXhjVWhiYzlTVFlVWjNMZmowbEFBWEtNQTBxTmpyaUxwY01sWGlRUlRFSUNkakJzNVVzVktOZXlzRUlPOVEtRGpFTGhTUGRR?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 06 Nov 2026 18:32:18 GMT"
+        },
+        {
+          "name": "arch-web.com.tw",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQ0lraGdRVjFNVzFBV3hYQTdRVnhPMklPN2dfaU1nYW9Zem1IS0tDM1BqaHFzbGZ2aGY0VDNJX21FX2N6OGppYzZDQWMwMzdVZTJKYkR2VEswUjVqZm9PN19DZFBheW4zaThpdWFLVUV3XzdNTVRjOTktUm5kd0JfVkNWMDdXa2FERWxTaWszdWc1LXh2WHFIa2ZQNDU2SzVXVWNIWHI2UUNYUVRMTkpKbmZUelU2VmxQNFl6RExhekpsa2d1MG1aWnRUQU1HV2t1WlMyWWVWOThHZVd6QXMteUNwSE02MFZjY1VnMXZRbmR2ZEZjRy15dUhScS10Uzc0SVkyZjZQOTNZa01tdU45cHdYMk00SGpSWk9BYW1VeUdaWjV3MlRBMQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 08:15:07 GMT"
+        }
+      ],
+      "sourceCount": 4,
+      "independentSources": [
+        "Vietnam.vn",
+        "arch-web.com.tw",
+        "新浪网",
+        "驱动之家"
+      ],
+      "verification": "4 个独立来源 · 高置信度",
+      "confidence": "高",
+      "risk": "影视版权、商标和人物形象风险",
+      "chainFit": "高"
+    },
+    {
+      "id": "2026-11-07-11-metamuse",
       "title": "Meta Muse",
       "canonicalSignal": "Meta Muse",
       "category": "AI 科技",
       "priority": "A",
       "status": "持续传播",
-      "occurredAt": "2026-11-06",
+      "occurredAt": "2026-11-07",
       "firstSeenAt": "2026-11-01",
-      "recentPropagationAt": "2026-11-06",
+      "recentPropagationAt": "2026-11-07",
       "summary": "Meta Muse 被描述为可以在桌面环境中执行操作的 AI 助手，叙事重点从‘会聊天’转向‘AI 有手了’。",
       "why": "‘AI 有手了’是短而直观的产品叙事；桌面操作、文件和应用控制也给二创留下了明确动作。",
       "keywords": [
@@ -25,15 +81,15 @@
       ],
       "sources": [
         {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
           "tier": "主流科技媒体",
-          "publishedAt": "Thu, 05 Nov 2026 19:48:28 +0000"
+          "publishedAt": "2026-11-06T13:10:10-05:00"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "TechCrunch AI"
+        "The Verge AI"
       ],
       "verification": "1 个独立来源 · 中置信度",
       "confidence": "中",
@@ -41,59 +97,26 @@
       "chainFit": "高"
     },
     {
-      "id": "2026-11-06-3-airbnbsaysitslaunchinganaitravelagentinthe",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "canonicalSignal": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "category": "创新突破",
-      "priority": "B",
-      "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.。",
-      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
-      "keywords": [
-        "Airbnb says it’s launching an AI",
-        "AI AGENT"
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Thu, 05 Nov 2026 22:40:55 +0000"
-        }
-      ],
-      "sourceCount": 1,
-      "independentSources": [
-        "TechCrunch AI"
-      ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
-      "chainFit": "待核验"
-    },
-    {
-      "id": "2026-11-06-7-amazonwillletyoutextalexayourshoppinglist",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "canonicalSignal": "Amazon will let you text Alexa your shopping list",
+      "id": "2026-11-07-7-aibrokethecybersecurityworldwhatsnext",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "canonicalSignal": "AI broke the cybersecurity world. What’s next?",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping 。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed tal。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Amazon will let you text Alexa y"
+        "AI broke the cybersecurity world"
       ],
       "sources": [
         {
           "name": "The Verge AI",
-          "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+          "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
           "tier": "主流科技媒体",
-          "publishedAt": "2026-11-06T09:00:00-05:00"
+          "publishedAt": "2026-11-07T10:00:00-05:00"
         }
       ],
       "sourceCount": 1,
@@ -106,59 +129,58 @@
       "chainFit": "待核验"
     },
     {
-      "id": "2026-11-06-10-australianuniversitiesarecreatingainativeg",
-      "title": "Australian universities are creating AI-native graduates",
-      "canonicalSignal": "Australian universities are creating AI-native graduates",
+      "id": "2026-11-07-12-aiisthenewdatingdealbreaker",
+      "title": "AI is the new dating dealbreaker",
+      "canonicalSignal": "AI is the new dating dealbreaker",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started s。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Australian universities are crea"
+        "AI is the new dating dealbreaker"
       ],
       "sources": [
         {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "tier": "官方源",
-          "publishedAt": "Thu, 05 Nov 2026 17:00:00 GMT"
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+          "tier": "主流科技媒体",
+          "publishedAt": "2026-11-06T12:00:00-05:00"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "OpenAI News"
+        "The Verge AI"
       ],
-      "verification": "1 个独立来源 · 高置信度",
-      "confidence": "高",
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
       "risk": "自动聚合，仍需核对原始来源与语境",
       "chainFit": "待核验"
     },
     {
-      "id": "2026-11-06-6-axiommathwantstokeepaislopoutofmathematics",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "canonicalSignal": "Axiom Math wants to keep AI slop out of mathematics",
+      "id": "2026-11-07-4-afterthemidtermsistheaiindustryinforarough",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "canonicalSignal": "After the midterms, is the AI industry in for a rough two years?",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Axiom Math wants to keep AI slop",
-        "AI AGENT"
+        "After the midterms"
       ],
       "sources": [
         {
           "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
           "tier": "主流科技媒体",
-          "publishedAt": "Thu, 05 Nov 2026 16:16:45 +0000"
+          "publishedAt": "Fri, 06 Nov 2026 17:23:52 +0000"
         }
       ],
       "sourceCount": 1,
@@ -171,64 +193,390 @@
       "chainFit": "待核验"
     },
     {
-      "id": "2026-11-06-9-measuringhowaiagentshandleeverydaywetlabsc",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "canonicalSignal": "Measuring how AI agents handle everyday wet-lab science",
+      "id": "2026-11-07-10-allthelatestupdatesonaidatacenters",
+      "title": "All the latest updates on AI data centers",
+      "canonicalSignal": "All the latest updates on AI data centers",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bil。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Measuring how AI agents handle e",
-        "AI AGENT"
+        "All the latest updates on AI dat"
       ],
       "sources": [
         {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "tier": "官方源",
-          "publishedAt": "Fri, 06 Nov 2026 00:00:00 GMT"
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+          "tier": "主流科技媒体",
+          "publishedAt": "2026-11-06T15:02:22-05:00"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "OpenAI News"
+        "The Verge AI"
       ],
-      "verification": "1 个独立来源 · 高置信度",
-      "confidence": "高",
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
       "risk": "自动聚合，仍需核对原始来源与语境",
       "chainFit": "待核验"
     },
     {
-      "id": "2026-11-06-5-openaireleasedanewcybersecuritymodelisthat",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "canonicalSignal": "OpenAI released a new cybersecurity model. Is that enough?",
+      "id": "2026-11-07-9-chinareportedlyrecruitedaiexectospyonjense",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "canonicalSignal": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially 。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "China reportedly recruited AI ex"
+      ],
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "tier": "主流科技媒体",
+          "publishedAt": "2026-11-06T18:00:44-05:00"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "The Verge AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-29-cloudflare与voidzero联合推出tsrs由ai生成的typescrip",
+      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "canonicalSignal": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版 InfoQ.cn。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "Cloudflare 与 VoidZero 联合推出 tsrs",
+        "由 AI 生成的 TypeScript 编译器 Rust 移植版"
+      ],
+      "sources": [
+        {
+          "name": "InfoQ.cn",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RLNUJOd21KblI3VFBndlVXT19kZzFhM1diMk9WV0tJUVBRbU1SUXM3a3F2YUcxVUtCaGNVWF9SV01QUHZySjdEQllnV3ZFbXZrMS1ybENqc1gzb25nWDNlb3I0bkVxcUdQS3lWZ1hqZUJUX2IwT0YtTlBpaVRUb19VWTYydFBTdmI0?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 03:15:04 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "InfoQ.cn"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-0-crusoesellstroubledwyomingdatacenterprojec",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "canonicalSignal": "Crusoe sells troubled Wyoming data center project to Google",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "Crusoe sells troubled Wyoming da"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+          "tier": "主流科技媒体",
+          "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "TechCrunch AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-27-cyberwiios如何驾驭大模型在ot侧跨越幻觉与失控aicon北京",
+      "title": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon 北京",
+      "canonicalSignal": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon 北京",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon 北京 InfoQ.cn。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "CyberwIIOS"
+      ],
+      "sources": [
+        {
+          "name": "InfoQ.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQTkdwVm5ibG1uVEFsdzRRdUpKMnhkdTZRTXlRMlNKaHQ1WGFUZVVHcFpaZVhBVXFYRml0VWN1a2dNQ3BPa0w4bWNvb3dPZHF0LUN5N05yRXlQWWgxb3c?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 06:42:15 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "InfoQ.cn"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-28-dario高喊ai刹车altman马斯克罕见同队支持杨立昆翻旧账7年前你就这么吓人",
+      "title": "Dario 高喊 AI 刹车，Altman、马斯克罕见同队支持，杨立昆翻旧账：7年前你就这么吓人",
+      "canonicalSignal": "Dario 高喊 AI 刹车，Altman、马斯克罕见同队支持，杨立昆翻旧账：7年前你就这么吓人",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Dario 高喊 AI 刹车，Altman、马斯克罕见同队支持，杨立昆翻旧账：7年前你就这么吓人 36氪。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "Dario 高喊 AI 刹车",
+        "Altman、马斯克罕见同队支持",
+        "杨立昆翻旧账",
+        "7年前你就这么吓人"
+      ],
+      "sources": [
+        {
+          "name": "36氪",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NHNzYXlrX0JIV1pIcGZ1aVlOalZCbzYyRno0aU5XSms4QXRwTjdBVGZMcjBFc1p3bWxYaUpRel9JNFRQdmlLTjhkUjFUUQ?oc=5",
+          "tier": "中文社区媒体",
+          "publishedAt": "Sat, 07 Nov 2026 04:15:01 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "36氪"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-3-howabluewavemidtermmightreshapetheaiindust",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "canonicalSignal": "How a Blue Wave midterm might reshape the AI industry",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "How a Blue Wave midterm might re"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "tier": "主流科技媒体",
+          "publishedAt": "Fri, 06 Nov 2026 18:00:00 +0000"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "TechCrunch AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-1-hundredsofartexaihackingtoolsfoundpublicly",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "canonicalSignal": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "Hundreds of Artex AI hacking too"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "tier": "主流科技媒体",
+          "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "TechCrunch AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-2-metaintroducesspacesanewwaytocollaboratewi",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "canonicalSignal": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "Meta introduces Spaces",
+        "AI AGENT"
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "tier": "主流科技媒体",
+          "publishedAt": "Fri, 06 Nov 2026 18:44:20 +0000"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "TechCrunch AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-5-nytcookingsaiassistantsavedmyweeknightchic",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "canonicalSignal": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly bat。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "but almost ruined my cake"
+      ],
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+          "tier": "主流科技媒体",
+          "publishedAt": "2026-11-07T10:50:00-05:00"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "The Verge AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-16-nobellaureatemichaellevittaiismakinginnova",
+      "title": "Nobel Laureate Michael Levitt: AI Is Making Innovation Cheaper, but Human Judgment Still Matters",
+      "canonicalSignal": "Nobel Laureate Michael Levitt: AI Is Making Innovation Cheaper, but Human Judgment Still Matters",
       "category": "创新突破",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Nobel Laureate Michael Levitt: AI Is Making Innovation Cheaper, but Human Judgment Still Matters 21财经。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "OpenAI released a new cybersecur"
+        "Nobel Laureate Michael Levitt",
+        "AI Is Making Innovation Cheaper",
+        "but Human Judgment Still Matters"
       ],
       "sources": [
         {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Thu, 05 Nov 2026 19:06:12 +0000"
+          "name": "21财经",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenpGZ1FENlpVaHBWVU0yRUo4NEdQV1VKVGIycHdVaFJMR2dkT2YxeHU3bzFIeHZSdGw1RUVYSWx1M25nX2d4U2N6T1k3b25QU2tBZEJRMnNDRGpIRUlseEFEeEM2ckpOQzZYejdzS0tKYTYyenJZS0dmTkN2UmEtLXJ2bzEySDhsTGdpRDJ1UQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 11:04:00 GMT"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "TechCrunch AI"
+        "21财经"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-6-theusletnvidiasellchipstoanemptyofficeinch",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "canonicalSignal": "The US let Nvidia sell chips to an empty office in China",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list o。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "The US let Nvidia sell chips to"
+      ],
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "tier": "主流科技媒体",
+          "publishedAt": "2026-11-07T10:43:45-05:00"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "The Verge AI"
       ],
       "verification": "1 个独立来源 · 中置信度",
       "confidence": "中",
@@ -236,132 +584,504 @@
       "chainFit": "待核验"
     },
     {
-      "id": "2026-11-06-2-paloaltonetworksintalkstobuyaiagentsecurit",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "canonicalSignal": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "id": "2026-11-07-8-whyanewreportonanthropicautomatingaidevelo",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "canonicalSignal": "Why a new report on Anthropic automating AI development is alarming researchers",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report publis。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Palo Alto Networks in talks to b",
+        "Why a new report on Anthropic au"
+      ],
+      "sources": [
+        {
+          "name": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "tier": "主流科技媒体",
+          "publishedAt": "2026-11-07T07:30:00-05:00"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "The Verge AI"
+      ],
+      "verification": "1 个独立来源 · 中置信度",
+      "confidence": "中",
+      "risk": "自动聚合，仍需核对原始来源与语境",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-26-一进b站满眼厉娜厉娜体句式爆火无数二创剪辑上线这个梗真的太上头了",
+      "title": "一进B站满眼厉娜！厉娜体句式爆火，无数二创剪辑上线，这个梗真的太上头了",
+      "canonicalSignal": "一进B站满眼厉娜！厉娜体句式爆火，无数二创剪辑上线，这个梗真的太上头了",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "一进B站满眼厉娜！厉娜体句式爆火，无数二创剪辑上线，这个梗真的太上头了 手机新浪网。",
+      "why": "该条目具备固定口号、可复制句式，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "一进B站满眼厉娜",
+        "厉娜体句式爆火",
+        "无数二创剪辑上线",
+        "这个梗真的太上头了"
+      ],
+      "sources": [
+        {
+          "name": "手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QczBTdWg3QTFwNThEOS1FbTM2RVBfWXEwT2JuRHBzTEJOOTE5QXVtM3FsY2UwMUVQazI5REdiUWZISFRvc0t1VHdCd3JPZlN0bDdRdFdnV1ZmclVYYzJSUjYyTHowU0J3bTRmQnBqdHhCQjQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 02:46:13 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "手机新浪网"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "中"
+    },
+    {
+      "id": "2026-11-07-30-中国具身出海不止把机器人卖到海外",
+      "title": "中国具身出海，不止把机器人卖到海外",
+      "canonicalSignal": "中国具身出海，不止把机器人卖到海外",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "中国具身出海，不止把机器人卖到海外 36氪出海。",
+      "why": "该条目具备跨语言传播，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "中国具身出海",
+        "不止把机器人卖到海外"
+      ],
+      "sources": [
+        {
+          "name": "36氪出海",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QSmVQZ2owLVU5cHZrcElLNU9TNGc4RXlDcTdhUVVHUVlDaWdVTFlsZG1pcjdXUjN5WEZlbVg3bldxVG8yUlE?oc=5",
+          "tier": "中文社区媒体",
+          "publishedAt": "Sat, 07 Nov 2026 03:57:40 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "36氪出海"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "中"
+    },
+    {
+      "id": "2026-11-07-22-人形机器人新闻主播亮相全球首个",
+      "title": "人形机器人新闻主播亮相 全球首个",
+      "canonicalSignal": "人形机器人新闻主播亮相 全球首个",
+      "category": "创新突破",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "人形机器人新闻主播亮相 全球首个 万维读者网。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "人形机器人新闻主播亮相 全球首个"
+      ],
+      "sources": [
+        {
+          "name": "万维读者网",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMHdnY3lhZWdtT3VFQTZjM2dKX1RvMWJlWWpjZUV2dmtmcFBDdHJsanBPOFNhWEFuMURqbWhDbXZJeE5rTlh6REdiM3owTlYwa1RvRHBNZjBpWGhlNGlheWo4TmR0Zw?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 05:38:03 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "万维读者网"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-23-厉娜热梗带飞股价芒果超媒前三季度利润跌79",
+      "title": "厉娜热梗带飞股价，芒果超媒前三季度利润跌79%",
+      "canonicalSignal": "厉娜热梗带飞股价，芒果超媒前三季度利润跌79%",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "厉娜热梗带飞股价，芒果超媒前三季度利润跌79% 东方财富。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "厉娜热梗带飞股价",
+        "芒果超媒前三季度利润跌79%"
+      ],
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByajNnUVBwbUF3eHJFSXFqSS0ybHdnS1p5cVVkUmdkLVJUbExtTUJ6aEtZa2tpb1pjejU3anRhdVUyQ09zZjd5ZXNjaVJGRGs0LVdtSUozN0NjSUxQRVpKZA?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 07:31:59 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "东方财富"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-24-大衣哥再回应南天门大将军热梗遭人谎称朋友得白血病说他捐钱有功封南天门大将军",
+      "title": "大衣哥再回应南天门大将军热梗： 遭人谎称朋友得白血病，说他捐钱有功封南天门大将军",
+      "canonicalSignal": "大衣哥再回应南天门大将军热梗： 遭人谎称朋友得白血病，说他捐钱有功封南天门大将军",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "大衣哥再回应南天门大将军热梗： 遭人谎称朋友得白血病，说他捐钱有功封南天门大将军 搜狐网。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "大衣哥再回应南天门大将军热梗",
+        "遭人谎称朋友得白血病",
+        "说他捐钱有功封南天门大将军"
+      ],
+      "sources": [
+        {
+          "name": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEt4TWtRRXp4Yzh5N3BCdG8xdDNxLWt3bF9tUEhZZV9SdlV6Sk1GMXdmNjZfcXVWZ1drQ3VJWHRkdVJZak90RWstck9DZDIyT1Z3UVdma0ZqSlFIaHNFdkpDZUFPa3BkMXZySTZrYXE4QVdFMExUWGpNcEYtMjk3ZHhmaUJCNktXU3RoTA?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 06:15:38 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "搜狐网"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-19-安波福具身智能计算平台亮相进博会临近量产",
+      "title": "安波福具身智能计算平台亮相进博会 临近量产",
+      "canonicalSignal": "安波福具身智能计算平台亮相进博会 临近量产",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "安波福具身智能计算平台亮相进博会 临近量产 机器人大讲堂。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "安波福具身智能计算平台亮相进博会 临近量产"
+      ],
+      "sources": [
+        {
+          "name": "机器人大讲堂",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TSjdxT1huOC15eW91Rk4zcTU4bXBsUS1SVmVMWEJSMkFveHI4c0VmLVgtMjZ5azA0eDVKaGtvMmZMeU1mM3RnTHFUbjNCZw?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Fri, 06 Nov 2026 18:09:15 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "机器人大讲堂"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-14-实测这堆aiagent到底哪个值得你用agent大横评",
+      "title": "实测！这堆 AI Agent，到底哪个值得你用？【Agent大横评】",
+      "canonicalSignal": "实测！这堆 AI Agent，到底哪个值得你用？【Agent大横评】",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "实测！这堆 AI Agent，到底哪个值得你用？【Agent大横评】 手机网易网。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "实测",
+        "这堆 AI Agent",
+        "到底哪个值得你用",
+        "Agent大横评",
         "AI AGENT"
       ],
       "sources": [
         {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Fri, 06 Nov 2026 06:28:32 +0000"
+          "name": "手机网易网",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iOTNZWUp2VEE3VHVxMmVOMVpBRHpDWDJYUmcwVzlPdVQxcUJrZnItd3A1TDAzZWd0ZHdCcWl4Z3dmZklwNDhvSWl2X2ROd2llQlM1NQ?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 10:25:44 GMT"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "TechCrunch AI"
+        "手机网易网"
       ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
       "chainFit": "待核验"
     },
     {
-      "id": "2026-11-06-8-partneringwithhacktrontofindvulnerabilitie",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "canonicalSignal": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "id": "2026-11-07-17-平均成功率91苹果研究团队披露机器人大脑进展调用千问模型在宇树g1上验证",
+      "title": "平均成功率91%！苹果研究团队披露机器人“大脑”进展：调用千问模型在宇树G1上验证",
+      "canonicalSignal": "平均成功率91%！苹果研究团队披露机器人“大脑”进展：调用千问模型在宇树G1上验证",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "平均成功率91%！苹果研究团队披露机器人“大脑”进展：调用千问模型在宇树G1上验证 华尔街见闻。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Partnering with Hacktron to find"
+        "平均成功率91%",
+        "苹果研究团队披露机器人“大脑”进展",
+        "调用千问模型在宇树G1上验证"
       ],
       "sources": [
         {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "tier": "官方源",
-          "publishedAt": "Fri, 06 Nov 2026 08:00:00 GMT"
+          "name": "华尔街见闻",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zUjBNU1JDeUw3YUhlRnZ1MXlPLVBUbGNNVTJsYzJaNm5LMGt2bFZIMEp0RWNVM1NQRzlENEM5TXRTeV9tVkJLbVUxT2kzQ0RoMThR?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 09:29:34 GMT"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "OpenAI News"
+        "华尔街见闻"
       ],
-      "verification": "1 个独立来源 · 高置信度",
-      "confidence": "高",
-      "risk": "自动聚合，仍需核对原始来源与语境",
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
       "chainFit": "待核验"
     },
     {
-      "id": "2026-11-06-0-rampdatashowsaispendingstallingjustasanthr",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "canonicalSignal": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "category": "AI 科技",
+      "id": "2026-11-07-15-有人一本正经撰文宣布自己用ai研究历史取得重大突破你信吗",
+      "title": "有人一本正经撰文宣布：自己用AI研究历史取得重大突破，你信吗？",
+      "canonicalSignal": "有人一本正经撰文宣布：自己用AI研究历史取得重大突破，你信吗？",
+      "category": "创新突破",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "有人一本正经撰文宣布：自己用AI研究历史取得重大突破，你信吗？ 风闻。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Ramp data shows AI spending stal"
+        "有人一本正经撰文宣布",
+        "自己用AI研究历史取得重大突破",
+        "你信吗"
       ],
       "sources": [
         {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Fri, 06 Nov 2026 15:54:47 +0000"
+          "name": "风闻",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pSVlMZ3NvWnVwSndjTmZ4YXdHTE0wSmthN1kxRk5yQ2YwV0htdG93X0FwNzBMUXJlbjdmdG1BcFZaS3hOZ3ZmS3RDMlNuaWVEWF9IdnVLbUx5V0k?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 12:55:49 GMT"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "TechCrunch AI"
+        "风闻"
       ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
       "chainFit": "待核验"
     },
     {
-      "id": "2026-11-06-1-underdogshowsoffa32mbspeechmodelinnewdemo",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "canonicalSignal": "Underdog shows off a 32MB speech model in new demo",
+      "id": "2026-11-07-13-移卡集团高级副总裁朱楚中aiagent极大提升了跨境支付的风控能力",
+      "title": "移卡集团高级副总裁朱楚中：AI Agent极大提升了跨境支付的风控能力",
+      "canonicalSignal": "移卡集团高级副总裁朱楚中：AI Agent极大提升了跨境支付的风控能力",
       "category": "AI 科技",
       "priority": "B",
       "status": "新热",
-      "occurredAt": "2026-11-06",
-      "firstSeenAt": "2026-11-06",
-      "recentPropagationAt": "2026-11-06",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.。",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "移卡集团高级副总裁朱楚中：AI Agent极大提升了跨境支付的风控能力 每日经济新闻。",
       "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
       "keywords": [
-        "Underdog shows off a 32MB speech"
+        "移卡集团高级副总裁朱楚中",
+        "AI Agent极大提升了跨境支付的风控能力",
+        "AI AGENT"
       ],
       "sources": [
         {
-          "name": "TechCrunch AI",
-          "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-          "tier": "主流科技媒体",
-          "publishedAt": "Fri, 06 Nov 2026 13:02:16 +0000"
+          "name": "每日经济新闻",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ESExkeDEzTjB3Qk9OWndaamdKLTJQMGU4emoxMlllOXRkalBhN1lCOE15YU96UUhibnNkSkNMa2dfa2lwS3FmaS1uOF9ZSHVhOEF3QWhGWDdSVTh1OHlUbFdLVm5ZOXZNcUFn?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 02:25:00 GMT"
         }
       ],
       "sourceCount": 1,
       "independentSources": [
-        "TechCrunch AI"
+        "每日经济新闻"
       ],
-      "verification": "1 个独立来源 · 中置信度",
-      "confidence": "中",
-      "risk": "自动聚合，仍需核对原始来源与语境",
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-20-苹果研究团队披露机器人大脑研究进展大脑是具身智能从演示走向实用的核心变量之一多家公司",
+      "title": "苹果研究团队披露机器人“大脑”研究进展大脑是具身智能从演示走向实用的核心变量之一多家公司已布局机器人大脑领域",
+      "canonicalSignal": "苹果研究团队披露机器人“大脑”研究进展大脑是具身智能从演示走向实用的核心变量之一多家公司已布局机器人大脑领域",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "苹果研究团队披露机器人“大脑”研究进展大脑是具身智能从演示走向实用的核心变量之一多家公司已布局机器人大脑领域 东方财富。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "苹果研究团队披露机器人“大脑”研究进展大脑是具身智能从演示走向实"
+      ],
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pRVlETV9CQjFXMThhOUhRNThJelpQdFE4ckpMN0QzRkMxV0xCOVJJdzVmQ2hYcTFXN3AtNTRwd1Q2TUo1dXg4SUJBbDVJM1BZanlxcXI1WmoyTTYxQUFaOA?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 14:33:42 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "东方财富"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-21-苹果研究团队披露机器人大脑进展单项任务测试平均成功率为91",
+      "title": "苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91%",
+      "canonicalSignal": "苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91%",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91% 21财经。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "苹果研究团队披露机器人“大脑”进展",
+        "单项任务测试平均成功率为91%"
+      ],
+      "sources": [
+        {
+          "name": "21财经",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdFZvckVVdnZHSTlQdjFNWVp1TExiMGRYRVhldHBtWTlLUktlY3pPbFRpNVpkSm9CRmJCZ2djR1dDNVB2SVVpMUZqNFZBUnIzU0VoLXBMT1VyUVVwdlRBOG9SdDJkdnJXbmM0Ym9RT19ITG1oajcteVROdVFCMzZyMkhPbkYwcEpmeVdsMXNsZw?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 09:54:51 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "21财经"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-25-观察后会友期热梗画地为牢只是朴素的情感表达",
+      "title": "观察 | 后会友期热梗画地为牢只是朴素的情感表达",
+      "canonicalSignal": "观察 | 后会友期热梗画地为牢只是朴素的情感表达",
+      "category": "中文热梗",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "观察。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "观察",
+        "后会友期热梗画地为牢只是朴素的情感表达"
+      ],
+      "sources": [
+        {
+          "name": "手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOcjdEc25ibkxfUDY3d2c0ZFF4dWs5UDZicjhCUE51QnM3dGJ3NkFhaHU1RU5HOVZ5VWI2Zmg1UXRBZGFMQ0szVk1LYzhZNTNvR3hSUnNOaHBSRlRlaktvZ1BYS2pfNFdpMWNEQUZpb1Q?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 10:17:59 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "手机新浪网"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
+      "chainFit": "待核验"
+    },
+    {
+      "id": "2026-11-07-18-马斯克特斯拉optimus机器人考虑只租不卖生产力是人类的5倍",
+      "title": "马斯克：特斯拉Optimus机器人考虑只租不卖，生产力是人类的5倍",
+      "canonicalSignal": "马斯克：特斯拉Optimus机器人考虑只租不卖，生产力是人类的5倍",
+      "category": "AI 科技",
+      "priority": "B",
+      "status": "新热",
+      "occurredAt": "2026-11-07",
+      "firstSeenAt": "2026-11-07",
+      "recentPropagationAt": "2026-11-07",
+      "summary": "马斯克：特斯拉Optimus机器人考虑只租不卖，生产力是人类的5倍 新浪财经_金融信息服务商。",
+      "why": "该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。",
+      "keywords": [
+        "马斯克",
+        "特斯拉Optimus机器人考虑只租不卖",
+        "生产力是人类的5倍"
+      ],
+      "sources": [
+        {
+          "name": "新浪财经_金融信息服务商",
+          "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQVXNoWVNlaXE3bWh4bEdrTFZiUl9aMEpwaTNBRkltaUlXOFlYZGZhUUJjUV95YkQ5N2JHdjRpZmxYWkdqdmVCVzVOVzBXcThEbmtIbDBrMGRSbGI4ZlVVYUlRT3VwLWtNRHAydDhrcU0zZXVvRFVocUpUZHk2NTNTNXRCd2RKQ3NwWnQ4dl9WNmZ5bFY5VTBqbmpqWHJwNkpNQTY0bklmLWN4SnVyNURLMWt5T1lXeGZ3M0xBcWwtUGQzc2M3bkg5elZFRTZ0Z01JWHY0U2FYSGVJRnFCTEhXclNSSTQyOHRZZjNKU3lydDByTVJtcjJRMm8zUFpDTXJTRzFJcHlFZjZES1hCeVQwbElDWE5ySUtWT0diSm1EblM5RmZzaWdabV80SFQ0Z2RHMjdoSkM2N3lFbWhST1RLVkVOOHFEeVNrTWJSQ1FGa21LMFAtUFEycUtmR0s2ei1zRkdwUmVkSDZHaDBMWThxRnNCdmdMbzlqR0JHMXJWdnFxV1ZSRWtySjl6WWU5QWRHNGtRdzZWZng5aEhqMC1J?oc=5",
+          "tier": "聚合发现",
+          "publishedAt": "Sat, 07 Nov 2026 09:37:32 GMT"
+        }
+      ],
+      "sourceCount": 1,
+      "independentSources": [
+        "新浪财经_金融信息服务商"
+      ],
+      "verification": "1 个独立来源 · 低置信度",
+      "confidence": "低",
+      "risk": "单一来源，需人工核验原文和传播范围",
       "chainFit": "待核验"
     }
   ]
