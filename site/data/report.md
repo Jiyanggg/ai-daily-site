@@ -1,296 +1,152 @@
-# Signal Desk · 2026-11-20
+# Signal Desk · 2026-11-21
 
-优先查看：Meta Muse；爱疯18；第十一届世界智能制造博览会开启 机器人云集南京展科技魅力。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。
+优先查看：爱疯18；Meta Muse；2026年下半年值得关注的美股机器人概念股。先核对独立来源、原始发布时间和链上创建时间，再判断是否值得继续追踪。
 
 ## 今日重点关注
 
-### 1. [S级] Meta Muse
-- 类别：AI 科技 · 状态：再热 · 日期：2026-11-20
-- 摘要：Meta Muse 被描述为可以在桌面环境中执行操作的 AI 助手，叙事重点从‘会聊天’转向‘AI 有手了’。
-- 为什么值得看：‘AI 有手了’是短而直观的产品叙事；桌面操作、文件和应用控制也给二创留下了明确动作。
-- 验证：4 个独立来源 · 高置信度（Meteora Web, TechCrunch AI, The Verge AI, 华尔街见闻）
-- 检索词：META MUSE, DESKTOP AGENT, COMPUTER USE
-- 风险：产品名、品牌和功能真伪需核验 · 链上适配度：高
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/), [The Verge AI](https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price), [华尔街见闻](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CemxmSVd3WnJIOHFUcmVETXo0SDNXNlBOeDNnWTBock5TTjlWMHY4SDFPWlZqX2FaaXF0R3JGcWd6eWhvQTY2Q1ljRVBKRUtZZ3Iw?oc=5), [Meteora Web](https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTRBbFFCRk5MR1BHN2VadFRNS1BYZHhLMHMwdmRzN2kxdXczTldzSmNBNzFhdUxSVDkwSHpNQVl5NWJxZWRQc2s1R1RSM2ZJZFNkQnJGNzFYeHhUTkV3TFpCeUlPWHdqVnZUTWtVcjJBRVpGSkw5V0lPOWhURkY5Q1hpUFhKRFZrRklLTWxiQXFZVVV2Tm1QZ3lwSQ?oc=5)
-
-### 2. [A级] 爱疯18
-- 类别：中文热梗 · 状态：持续传播 · 日期：2026-11-20
+### 1. [S级] 爱疯18
+- 类别：中文热梗 · 状态：持续传播 · 日期：2026-11-21
 - 摘要：‘爱疯18’把现实产品发布与《爱情公寓》旧台词、胡一菲擀面杖手机画面重新接在一起。
 - 为什么值得看：旧影视记忆有现成台词、人物和画面，现实事件提供了再次传播的触发点。
-- 验证：1 个独立来源 · 低置信度（诗华日报）
+- 验证：8 个独立来源 · 高置信度（Notebookcheck CN, VOI.ID, Vietnam.vn, arch-web.com.tw, cnBeta.COM, آي-فون إسلام, 手机新浪网, 驱动之家）
 - 检索词：爱疯18, 胡一菲, 擀面杖手机, IPHONE 18 MEME
 - 风险：影视版权、商标和人物形象风险 · 链上适配度：高
-- 来源：[诗华日报](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tZ3Q3aG4yaFRRRXNGWk94b1J2NGM4S1lRVFN1NVJDam5yMGFpNjV3aFI0ZmdIVEVES3N6bk9xd2VfbjRqTzFDRDU5QUJKUQ?oc=5)
+- 来源：[驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoREl1NGV5eXJJY0FXR2JyNkM1UzRmSHpUY3FJZEt0VE8xejZ2RUo2S3BuaVRSUjZWQjExSlpad1BPV0JhZlIwZWc2NDRGM3RFT2xDa1Zac1U?oc=5), [cnBeta.COM](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYU1JFOHkwWHhRNk1aM2w0X3ZULURrNHFUUTVrcThSa2VSWW1tcWhFdml1SXhBM0c2d0RLcDQzaVh2eF82VVVqVURIV3otUFhaaXpQMFpzSWFtWnUxcTdZeA?oc=5), [آي-فون إسلام](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVE1QQU5TclM4YU1fOEZiX2hvTW44Nks1T0U5YXlWNkZTb2ZKc0V2dkJlcV9mcE1nRDNXcFZRMF9EN3JqeTVlckxDNUhYSjhHT0oxRk80ZFNvUDB1MmJKbVZzQzNOcDBOREVFazJ1UVFyR2Z5UmtZRjRQU3FxRl82Y3UyNXN6NGtJbm1ud1dUdDNHd3ZEQzRWLVEzVFI2cnpkUXgxWllKWFp0c05uZkEzZTI3ei1MVmk5VmFB?oc=5), [Notebookcheck CN](https://news.google.com/rss/articles/CBMiekFVX3lxTE9CMkZqelVWRHZfSVpFVWxGWUkzQTktdm9hZm1yYTE4N1lzNXcxUnJZSjRELVI2Z1c0T09QSldBOVpjNFg5eW1WWktSZWVyYXNxZDFPV2FrbzNHZWNOYzN2S0EtYnNKSmpGcWVjOFZmUkVoTEYwYmVERl9R?oc=5), [手机新浪网](https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzQzJDc0twUlZXazZQS0taRVRjUGxWUUlleUhnUEhITnhjc1p3T2E4TzNUbjljZ1UyTjhpSVV4ZjFKdmNMaUI0Z19SZ0ZjR2tUUFRkd0lOdlFHbjBNWl9Z?oc=5), [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUs3d2RDdjBXUm5MSUF5N3VkV0YxbTVmOE9lb3FNeFN5VTdod2ZOQi1PWFhyUTJMQkhKN0lmcHFWcnU1N3NKTWxqRk1Zb0QxQW1BNkhYYkl0OWVuQlhNYU1BdWNGQThPMTByTk92M0RVU2hqTkNVdEs1VlRGLXdXeHljM3lRRjZS?oc=5), [arch-web.com.tw](https://news.google.com/rss/articles/CBMiugJBVV95cUxQOFl5ZW5uVjYxSE5KT19kTzk2bGFKWVU0T0IzSVNKdlFJSjRzbHRSOGMwaDZFU1hRSGRHUEFPajNoSGx2VWRUVDgzV2NDcFRObW9jcUZYcjUzYVhJWTlVaEpqcVkxYzVoVi1fTDZmS3ZCZlhSUTAxMmYzTEMzMFViTEc1dGp1ODFaWjV1ZXR3UDRUdWw3Y3BlaE1iQTNhODVVd2NfN3FNUUplR3FZb1Flb2c1S01sUHp1U3cxcl80RVIySUtUSWZ0VTdUUGlTTTRTS1NkejVXZmk4b0YyOVIxelJFbEUxUjRJb1VFZ24xLUhFUm1UYzQ5MEh0Wks0bkEzU0pTLWRlRDk5Rk5NR2lMRE9kUlJRYVNscS1TQVJnaGtVazdkY3BmOVJrNEpYaF9kbFYwRFV6NGd2UQ?oc=5), [VOI.ID](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtejFYVndEMTFwOF9sdENidVRVUzdDUnhvbGFHcUtRME5qdlpuVmx0cm01dkVHNEpfWTByV1daUGd2Q0pZUXNJZ1ZrbktWRF9rOWN1cWYza3dWZW5aR2M2RWxpRVltWnBQOUQ4QjE1RC1JTm5tMllV?oc=5)
 
-### 3. [B级] 第十一届世界智能制造博览会开启 机器人云集南京展科技魅力
-- 类别：创新突破 · 状态：新热 · 日期：2026-11-20
-- 摘要：第十一届世界智能制造博览会开启 机器人云集南京展科技魅力 旅日侨网。
-- 为什么值得看：该条目具备明确动作，可能形成可复述的社区叙事；已有多个独立来源交叉出现。
-- 验证：2 个独立来源 · 高置信度（南美侨报网, 旅日侨网）
-- 检索词：第十一届世界智能制造博览会开启 机器人云集南京展科技魅力
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：中
-- 来源：[旅日侨网](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnlJZXgwVHZGbno5NkhGMl9XNTBMVFhMSHNCODVRRnR3YnZwaVRKRnRiTGVSc3ZKeHM0M0V3LS1fN180TTh5REhNbDdmMW1YT0VHdW44b3FDcnJCRXdfeUJkaEc5WTVYQnVWSThoRTVrR1ZoRGk1TjNsTXQ2SEZESTluUW5ncEdiNEE?oc=5), [南美侨报网](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVExN0FPUEZtSEdYUkhwaENkZy1RSUFKdk82dmpVRXhwUzd0VWhibV9sTWtMOWRWaFplUl8yZmVVZFhQQmo5aUp6R3NDekxjOWlZc1BQQ0pBdXprdk1GeWRpbEVMSU5WNWxDeE5lQU1aLTd2YloycmFmRUwtQk1SdkFkYmRHYm5fR2Fr?oc=5)
+### 2. [A级] Meta Muse
+- 类别：AI 科技 · 状态：持续传播 · 日期：2026-11-21
+- 摘要：Meta Muse 被描述为可以在桌面环境中执行操作的 AI 助手，叙事重点从‘会聊天’转向‘AI 有手了’。
+- 为什么值得看：‘AI 有手了’是短而直观的产品叙事；桌面操作、文件和应用控制也给二创留下了明确动作。
+- 验证：2 个独立来源 · 高置信度（CryptoRank, 新浪财经）
+- 检索词：META MUSE, DESKTOP AGENT, COMPUTER USE
+- 风险：产品名、品牌和功能真伪需核验 · 链上适配度：高
+- 来源：[新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTE1qeTN6ZTdoY0k0R2VjRmdRcmZ0NXFGaU02aHVUdHB2a3QtdnBtQjNrNXJSdElCQUpiTDZVdkExQ0hGMXJwS1loOHVad25kdTcxSkV6Vkc5WlRYekhxNzlWa3JKWlpHbmJ2OG81Z1loQTdSOERVSDMyUlh3ejUwNkk?oc=5), [CryptoRank](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zRUpVN0NGS3hqX0dPbU1XWEt6MDhpZnhXMmdici1tQU5LQVdjX2NvcTdMZldTQTlBVWk3V3dremtGVldqaXpUQzJmbmlCWHZIWmhhZnA0RnQ?oc=5)
 
-### 4. [B级] AI Agent 元年，苹果是最后一个入局的巨头
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：AI Agent 元年，苹果是最后一个入局的巨头 爱范儿。
+### 3. [B级] 2026年下半年值得关注的美股机器人概念股
+- 类别：AI 科技 · 状态：新热 · 日期：2026-11-21
+- 摘要：2026年下半年值得关注的美股机器人概念股 TradingKey。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（爱范儿）
-- 检索词：AI Agent 元年, 苹果是最后一个入局的巨头, AI AGENT
+- 验证：1 个独立来源 · 低置信度（TradingKey）
+- 检索词：2026年下半年值得关注的美股机器人概念股
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[爱范儿](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtTTZIMFZIZzI5VTNVYVdqM3AzMm14cFZlcU40Si1qWWdKQnRaa1B1cy1sc1E0WVRObzNLUExpUEpSSDQ?oc=5)
+- 来源：[TradingKey](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnNsOW5ZNXVoMlAxenlsZDF1STM3dWRuQ182NXl3LUJJMXRKVS1FQWQ4ajJnU3ZmUm5Mb3BfWmV1cnNrb29FOTV1emZCMFJJMTc1NENTVnVKOWhEVWtFb1hmU1NNcGJRWXh4MWxIUHFOUFRXSVU5RzZGR1h4Ylc4S1h3OHJNV3puX2FadUJ5blprZTY0U282TzR3?oc=5)
 
-### 5. [B级] AI Agent开发WorldCraft：250个智能体按需生成地球地图
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：AI Agent开发WorldCraft：250个智能体按需生成地球地图 https://zgeo.net/。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（https://zgeo.net/）
-- 检索词：AI Agent开发WorldCraft, 250个智能体按需生成地球地图, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[https://zgeo.net/](https://news.google.com/rss/articles/CBMidEFVX3lxTE9seHQxOXB3QWZObWEyY25HMUp6bkQ0WS1RYUszODRfWHBudXZMcnVnWEU1T1lDNTFiTDQxdzFyWU5vMlRnSldkVG9ZVWtVWDJVNHQ4cUZCQ01VX2RmclJTdi1qVEVwMXdTNWlxY3FFRWRJOTlR?oc=5)
-
-### 6. [B级] AI Agent芯片设计，现在到哪一步了？
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：AI Agent芯片设计，现在到哪一步了？ Sohu。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（Sohu）
-- 检索词：AI Agent芯片设计, 现在到哪一步了, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEpNdGo5a05uTWx1Si1UVG1zMWpNUXFlOGpPaTcxaHNDWnNlOHBaaUdlYVpZRWRaQUdKQXZaXzBHbGhVRVBDSnJpSkxDYjd4WDZobVJCVmpBWmk4bnJKeVh1YndFamVIalRhNEY5X1VfMHZiY3lpYVowWnlaZU9yTzZiN09JbjVmdVp2OA?oc=5)
-
-### 7. [B级] AI智能体专属数字身份来了！TheSigil ID正式上线，AI也能申领专属“身份证”
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：AI智能体专属数字身份来了！TheSigil ID正式上线，AI也能申领专属“身份证” 36Kr。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（36Kr）
-- 检索词：AI智能体专属数字身份来了, TheSigil ID正式上线, AI也能申领专属“身份证”, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sSGZOdnpmNWgyZkp1UVVZcVFxTExUQ2NIcnFNVE5kTk5hQlVNeUdwakpKLVBpRHdKcXFKcUQ2ZDU0S1VNUUotNl9yVnhfTGtrU2NV?oc=5)
-
-### 8. [B级] Agent-Reach 四层架构：AI Agent 工具调用、记忆分层与护栏实践
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Agent-Reach 四层架构：AI Agent 工具调用、记忆分层与护栏实践 CSDN。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（CSDN）
-- 检索词：Agent-Reach 四层架构, AI Agent 工具调用、记忆分层与护栏实践, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[CSDN](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhMnJxaUN3bVU0a29rVVR5Z2JVSDNMY0owRzluMW1LcmVUMmVGQWg3OV8zdE81LV91ak5TMTMxM1QxSTFCM2xlZ3lsd2NTSjUxUHFDVWxXdXptd0R4ckNV?oc=5)
-
-### 9. [B级] Apple is hiring engineers to build its own AI agent
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple 。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（The Verge AI）
-- 检索词：Apple is hiring engineers to bui, AI AGENT
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[The Verge AI](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)
-
-### 10. [B级] At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.。
+### 4. [B级] AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too
+- 类别：AI 科技 · 状态：新热 · 日期：2026-11-21
+- 摘要：Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：At Nasdaq opening bell
+- 检索词：too
 - 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
 
-### 11. [B级] Can AI help scientists identify promising drug candidates?
-- 类别：创新突破 · 状态：新热 · 日期：2026-11-20
-- 摘要：MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.。
+### 5. [B级] Can Anthropic afford to put safety first?
+- 类别：创新突破 · 状态：新热 · 日期：2026-11-21
+- 摘要：Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigan。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 高置信度（OpenAI News）
-- 检索词：Can AI help scientists identify
+- 验证：1 个独立来源 · 中置信度（The Verge AI）
+- 检索词：Can Anthropic afford to put safe
 - 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[OpenAI News](https://openai.com/index/introducing-medchembench)
+- 来源：[The Verge AI](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)
 
-### 12. [B级] Gemini on Mac can now use your computer
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Google's Gemini app for macOS now has computer use, meaning it can help you "get multi-step tasks done across your local files, desktop apps, and the web," the company says. Google suggests the feature might be useful for things like speeding up work。
+### 6. [B级] Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.
+- 类别：AI 科技 · 状态：新热 · 日期：2026-11-21
+- 摘要：Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
+- 检索词：Daniel Ek backs AI researcher’s
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
+
+### 7. [B级] Entire Git Forge：面向编码智能体重构 Git 协作方式
+- 类别：AI 科技 · 状态：新热 · 日期：2026-11-21
+- 摘要：Entire Git Forge：面向编码智能体重构 Git 协作方式 InfoQ.cn。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（InfoQ.cn）
+- 检索词：Entire Git Forge, 面向编码智能体重构 Git 协作方式, AI AGENT
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[InfoQ.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUGNpb05jWWg3X3REcTFvT0tydXhab29LZk5HNzY1aE50bkswdWRZS1VuVzBGVTk2Z3c1YUNfbzVGQklXTDJlUldHNkVZdER6MnU4eE5Dbm5fTDNCbmc?oc=5)
+
+### 8. [B级] TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon 北京
+- 类别：AI 科技 · 状态：新热 · 日期：2026-11-21
+- 摘要：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon 北京 InfoQ.cn。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（InfoQ.cn）
+- 检索词：TaoDesign 的知识工程实践, 从设计资产到 Agent 持续进化｜AICon 北京, AI AGENT
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[InfoQ.cn](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSEFBODh1ZGJQa2ZSSi1HRmphUE1ZYVNjTEw3cFJnREk2MEUybktOSzA2dlNfdEFmRENGcEx5VkdDUGx3TTRieDZiMVRaRFRRbjhCLURXU3ZpbUdzZ3c?oc=5)
+
+### 9. [B级] The most misunderstood graph in AI just got a major update
+- 类别：创新突破 · 状态：新热 · 日期：2026-11-21
+- 摘要：A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. 。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（MIT Technology Review）
+- 检索词：The most misunderstood graph in
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[MIT Technology Review](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)
+
+### 10. [B级] Trump threatens ‘tremendous tax’ for moving AI data centers outside the US
+- 类别：AI 科技 · 状态：新热 · 日期：2026-11-21
+- 摘要：President Donald Trump promised to put a "tremendous tax" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. "We're not going to allow our c。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 中置信度（The Verge AI）
+- 检索词：Trump threatens ‘tremendous tax’
+- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
+- 来源：[The Verge AI](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)
+
+### 11. [B级] 智能体 AI 架构：当前挑战与未来机遇
+- 类别：AI 科技 · 状态：新热 · 日期：2026-11-21
+- 摘要：智能体 AI 架构：当前挑战与未来机遇 InfoQ.cn。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（InfoQ.cn）
+- 检索词：智能体 AI 架构, 当前挑战与未来机遇, AI AGENT
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[InfoQ.cn](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0FaWDg5ZUhRbGE3Rmkyd2dZWjBfTk5objFmZTROS1VfT0RZMHdFQ1E4T1hxaTNYM2pQa2tBakd0Zm9aTTcxUGNUYURpZElNSVlGamJtdERVc1BYYzdFaExzVVhUNzBMTWVDZ095ZmgzOGMyWWJFRW1nUXdLWmtXOTEyNkJmaVNNUzU0?oc=5)
+
+### 12. [B级] 机器人“同台竞技”，宁企借展亮“绝活”！第十一届世界智能制造博览会上看亮点
+- 类别：创新突破 · 状态：新热 · 日期：2026-11-21
+- 摘要：机器人“同台竞技”，宁企借展亮“绝活”！第十一届世界智能制造博览会上看亮点 南京广播电视台。
 - 为什么值得看：该条目具备明确动作，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（The Verge AI）
-- 检索词：Gemini on Mac can now use your c
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：中
-- 来源：[The Verge AI](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use)
-
-### 13. [B级] Google gives Gemini the ability to use your Mac for you
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Google gives Gemini the ability, AI AGENT
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/)
-
-### 14. [B级] Google is putting AI chats right on the homepage
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks l。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（The Verge AI）
-- 检索词：Google is putting AI chats right
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[The Verge AI](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats)
-
-### 15. [B级] Google最新报告：黑客进化了！AI Agent自动挖洞，补丁刚发就被武器化
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Google最新报告：黑客进化了！AI Agent自动挖洞，补丁刚发就被武器化 PANews。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（PANews）
-- 检索词：Google最新报告, 黑客进化了, AI Agent自动挖洞, 补丁刚发就被武器化, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[PANews](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUkYxbTVpOE44ODBqVUcwTHlKNmllcGFvTV9vN2NiNGZnRHlNbXBPNDIwU2NlNTF4dnpubmJsYS1hV05xU2ctSlY4QlhkTllsYzkwMzZZcDVpY0xGd3VtWjZaeWlFSzNLMXgxaWxqSWkzSVhVRkNsT0N0Y2k0eFU?oc=5)
-
-### 16. [B级] Intuit营收增长12%，AI Agent深入企业财务，传统SaaS迎来新一轮升级
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Intuit营收增长12%，AI Agent深入企业财务，传统SaaS迎来新一轮升级 Sohu。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（Sohu）
-- 检索词：Intuit营收增长12%, AI Agent深入企业财务, 传统SaaS迎来新一轮升级, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxPaHJpWno2VkxuMEtTVzdQRU91azdlYU80ZVpFZzB2MVp5bERKU0lnQnc2ZVlhOHBNRHNmeHk5aXhNLVVNTHRWN2c4NWdFWGxzQ2dybUdBQ2JReldKNG5UTHJuNlJyTzN2Nk1rRkU4N3VNb3ZsQnV2R0tVall2QUNyLWNzOVdiMzBxNmlsVQ?oc=5)
-
-### 17. [B级] Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：report says, AI AGENT
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/)
-
-### 18. [B级] Meta’s new Muse Charm device may cost $300
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Meta’s new Muse Charm device may
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/)
-
-### 19. [B级] PICO推出空间应用分发平台Vibe Lab，支持AI Agent全流程开发与应用发布
-- 类别：创新突破 · 状态：新热 · 日期：2026-11-20
-- 摘要：PICO推出空间应用分发平台Vibe Lab，支持AI Agent全流程开发与应用发布 Sohu。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（Sohu）
-- 检索词：PICO推出空间应用分发平台Vibe Lab, 支持AI Agent全流程开发与应用发布, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUThnUXJ4Uldjd1RLU2M3NGR2bkdsTUVqUHNlbjlGRVZvTEQ1cVhfZTF1VDFueFJKRHhGdkhDZWhobDMwc1hDSXNOaUdmNTcwd3RQSHZnUU5vY0xSZ0o0anNoQUJfbzhJZE9qY3BJYXNlZjdzc1o2Wkg0X053dWlOQkppekh5enRj?oc=5)
-
-### 20. [B级] Signal is blocking Gemini and Siri AI from reading your screen
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen informatio。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（The Verge AI）
-- 检索词：Signal is blocking Gemini and Si, AI AGENT
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[The Verge AI](https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app)
-
-### 21. [B级] Six AI-powered gadgets that could make your home office smarter
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：Six AI-powered gadgets that coul
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/)
-
-### 22. [B级] The unfolding Jensen Huang scandal: a timeline
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：a timeline
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
-
-### 23. [B级] These tech outages are giving Y2K, AI agent style
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 中置信度（TechCrunch AI）
-- 检索词：AI agent style, AI AGENT
-- 风险：自动聚合，仍需核对原始来源与语境 · 链上适配度：待核验
-- 来源：[TechCrunch AI](https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/)
-
-### 24. [B级] a16z：下一个 Uber 将诞生于 AI Agent，连接机器的商业网络时代来了
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：a16z：下一个 Uber 将诞生于 AI Agent，连接机器的商业网络时代来了 PANews。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（PANews）
-- 检索词：a16z, 下一个 Uber 将诞生于 AI Agent, 连接机器的商业网络时代来了, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[PANews](https://news.google.com/rss/articles/CBMif0FVX3lxTE1qR2tqckp6MEFRMkU5MGo3YmhXWTM5X1BSbU9ld0JqRjJlNjN6eHlYV1V6TGxLRkhISjRWWHBHa0lCSTJZSUZNR3Rsb2JFX2VVcldNRnFWcnA0TVVzSjFDbWhJSEtXUTRPQkdWTk14RndDWWM4VnhpQjBLWmk3NDQ?oc=5)
-
-### 25. [B级] “Agent版arXiv”来了，936个智能体12个星期狂发近千篇论文，连同行评议都整上了
-- 类别：AI 科技 · 状态：新热 · 日期：2026-11-20
-- 摘要：“Agent版arXiv”来了，936个智能体12个星期狂发近千篇论文，连同行评议都整上了 36Kr。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（36Kr）
-- 检索词：“Agent版arXiv”来了, 936个智能体12个星期狂发近千篇论文, 连同行评议都整上了, AI AGENT
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[36Kr](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DdEpSeHYzSXNaYk1YYzNzYS12TDlSNnZZbG12VDVBMDF3WGtUYXFHdU1HMDh5dUlTVzBZSV9DZzhVUU91emp4T2ZwQmJ1dw?oc=5)
-
-### 26. [B级] 《Mezha》获悉了 Threads 上一则爆红梗图中狒狒的名字。
-- 类别：中文热梗 · 状态：新热 · 日期：2026-11-20
-- 摘要：《Mezha》获悉了 Threads 上一则爆红梗图中狒狒的名字。 Mezha.net。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（Mezha.net）
-- 检索词：《Mezha》获悉了 Threads 上一则爆红梗图中狒狒的名字
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[Mezha.net](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13ejUyTTltVGNaUHRudk5jRE5oT2gtVGVXbjliV0VEQy1jM09kZVhuTW1lNG4tazgzb0ptdjd3VkpqcnoxQk8zU2dwSThKam42MUxBTnVGU1pwcnFCSU83Ukp6cGJabU0?oc=5)
-
-### 27. [B级] 又一癌症疫苗迎来重大突破 美药企股价一度暴涨超200%
-- 类别：创新突破 · 状态：新热 · 日期：2026-11-20
-- 摘要：又一癌症疫苗迎来重大突破 美药企股价一度暴涨超200% 财联社。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（财联社）
-- 检索词：又一癌症疫苗迎来重大突破 美药企股价一度暴涨超200%
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vTUhrekJ2SU5FTU5RRDJTZ1NHeDlCbFNuQ3I5dGU1REJWSTJzTEdhOHBzVjE3NFk1ZHVWZVdlbGNheWZsM19Mcw?oc=5)
-
-### 28. [B级] 日媒：紧跟GTA6热梗，里昂晒中村敬斗13岁旧照
-- 类别：中文热梗 · 状态：新热 · 日期：2026-11-20
-- 摘要：日媒：紧跟GTA6热梗，里昂晒中村敬斗13岁旧照 懂球帝。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（懂球帝）
-- 检索词：日媒, 紧跟GTA6热梗, 里昂晒中村敬斗13岁旧照
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[懂球帝](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tS01FQTJUdWZtay0wbVdoTmU4cnhyUjNOdnR0VUktLWppYmYzM1NwVlROd2xqTUhzRlZ1SFo4cHY5eVlLdGwtM3JYUDV1aFJHYWZCc3k4Yw?oc=5)
-
-### 29. [B级] 演麦克阿瑟火成全网热梗，快68岁美国演员为何在深圳扎根20年？还自称深圳人！
-- 类别：中文热梗 · 状态：新热 · 日期：2026-11-20
-- 摘要：演麦克阿瑟火成全网热梗，快68岁美国演员为何在深圳扎根20年？还自称深圳人！ 360娱乐。
-- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（360娱乐）
-- 检索词：演麦克阿瑟火成全网热梗, 快68岁美国演员为何在深圳扎根20年, 还自称深圳人
-- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[360娱乐](https://news.google.com/rss/articles/CBMiS0FVX3lxTE10NXZuU0RRZHVXN3EzdXg1SThKdTY3bkI5NFlSUlVudUlsY2pob2xLVmJDckY5V2wxS2V1Sll6ZG5jdlNDZ00ydEs3SQ?oc=5)
-
-### 30. [B级] 灵掌机器人太空灵巧手亮相世界智能制造博览会
-- 类别：创新突破 · 状态：新热 · 日期：2026-11-20
-- 摘要：灵掌机器人太空灵巧手亮相世界智能制造博览会 雷峰网。
-- 为什么值得看：该条目具备明确动作，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（雷峰网）
-- 检索词：灵掌机器人太空灵巧手亮相世界智能制造博览会
+- 验证：1 个独立来源 · 低置信度（南京广播电视台）
+- 检索词：机器人“同台竞技”, 宁企借展亮“绝活”, 第十一届世界智能制造博览会上看亮点
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：中
-- 来源：[雷峰网](https://news.google.com/rss/articles/CBMid0FVX3lxTFBISl9rbktHSDluSnZocDNseHZqLV9TOFl2UkhzNDFUdWN3RlcybmFTeTluODM1OGhNeEZablhhTG9jSG85a3hfcUNfVFI0NVZ0ZllqdmRMaU9LeGw0bEIxT0RIY2l2dnZYdWF4NHpIbm9qaTBuclNF?oc=5)
+- 来源：[南京广播电视台](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YVzhFMlo3MTdQYWtiUF94VW5xUWVfZUNTRHdJcE1NcUc2SnFzVkY5cjZOZTFHTEt4U19aRnExNTlsbmlnMWxiXzJ2LVlSeVJZenZTSjFTU3ROenVTVmk1d2t2MGg?oc=5)
 
-### 31. [B级] 美国能源审批改革迎重大突破？伯恩斯坦：地热、电网设备有望成最大赢家 AI数据中心建设或受益
-- 类别：创新突破 · 状态：新热 · 日期：2026-11-20
-- 摘要：美国能源审批改革迎重大突破？伯恩斯坦：地热、电网设备有望成最大赢家 AI数据中心建设或受益 证券之星。
+### 13. [B级] 美国能源审批改革迎重大突破？伯恩斯坦：地热、电网设备有望成最大赢家AI数据中心建设或受益
+- 类别：创新突破 · 状态：新热 · 日期：2026-11-21
+- 摘要：美国能源审批改革迎重大突破？伯恩斯坦：地热、电网设备有望成最大赢家AI数据中心建设或受益 Moomoo。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
-- 验证：1 个独立来源 · 低置信度（证券之星）
-- 检索词：美国能源审批改革迎重大突破, 伯恩斯坦, 地热、电网设备有望成最大赢家 AI数据中心建设或受益
+- 验证：1 个独立来源 · 低置信度（Moomoo）
+- 检索词：美国能源审批改革迎重大突破, 伯恩斯坦, 地热、电网设备有望成最大赢家AI数据中心建设或受益
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[证券之星](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSYkxiNHJDUHdCOGJ0YmZoZ2syQUNtbmNsNVA1dmlJOUNqUzlMcTFXcUg5V0F4UHlXcUNaNFJwT0Z5bGdJandvcldCNno1Mi05dFF5dWJZbUQ0bWxKTFZLdWxGMzY?oc=5)
+- 来源：[Moomoo](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JX2d3bVlUX01RUlZVdUJOMmZkdk1zeUdWN1UxVE1lYkVleWJZRlVNZUhnazVKQ1FLY3UxVlFkZHphQ19xYlE2UFJqRTNrYUNDNmNEQjB6Y0ViTVM2?oc=5)
 
-### 32. [B级] 肿瘤完全消失！胰脏癌治疗获重大突破
-- 类别：创新突破 · 状态：新热 · 日期：2026-11-20
+### 14. [B级] 肿瘤完全消失！胰脏癌治疗获重大突破
+- 类别：创新突破 · 状态：再热 · 日期：2026-11-21
 - 摘要：肿瘤完全消失！胰脏癌治疗获重大突破 万维读者网。
 - 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
 - 验证：1 个独立来源 · 低置信度（万维读者网）
 - 检索词：肿瘤完全消失, 胰脏癌治疗获重大突破
 - 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
-- 来源：[万维读者网](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsYk1rcGoza1B6aVVkZU1mQV85UlowUTRrRlhhaGg4TnRHRWgtbVVjSERpLXJHWUJMR0lWTnBkSXk2V2lYMDk1MGVja25EZ1ZTQkNFaDdkNXpsMVdyMWc?oc=5)
+- 来源：[万维读者网](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tLXNFeGdiRWVDV2NBODlWUnNMNlBKOUstUGsxVkUzaWlFellWWVdMVUZ1RXZHN3UybEZZSW82TmdPenJSLUR5MVZjSVctZ1diWmc?oc=5)
+
+### 15. [B级] 胰腺癌新药传来重大突破：数据显示九成患者病情得到控制
+- 类别：创新突破 · 状态：新热 · 日期：2026-11-21
+- 摘要：胰腺癌新药传来重大突破：数据显示九成患者病情得到控制 凤凰网。
+- 为什么值得看：该条目具备主题明确，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（凤凰网）
+- 检索词：胰腺癌新药传来重大突破, 数据显示九成患者病情得到控制
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：待核验
+- 来源：[凤凰网](https://news.google.com/rss/articles/CBMiTEFVX3lxTE40N3B6aTBrcnNvUTZZWHAzVlBKcVdFVGVZRTRDa1pfYU9ES1pPTzdSVlV6NDR4OVJlTlVhS1JmT0xQanFYNm9FVzVLLTg?oc=5)
+
+### 16. [B级] 谷歌Mac版Gemini上线Computer Use功能解析 - 积墨AI
+- 类别：AI 科技 · 状态：新热 · 日期：2026-11-21
+- 摘要：谷歌Mac版Gemini上线Computer Use功能解析。
+- 为什么值得看：该条目具备明确动作，可能形成可复述的社区叙事；目前只有单一来源，先当作待核验线索。
+- 验证：1 个独立来源 · 低置信度（积墨 AI）
+- 检索词：谷歌Mac版Gemini上线Computer Use功能解析 -
+- 风险：单一来源，需人工核验原文和传播范围 · 链上适配度：中
+- 来源：[积墨 AI](https://news.google.com/rss/articles/CBMifEFVX3lxTE9xV0FDLWJCRWxmU2xFd1JsMTZ0MmhOY0E4UHRmbURucDlMallwMjlMMW4yNmppWE4zOGhDMGlZVVNtMHJueWJWTTRIbHVkNjhaOGx2YWwxOC1feUp4T3BrMWM5Q1Z5ZVZOVUpPdnBjNzdjZWdJU1h3eHRnQUs?oc=5)
 
 ## 人工核验提醒
 
